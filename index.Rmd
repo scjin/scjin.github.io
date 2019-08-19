@@ -2,7 +2,12 @@
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
-<img src="images/SJIN.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/SJIN.png" style="width:20%; border:1px solid; margin-top: 15px; margin-right: 30px" align="left">
 
+I receieved a BS in [Applied Mathematics](http://www.math.nctu.edu.tw/) from the National Chiao Tung University, and a ScM in Biostatistics from the [Johns Hopkins Bloomberg School of Public of Health](https://www.jhsph.edu/departments/biostatistics/). I completed my Ph.D. with [Alison Goate](http://labs.neuroscience.mssm.edu/project/goate-lab/) and [Carlos Cruchaga](https://neurogenomics.wustl.edu/) at the Washington University in St. Louis and a post-doctoral training with [Richard Lifton](https://www.rockefeller.edu/about/executive-leadership/president/) at Yale and Rockefeller.
 
-Hello, Website! Welcome to the world.
+I was the lead computational biologist for the whole exome/genome sequencing and array genotyping analysis working groups in the [Pediatric Cardiac Genomics Consortium](https://benchtobassinet.com/?page_id=17) and the [International Cerebral Palsy Genomics Consortium](https://icpgc.org). I developed a novel control-free statistical framework and applied this methodology to a whole exome sequencing dataset of 2,871 congenital heart disease (CHD) probands to demonstrate that ~1.8% of cases are attributed to rare transmitted mutations. I also led genomic analysis and methodology development in several genetic studies of complex diseases, including congenital hydrocephalus, Vein of Galen malformation, Chiari malformation, trigeminal neuralgia, Dent disease, and arachnoid cyst for the [Yale Center for Mendelian Genomics](https://medicine.yale.edu/keck/ycga/mendelian/).
+
+Supported by a K99/R00 Pathway to Independence Award, I am currently in transition to my new role as an assistant professor in the [Department of Genetics at the Washington University in St. Louis](http://genetics.wustl.edu/) and will start my independent lab in April of 2020. I am interested in the formulation, development, and application of computational approaches to understand the complex genetic models driving congenital and neurological diseases and to begin characterizing genetic networks of disease via multi-dimensional omics data, biobank sources, and electronic health record data.
+
+I am an avid R & Python enthusiast. My full CV is available [here](files/sjin-CV 08-18-2019 Detailed Format.pdf). 
