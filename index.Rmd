@@ -1,5 +1,8 @@
 ---
-title: "My Website"
 ---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<img src="images/SJIN.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
 
 Hello, Website! Welcome to the world.

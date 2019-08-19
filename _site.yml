@@ -9,9 +9,9 @@ navbar:
       href: publications.html
     - text: "People"
       href: people.html
-    - texy: "Jobs"
+    - text: "Jobs"
       href: jobs.html
- 
+    - text:  
   right:
     - icon: fa-github fa-lg
       href: https://github.com/scjin
