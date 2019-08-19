@@ -1,0 +1,26 @@
+name: "Sheng Chih (Peter) Jin"
+output_dir: "."
+navbar:
+  title: "Sheng Chih (Peter) Jin"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "People"
+      href: people.html
+    - texy: "Jobs"
+      href: jobs.html
+ 
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/scjin
+    - icon: fa-twitter fa-lg
+      href: http://twitter.com/hashtag/peterjin
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/sheng-chih-jin-3b60a011
+
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
