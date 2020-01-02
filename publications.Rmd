@@ -17,7 +17,7 @@ Find me on [Google Scholar](https://scholar.google.com/citations?user=WAgKQv0AAA
 
 ### 2019
 
-Allocco AA, **Jin SC**, Duy PQ, Furey CG, Zeng X, Dong W, Nelson-Williams C, Karimy JK, DeSpenza T, Hao LT, Reeves B, Haider S, Gunel M, Lifton RP, Kahle KT. [Recessive Inheritance of Congenital Hydrocephalus With Other Structural Brain Abnormalities Caused by Compound Heterozygous Mutations in ATP1A3. Frontiers Cellular Neuroscience](https://www.frontiersin.org/articles/10.3389/fncel.2019.00425/full). ***Frontiers in Cellular Neuroscience***. PMID: 31616254.
+Allocco AA#, **Jin SC#**, Duy PQ#, Furey CG, Zeng X, Dong W, Nelson-Williams C, Karimy JK, DeSpenza T, Hao LT, Reeves B, Haider S, Gunel M, Lifton RP, Kahle KT. [Recessive Inheritance of Congenital Hydrocephalus With Other Structural Brain Abnormalities Caused by Compound Heterozygous Mutations in ATP1A3. Frontiers Cellular Neuroscience](https://www.frontiersin.org/articles/10.3389/fncel.2019.00425/full). ***Frontiers in Cellular Neuroscience***. PMID: 31616254. #Co-first authors
 
 **Jin SC**, Furey CG, Zeng X, Allocco A, Nelson-Williams C, Dong W, Karimy JK, Wang K, Ma S, Delpire E, Kahle KT. [SLC12A ion transporter mutations in sporadic and familial human congenital hydrocephalus](https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.892). ***Molecular Genetics & Genomic Medicine***. PMID: 31393094.
 

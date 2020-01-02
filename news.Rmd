@@ -3,4 +3,4 @@ title: "News"
 output: html_document
 ---
 
-[January 1st, 2020] **Postdoc Wanted: Computational Genomics in Congenital disorders**
+[January 1st, 2020] **Postdoc Wanted: Computational Genomics in Congenital Disorders**
