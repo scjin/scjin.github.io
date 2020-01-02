@@ -42,4 +42,3 @@ During my postdoctoral training, we developed a control-free statistical approac
 
 * Jin SC et al. [Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands](https://www.nature.com/articles/ng.3970). ***Nature Genetics 2017***.
 
------
