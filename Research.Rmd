@@ -7,7 +7,3 @@ output: html_document
 
 ### Complex Genetics Basis of Congenital Heart Disease
 
-Congenital heart disease affects ~1% of live births and remains the leading cause of mortality from birth defects. So far, despite extensive efforts by many groups, the etiology of ~55% of congenital heart disease cases still cannot be explained by environmental triggers, chromosomal abnormalities, or monogenic etiologies7. It is becoming evident that simple genetic models do not entirely explain the causes of all congenital heart disease cases. More nuanced approaches are required; in collaboration with Drs. [Richard Lifton](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1139-richard-p-lifton/) and [Martina Brueckner](https://medicine.yale.edu/lab/brueckner/) , we aim to develop novel computational methods to determine the complex genetic basis of congenital heart disease, with a specific focus on the interplay between the common non-coding and rare protein-coding variants by jointly analyzing whole exome/genome sequencing and SNP array data from the Pediatric Cardiac Genomics Consortium. 
-
-------
-
