@@ -1,8 +1,9 @@
 ---
 title: "Careers"
+output: html_document
 ---
 
-<br><br>
+<br>
 
 ### Postdoctoral Associate in Computational Genomics
 
@@ -16,7 +17,6 @@ The Jin lab is located in the Couch Biomedical Research building on the 5th floo
 
 To be considered for this role, please email Dr. Jin at jin810@wustl.edu with the following items: 1) CV with a list of publications; 2) a short summary of your present and future research interests; 3) a list of three references with their contact information. Diverse expertise will be considered. Competitive salary and benefits will be provided
 
-------
 
 ### Staff Software Engineer
 
@@ -50,7 +50,6 @@ Qualifications:
 
 Competitive salary and benefits will be provided. If you are interested in this position, please email your CV to Dr. Jin at jin810@wustl.edu for discussion.
 
-------
 
 ### Graduates, Undergraduates, Summer Interns and Visiting Scholars
 

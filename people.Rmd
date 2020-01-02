@@ -1,8 +1,7 @@
 ---
 title: "People"
+output: html_document
 ---
-
-<br><br>
 
 ### Pricipal Investigator
 

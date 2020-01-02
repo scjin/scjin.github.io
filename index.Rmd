@@ -1,11 +1,11 @@
 ---
-pagetitle: "Jin group"
+title: "Jin group"
+output: html_document
 ---
+
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-
-
-<br><br>
+<br> 
 
 Welcome to the Jin group in the [Department of Genetics](http://genetics.wustl.edu/) and the [McDonnell Genome Institute](https://www.genome.wustl.edu/) at the Washington University School of Medicine. Our mission is to provide meaningful and interpretable insight into disease biology, and define new targets for risk determination, prevention, and therapy. We are currently focusing on the formation, development, and application of genetic, genomics, and bioinformatics methods to better analyze and integrate exome and genome sequencing, SNP array, RNA-sequencing, epigenomic, metabolomic, and proteomics data. Through integration of diverse type of transcriptomic and epigenetic functional annotations, the integrative genomic analysis will provide better a understanding of the molecular basis of cardiovascular diseases and neurodevelopmental disorders, with a specific focus on the interplay between rare protein-coding and common non-coding variants. 
 
