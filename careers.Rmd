@@ -36,6 +36,7 @@ Primary Duties:
 * Solves practical problems relating to difficulties with equipment or test subjects; suggests technical or procedural improvements in testing methods
 
 Qualifications:
+
 * Bachelor's or Master’s degree in Computer Science or related field, or equivalent experience.
 * 2-5 years of Software Development experience is preferred, though exceptional candidates with less will be considered.
 * Experience delivering clear, maintainable, and well-tested software in a timely manner.

@@ -5,4 +5,41 @@ output: html_document
 
 <br> 
 
-# Complex genetics Basis of Congenital Heart Disease
+### Complex Genetics Basis of Congenital Heart Disease
+
+Congenital heart disease affects ~1% of live births and remains the leading cause of mortality from birth defects. So far, despite extensive efforts by many groups, the etiology of ~55% of congenital heart disease cases still cannot be explained by environmental triggers, chromosomal abnormalities, or monogenic etiologies7. It is becoming evident that simple genetic models do not entirely explain the causes of all CHD cases. More nuanced approaches are required; in collaboration with Drs. [Richard Lifton](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1139-richard-p-lifton/) and [Martina Brueckner](https://medicine.yale.edu/lab/brueckner/) , we aim to develop novel computational methods to determine the complex genetic basis of congenital heart disease, with a specific focus on the interplay between the common non-coding and rare protein-coding variants by jointly analyzing whole exome/genome sequencing and SNP array data from the Pediatric Cardiac Genomics Consortium. 
+
+* Robson A et al. [Histone H2B monoubiquitination regulates heart development via epigenetic control of cilia motility](https://www.pnas.org/content/116/28/14049.long). ***PNAS 2019***.
+* Jin SC et al. [Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands](https://www.nature.com/articles/ng.3970). ***Nature Genetics 2017***.
+* Homsy J et al. [De novo mutations in congenital heart disease with neurodevelopmental and other congenital anomalies](https://science.sciencemag.org/content/350/6265/1262.long). ***Science 2015***.
+
+------
+
+### Human Genetics and Molecular Mechenisms of Human Neurological Diseases
+
+In collaboration with Drs. [Kristopher Kahle](https://medicine.yale.edu/lab/kahle/) and [Richard Lifton](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1139-richard-p-lifton/), we are focusing on studying the genetic underpinnings of rare Mendelian forms of human neurological diseases, including congenital hydrocephalus, Vein of Galen malformation, Chiari malformation, trigeminal neuralgia, Dent disease, arachnoid cyst, nephrotic syndrome, and congenital hemangioma, for the [Yale Center for Mendelian Genomics](http://mendelian.org/). 
+
+* Allocco AA#, Jin SC# et al. [Recessive Inheritance of Congenital Hydrocephalus With Other Structural Brain Abnormalities Caused by Compound Heterozygous Mutations in ATP1A3. Frontiers Cellular Neuroscience](https://www.frontiersin.org/articles/10.3389/fncel.2019.00425/full). ***Frontiers in Cellular Neuroscience 2019***. 
+* Jin SC et al. [SLC12A ion transporter mutations in sporadic and familial human congenital hydrocephalus](https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.892). ***Molecular Genetics & Genomic Medicine 2019***.
+* Duran D#, Zeng X#, Jin SC# et al. [Mutations in Chromatin Modifier and Ephrin Signaling Genes in Vein of Galen Malformation](https://www.sciencedirect.com/science/article/pii/S089662731831050X?via%3Dihub). ***Neuron 2019***.
+* Furey CG#, Choi J#, Jin SC et al. [De Novo Mutation in Genes Regulating Neural Stem Cell Fate in Human Congenital Hydrocephalus](https://www.sciencedirect.com/science/article/pii/S0896627318304872?via%3Dihub). ***Neuron 2018***.
+* Duran D#, Jin SC# et al. [Digenic mutations of human OCRL paralogs in Dent's disease type 2 associated with Chiari I malformation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143364/). ***Human Genome Variation 2016***.
+
+------
+  
+### Genomic Research of Cerebral Palsy
+
+As the lead computational biologist for the [International Cerebral Palsy Genomics Consortium], we aim to work as an integrated, collaborative international network of clinicians, researchers, and advocates in order to unlock the molecular basis of cerebral palsy using genomics and related tools, and to facilitate the development of novel therapies to improve the health and quality of life of individuals with cerebral palsy.
+
+* Jin SC et al. ***Mutations disrupting neuritogenesis genes represent a major independent risk factor for cerebral palsy**. Under revision in ***Nature Genetics***.
+* Helbig KL et al. [De Novo Pathogenic Variants in CACNA1E Cause Developmental and Epileptic Encephalopathy with Contractures, Macrocephaly, and Dyskinesias](https://www.sciencedirect.com/science/article/pii/S0002929719300606?via%3Dihub). ***American Journal of Human Genetics 2019***.
+
+------
+
+### Methods development
+
+During my postdoctoral training, we developed a control-free statistical approach and appliedit to a whole exome sequencing dataset of 2,871 CHD probands procured from the Pediatric Cardiac Genomics Consortium to demonstrate that ~1.8% of cases are attributed to rare inherited variants. First, we demonstrated that extremely rare transmitted variants in each gene are similarly distributed when compared to DNMs; this allowed for a robust estimation of the expected frequency of rare transmitted variants based on the expected frequency of DNMs. Second, analysis of recessive variants has been confounded by varying degrees of consanguinity among probands and differences in consanguinity between cases and controls. We conceived and developed a novel method of analysis using a simple polynomial model that accounts for this variable inbreeding, enabling a powerful test comparing the observed and expected recessive variants in each gene. Currenlty, I am working with Drs. [Qiongshi Lu](https://qlu-lab.org/) and [Hongyu Zhao](http://zhaocenter.org/) to develop novel methods for large-scale genetic association analysis, joint modeling of de novo and transmitted variants, and polygenic risk prediction.
+
+* Jin SC et al. [Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands](https://www.nature.com/articles/ng.3970). ***Nature Genetics 2017***.
+
+-----
