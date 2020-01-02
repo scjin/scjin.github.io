@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Jin group"
   left:
-    - text: "Research"
-      href: research.html
     - text: "Publications"
       href: publications.html
     - text: "People"
