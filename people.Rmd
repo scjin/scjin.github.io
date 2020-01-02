@@ -3,13 +3,13 @@ title: "People"
 output: html_document
 ---
 
-### Pricipal Investigator
+### Principal Investigator
 
 <img src="images/SJIN.png" style="width:20%; border:0; margin-right: 20px" align="left">
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying cardiovascular and neurodevelopmental diseases. His full CV is available [here](files/sjin-CV-10-18-2019-Detailed-Format.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying cardiovascular and neurodevelopmental diseases. His full CV is available [here](files/sjin-CV-01-02-2020-Detailed-Format.pdf).
 
 * [twitter](https://twitter.com/peterjin999?lang=en)
 * [github](https://github.com/scjin)
