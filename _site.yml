@@ -1,7 +1,7 @@
-name: "Sheng Chih (Peter) Jin"
+name: "Jin group"
 output_dir: "."
 navbar:
-  title: "Sheng Chih (Peter) Jin"
+  title: "Jin group"
   left:
     - text: "Research"
       href: research.html
@@ -9,11 +9,10 @@ navbar:
       href: publications.html
     - text: "People"
       href: people.html
-    - text: "Join"
-      href: join.html
+    - text: "Careers"
+      href: careers.html
     - text: "News"
       href: news.html
- 
   right:
     - icon: fa-github fa-lg
       href: https://github.com/scjin

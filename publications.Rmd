@@ -1,0 +1,106 @@
+---
+title: Publications
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<br><br>
+
+Find me on [Google Scholar](https://scholar.google.com/citations?user=WAgKQv0AAAAJ&hl=en)
+
+
+### Under revision or review
+
+**Jin SC#**, Lewis S#, Bakhtiari S#, Zeng X#, Sierant MC, Norton B, Corbett M, Elie A, Norton B, Eyk CV, Elie A, Brunstrom-Hernandez J, Papavasileiou A, Fahey MC, Berry JG, Harper K, Zhou C, Magee H, Liu J, Guida BS, Junhui Zhang, Magee H, Li B, Heim J, Webber DL, Frank MS, Xia L, Xu, Y, Castaldi C, Tikhonoa IR, Cho M, Retterer K, Milan F, Wang Y, Waugh JL, Rodan L, Cohen JS, Fatemi A, Lin A, Phillips J, Feyma T, MacLennan SC, Vaughan S, Crompton KE, Reid SM, Reddihough DS, Shang Q, Gao C, Wilson Y, Badawi N, Novak I, McIntyre S, Mane SM, Wang X, Amor D, Zarnescu DC, Lu Q, Xing Q, Zhu C, Bilguvar K, Padilla-Lopez S, Lifton RP, Gecz J, MacLennan AH, Kruer MC. **Mutations disrupting neuritogenesis genes represent a major independent risk factor for cerebral palsy**. Under revision in ***Nature Genetics***. #Co-first authors.
+
+
+
+
+### 2019
+
+Allocco AA, **Jin SC**, Duy PQ, Furey CG, Zeng X, Dong W, Nelson-Williams C, Karimy JK, DeSpenza T, Hao LT, Reeves B, Haider S, Gunel M, Lifton RP, Kahle KT. [Recessive Inheritance of Congenital Hydrocephalus With Other Structural Brain Abnormalities Caused by Compound Heterozygous Mutations in ATP1A3. Frontiers Cellular Neuroscience](https://www.frontiersin.org/articles/10.3389/fncel.2019.00425/full). ***Frontiers in Cellular Neuroscience***. PMID: 31616254.
+
+**Jin SC**, Furey CG, Zeng X, Allocco A, Nelson-Williams C, Dong W, Karimy JK, Wang K, Ma S, Delpire E, Kahle KT. [SLC12A ion transporter mutations in sporadic and familial human congenital hydrocephalus](https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.892). ***Molecular Genetics & Genomic Medicine***. PMID: 31393094.
+
+Timberlake AT, **Jin SC**, Nelson-Williams C, Wu R, Furey CG, Islam B, Haider S, Loring E, Galm A; Yale Center for Genome Analysis, Steinbacher DM, Larysz D, Staffenberg DA, Flores RL, Rodriguez ED, Boggon TJ, Persing JA, Lifton RP. [Mutations in TFAP2B and previously unimplicated genes of the BMP, Wnt, and Hedgehog pathways in syndromic craniosynostosis](https://www.pnas.org/content/116/30/15116.long). ***PNAS***. PMID: 31292255.
+
+Robson A, Makova SZ, Barish S, Zaidi S, Mehta S, Drozd J, **Jin SC**, Gelb BD, Seidman CE, Chung WK, Lifton RP, Khokha MK, Brueckner M. [Histone H2B monoubiquitination regulates heart development via epigenetic control of cilia motility](https://www.pnas.org/content/116/28/14049.long). ***PNAS***. PMID: 31235600.
+
+Chang SJ, **Jin SC**, Jiao X, Galán JE.[Unique features in the intracellular transport of typhoid toxin revealed by a genome-wide screen](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007704). ***PLoS Pathogens***. PMID: 30951565.
+
+Helbig KL, Lauerer RJ, Bahr JC, Souza IA, Myers CT, Uysal B, Schwarz N, Gandini MA, Huang S, Keren B, Mignot C, Afenjar A, Billette de Villemeur T, Héron D, Nava C, Valence S, Buratti J, Fagerberg CR, Soerensen KP, Kibaek M, Kamsteeg EJ, Koolen DA, Gunning B, Schelhaas HJ, Kruer MC, Fox J, Bakhtiari S, Jarrar R, Padilla-Lopez S, Lindstrom K, **Jin SC**, Zeng X, Bilguvar K, Papavasileiou A, Xing Q, Zhu C, Boysen K, Vairo F, Lanpher BC, Klee EW, Tillema JM, Payne ET, Cousin MA, Kruisselbrink TM, Wick MJ, Baker J, Haan E, Smith N, Sadeghpour A, Davis EE, Katsanis N; Task Force for Neonatal Genomics, Corbett MA, MacLennan AH, Gecz J, Biskup S, Goldmann E, Rodan LH, Kichula E, Segal E, Jackson KE, Asamoah A, Dimmock D, McCarrier J, Botto LD, Filloux F, Tvrdik T, Cascino GD, Klingerman S, Neumann C, Wang R, Jacobsen JC, Nolan MA, Snell RG, Lehnert K, Sadleir LG, Anderlid BM, Kvarnung M, Guerrini R, Friez MJ, Lyons MJ, Leonhard J, Kringlen G, Casas K, El Achkar CM, Smith LA, Rotenberg A, Poduri A, Sanchis-Juan A, Carss KJ, Rankin J, Zeman A, Raymond FL, Blyth M, Kerr B, Ruiz K, Urquhart J, Hughes I, Banka S; Deciphering Developmental Disorders Study, Hedrich UBS, Scheffer IE, Helbig I, Zamponi GW, Lerche H, Mefford HC. [De Novo Pathogenic Variants in CACNA1E Cause Developmental and Epileptic Encephalopathy with Contractures, Macrocephaly, and Dyskinesias](https://www.sciencedirect.com/science/article/pii/S0002929719300606?via%3Dihub). ***American Journal of Human Genetics***. PMID: 30849329.
+
+Zeng X, Hunt A, **Jin SC**, Duran D, Gaillard J, Kahle KT. [EphrinB2-EphB4-RASA1 Signaling in Human Cerebrovascular Development and Disease](https://www.sciencedirect.com/science/article/pii/S1471491419300206?via%3Dihub). ***Trends in Molecular Medicine***. PMID: 30819650.
+
+Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J, Furey CG, Lu Q, Timberlake AT, Dong W, Sorscher MA, Loring E, Klein J, Allocco A, Hunt A, Conine S, Karimy JK, Youngblood MW, Zhang J, DiLuna ML, Matouk CC, Mane S, Tikhonova IR, Castaldi C, López-Giráldez F, Knight J, Haider S, Soban M, Alper SL, Komiyama M, Ducruet AF, Zabramski JM, Dardik A, Walcott BP, Stapleton CJ, Aagaard-Kienitz B, Rodesch G, Jackson E, Smith ER, Orbach DB, Berenstein A, Bilguvar K, Vikkula M, Gunel M, Lifton RP, Kahle KT. [Mutations in Chromatin Modifier and Ephrin Signaling Genes in Vein of Galen Malformation](https://www.sciencedirect.com/science/article/pii/S089662731831050X?via%3Dihub). ***Neuron***. PMID: 30578106. #Co-first authors
+
+### 2018
+
+Furey CG, Zeng X, Dong W, **Jin SC**, Choi J, Timberlake AT, Dunbar AM, Allocco AA, Günel M, Lifton RP, Kahle KT. [Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus](https://www.sciencedirect.com/science/article/abs/pii/S1878875018320618?via%3Dihub). ***World Neurosurgery***. PMID: 30205212.
+
+
+Furey CG#, Choi J#, **Jin SC**, Zeng X, Timberlake AT, Nelson-Williams C, Mansuri MS, Lu Q, Duran D, Panchagnula S, Allocco A, Karimy JK, Khanna A, Gaillard JR, DeSpenza T, Antwi P, Loring E, Butler WE, Smith ER, Warf BC, Strahle JM, Limbrick DD, Storm PB, Heuer G, Jackson EM, Iskandar BJ, Johnston JM, Tikhonova I, Castaldi C, López-Giráldez F, Bjornson RD, Knight JR, Bilguvar K, Mane S, Alper SL, Haider S, Guclu B, Bayri Y, Sahin Y, Apuzzo MLJ, Duncan CC, DiLuna ML, Günel M, Lifton RP, Kahle KT. [De Novo Mutation in Genes Regulating Neural Stem Cell Fate in Human Congenital Hydrocephalus](https://www.sciencedirect.com/science/article/pii/S0896627318304872?via%3Dihub). ***Neuron***. PMID: 29983323. #Co-first authors
+
+Fomchenko EI, Duran D, **Jin SC**, Dong W, Erson-Omay EZ, Antwi P, Allocco A, Gaillard JR, Huttner A, Gunel M, DiLuna ML, Kahle KT. [De novo MYH9 mutation in congenital scalp hemangioma](http://molecularcasestudies.cshlp.org/content/4/4/a002998.long). ***Cold Spring Harbor Molecular Case Studies***. PMID: 29903892.
+
+Antwi P, Hong CS, Duran D, **Jin SC**, Dong W, DiLuna M, Kahle KT. [A novel association of campomelic dysplasia and hydrocephalus with an unbalanced chromosomal translocation upstream of SOX9](http://molecularcasestudies.cshlp.org/content/4/3/a002766.long). ***Cold Spring Harbor Molecular Case Studies***. PMID: 29695406.
+
+Scholl UI, Stölting G, Schewe J, Thiel A, Tan H, Nelson-Williams C, Vichot AA, **Jin SC**, Loring E, Untiet V, Yoo T, Choi J, Xu S, Wu A, Kirchner M, Mertins P, Rump LC, Onder AM, Gamble C, McKenney D, Lash RW, Jones DP, Chune G, Gagliardi P, Choi M, Gordon R, Stowasser M, Fahlke C, Lifton RP. [CLCN2 chloride channel mutations in familial hyperaldosteronism type II](https://www.nature.com/articles/s41588-018-0048-5). ***Nature Genetics***. PMID: 29403011.
+
+### 2017
+
+Jin SC, Homsy J, Zaidi S, Lu Q, Morton S, DePalma SR, Zeng X, Qi H, Chang W, Sierant MC, Hung WC, Haider S, Zhang J, Knight J, Bjornson RD, Castaldi C, Tikhonoa IR, Bilguvar K, Mane SM, Sanders SJ, Mital S, Russell MW, Gaynor JW, Deanfield J, Giardini A, Porter GA Jr, Srivastava D, Lo CW, Shen Y, Watkins WS, Yandell M, Yost HJ, Tristani-Firouzi M, Newburger JW, Roberts AE, Kim R, Zhao H, Kaltman JR, Goldmuntz E, Chung WK, Seidman JG, Gelb BD, Seidman CE, Lifton RP, Brueckner M. [Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands](https://www.nature.com/articles/ng.3970). ***Nature Genetics***. PMID: 28991257. **[> 160 cites]**
+
+Huang KL, Marcora E, Pimenova AA, Di Narzo AF, Kapoor M, **Jin SC**, Harari O, Bertelsen S, Fairfax BP, Czajkowski J, Chouraki V, Grenier-Boley B, Bellenguez C, Deming Y, McKenzie A, Raj T, Renton AE, Budde J, Smith A, Fitzpatrick A, Bis JC, DeStefano A, Adams HHH, Ikram MA, van der Lee S, Del-Aguila JL, Fernandez MV, Ibañez L; International Genomics of Alzheimer's Project; Alzheimer's Disease Neuroimaging Initiative, Sims R, Escott-Price V, Mayeux R, Haines JL, Farrer LA, Pericak-Vance MA, Lambert JC, van Duijn C, Launer L, Seshadri S, Williams J, Amouyel P, Schellenberg GD, Zhang B, Borecki I, Kauwe JSK, Cruchaga C, Hao K, Goate AM. [A common haplotype lowers PU.1 expression in myeloid cells and delays onset of Alzheimer's disease](https://www.nature.com/articles/nn.4587). ***Nature Neuroscience***.PMID: 28628103. **[> 110 cites]**
+
+### 2016
+
+Duran D#, **Jin SC#**, DeSpenza T Jr#, Nelson-Williams C, Cogal AG, Abrash EW, Harris PC, Lieske JC, Shimshak SJ, Mane S, Bilguvar K, DiLuna ML, Günel M, Lifton RP, Kahle KT. [Digenic mutations of human OCRL paralogs in Dent's disease type 2 associated with Chiari I malformation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143364/). ***Human Genome Variation***. PMID: 28018608. #Co-first authors
+
+Song W, Hooli B, Mullin K, **Jin SC**, Cella M, Ulland TK, Wang Y, Tanzi RE, Colonna M. [Alzheimer's disease-associated TREM2 variants exhibit either decreased or increased ligand-dependent activation](https://www.sciencedirect.com/science/article/abs/pii/S1552526016302035?via%3Dihub). ***Alzheimer's & Dementia***. PMID: 27520774.
+
+Benitez BA, Davis AA, **Jin SC**, Ibanez L, Ortega-Cubero S, Pastor P, Choi J, Cooper B, Perlmutter JS, Cruchaga C. [Resequencing analysis of five Mendelian genes and the top genes from genome-wide association studies in Parkinson's Disease](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-016-0097-0). ***Molecular Neurodegeneration***. PMID: 27094865.
+
+### 2015
+
+Homsy J, Zaidi S, Shen Y, Ware JS, Samocha KE, Karczewski KJ, DePalma SR, McKean D, Wakimoto H, Gorham J, **Jin SC**, Deanfield J, Giardini A, Porter GA Jr, Kim R, Bilguvar K, López-Giráldez F, Tikhonova I, Mane S, Romano-Adesman A, Qi H, Vardarajan B, Ma L, Daly M, Roberts AE, Russell MW, Mital S, Newburger JW, Gaynor JW, Breitbart RE, Iossifov I, Ronemus M, Sanders SJ, Kaltman JR, Seidman JG, Brueckner M, Gelb BD, Goldmuntz E, Lifton RP, Seidman CE, Chung WK. [De novo mutations in congenital heart disease with neurodevelopmental and other congenital anomalies](https://science.sciencemag.org/content/350/6265/1262.long). ***Science*** . PMID: 26785492. **[>280 cites]**
+
+**Jin SC**, Benitez BA, Deming Y, Cruchaga C. [Pooled-DNA Sequencing for Elucidating New Genomic Risk Factors, Rare Variants Underlying Alzheimer's Disease](https://link.springer.com/protocol/10.1007%2F978-1-4939-2627-5_18). ***Methods in Molecular Biology***. PMID: 26235075.
+
+**Jin SC**, Carrasquillo MM, Benitez BA, Skorupa T, Carrell D, Patel D, Lincoln S, Krishnan S, Kachadoorian M, Reitz C, Mayeux R, Wingo TS, Lah JJ, Levey AI, Murrell J, Hendrie H, Foroud T, Graff-Radford NR, Goate AM, Cruchaga C, Ertekin-Taner N. [TREM2 is associated with increased risk for Alzheimer's disease in African Americans](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-015-0016-9). ***Molecular Neurodegeneration***. PMID: 25886450.
+
+### 2014
+
+**Jin SC**, Benitez BA, Karch CM, Cooper B, Skorupa T, Carrell D, Norton JB, Hsu S, Harari O, Cai Y, Bertelsen S, Goate AM, Cruchaga C. [Coding variants in TREM2 increase risk for Alzheimer's disease](https://academic.oup.com/hmg/article/23/21/5838/2900998). ***Human Molecular Genetics***. PMID: 24899047. **[>140 cites]**
+
+Benitez BA#, **Jin SC#**, Guerreiro R, Graham R, Lord J, Harold D, Sims R, Lambert JC, Gibbs JR, Bras J, Sassi C, Harari O, Bertelsen S, Lupton MK, Powell J, Bellenguez C, Brown K, Medway C, Haddick PC, van der Brug MP, Bhangale T, Ortmann W, Behrens T, Mayeux R, Pericak-Vance MA, Farrer LA, Schellenberg GD, Haines JL, Turton J, Braae A, Barber I, Fagan AM, Holtzman DM, Morris JC; 3C Study Group; EADI consortium; Alzheimer's Disease Genetic Consortium (ADGC); Alzheimer's Disease Neuroimaging Initiative (ADNI); GERAD Consortium, Williams J, Kauwe JS, Amouyel P, Morgan K, Singleton A, Hardy J, Goate AM, Cruchaga C. [Missense variant in TREML2 protects against Alzheimer's disease](https://www.sciencedirect.com/science/article/pii/S0197458013006490?via%3Dihub). ***Neurobiology of Aging***. PMID: 24439484. #Co-first authors.
+
+Cruchaga C, Karch CM#, **Jin SC#**, Benitez BA, Cai Y, Guerreiro R, Harari O, Norton J, Budde J, Bertelsen S, Jeng AT, Cooper B, Skorupa T, Carrell D, Levitch D, Hsu S, Choi J, Ryten M, Sassi C, Bras J, Gibbs RJ, Hernandez DG, Lupton MK, Powell J, Forabosco P, Ridge PG, Corcoran CD, Tschanz JT, Norton MC, Munger RG, Schmutz C, Leary M, Demirci FY, Bamne MN, Wang X, Lopez OL, Ganguli M, Medway C, Turton J, Lord J, Braae A, Barber I, Brown K; Alzheimer's Research UK (ARUK) Consortium, Pastor P, Lorenzo-Betancor O, Brkanac Z, Scott E, Topol E, Morgan K, Rogaeva E, Singleton A, Hardy J, Kamboh MI, George-Hyslop PS, Cairns N, Morris JC, Kauwe JSK, Goate AM. [Rare coding variants in the phospholipase D3 gene confer risk for Alzheimer's disease](https://www.nature.com/articles/nature12825). ***Nature***. PMID: 24336208. #Co-second authors. **[>340 cites]**
+
+### 2013
+
+Benitez BA, Karch CM, Cai Y, **Jin SC**, Cooper B, Carrell D, Bertelsen S, Chibnik L, Schneider JA, Bennett DA; Alzheimer's Disease Neuroimaging Initiative; Genetic and Environmental Risk for Alzheimer's Disease Consortium GERAD, Fagan AM, Holtzman D, Morris JC, Goate AM, Cruchaga C. [The PSEN1, p.E318G variant increases the risk of Alzheimer's disease in APOE-ε4 carriers](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003685). ***PLoS Genetics***. PMID: 23990795.
+
+Cruchaga C, Kauwe JS, Harari O, **Jin SC**, Cai Y, Karch CM, Benitez BA, Jeng AT, Skorupa T, Carrell D, Bertelsen S, Bailey M, McKean D, Shulman JM, De Jager PL, Chibnik L, Bennett DA, Arnold SE, Harold D, Sims R, Gerrish A, Williams J, Van Deerlin VM, Lee VM, Shaw LM, Trojanowski JQ, Haines JL, Mayeux R, Pericak-Vance MA, Farrer LA, Schellenberg GD, Peskind ER, Galasko D, Fagan AM, Holtzman DM, Morris JC; GERAD Consortium; Alzheimer’s Disease Neuroimaging Initiative (ADNI); Alzheimer Disease Genetic Consortium (ADGC), Goate AM. [GWAS of cerebrospinal fluid tau levels identifies risk variants for Alzheimer's disease](https://www.sciencedirect.com/science/article/pii/S0896627313001840?via%3Dihub). ***Neuron***. PMID: 23562540. **[>240 cites]**
+
+Benitez BA, Cooper B, Pastor P, **Jin SC**, Lorenzo E, Cervantes S, Cruchaga C. [TREM2 is associated with the risk of Alzheimer's disease in Spanish population](https://www.sciencedirect.com/science/article/pii/S0197458012006495?via%3Dihub). ***Neurobiology of Aging***. PMID: 23391427. **[>130 cites]**
+
+Patel PJ, Beaty TH, Ruczinski I, Murray JC, Marazita ML, Munger RG, Hetmanski JB, Wu T, Murray T, Rose M, Redett RJ, **Jin SC**, Lie RT, Su-Chou YH, Wang H, Ye X, Yeow V, Chong S, Jee SH, Shi B, Scott AF. [X-linked Markers in the Duchenne Muscular Dystrophy Gene Associated with Oral Clefts](https://onlinelibrary.wiley.com/doi/full/10.1111/eos.12025). ***European Journal of Oral Sciences***. PMID: 23489894.
+
+### 2012
+
+**Jin SC**, Pastor P, Cooper B, Cervantes S, Benitez BA, Razquin C, Goate A; Ibero-American Alzheimer Disease Genetics Group Researchers, Cruchaga C. [Pooled-DNA sequencing identifies novel causative variants in PSEN1, GRN and MAPT in a clinical early-onset and familial Alzheimer's disease Ibero-American cohort](https://alzres.biomedcentral.com/articles/10.1186/alzrt137). ***Alzheimer's Research & Therapy***. PMID: 22906081.
+
+Wang H, Zhang T, Wu T, Hetmanski JB, Ruczinski I, Schwender H, Liang KY, Murray T, Fallin MD, Redett RJ, Raymond GV, **Jin SC**, Chou YH, Chen PK, Yeow V, Chong SS, Cheah FS, Jee SH, Jabs EW, Scott AF, Beaty TH. [The FGF and FGFR Gene Family and Risk of Cleft Lip With or Without Cleft Palate](https://journals.sagepub.com/doi/full/10.1597/11-132?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed). ***The Cleft Palate-Craniofacial Journal***. PMID: 22074045.
+
+### 2011
+
+Beaty TH, Ruczinski I, Murray JC, Marazita ML, Munger RG, Hetmanski JB, Murray T, Redett RJ, Fallin MD, Liang KY, Wu T, Patel PJ, **Jin SC**, Zhang TX, Schwender H, Wu-Chou YH, Chen PK, Chong SS, Cheah F, Yeow V, Ye X, Wang H, Huang S, Jabs EW, Shi B, Wilcox AJ, Lie RT, Jee SH, Christensen K, Doheny KF, Pugh EW, Ling H, Scott AF. [Evidence for gene-environment interaction in a genome wide study of nonsyndromic cleft palate](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.20595). ***Genetic Epidemiology***. PMID: 21618603.
+
+### 2010
+
+Beaty TH, Murray JC, Marazita ML, Munger RG, Ruczinski I, Hetmanski JB, Liang KY, Wu T, Murray T, Fallin MD, Redett RA, Raymond G, Schwender H, **Jin SC**, Cooper ME, Dunnwald M, Mansilla MA, Leslie E, Bullard S, Lidral AC, Moreno LM, Menezes R, Vieira AR, Petrin A, Wilcox AJ, Lie RT, Jabs EW, Wu-Chou YH, Chen PK, Wang H, Ye X, Huang S, Yeow V, Chong SS, Jee SH, Shi B, Christensen K, Melbye M, Doheny KF, Pugh EW, Ling H, Castilla EE, Czeizel AE, Ma L, Field LL, Brody L, Pangilinan F, Mills JL, Molloy AM, Kirke PN, Scott JM, Arcos-Burgos M, Scott AF. [A genome-wide association study of cleft lip with and without cleft palate identifies risk variants near MAFB and ABCA4](https://www.nature.com/articles/ng.580). ***Nature Genetics***. PMID: 20436469. **[>450 cites]**
+
+### 2009
+
+Caporaso N, Gu F, Chatterjee N, **Jin SC**, Yu K, Yeager M, Chen C, Jacobs K, Wheeler W, Landi MT, Ziegler RG, Hunter DJ, Chanock S, Hankinson S, Kraft P, Bergen AW. [Genome-wide and candidate gene association study of cigarette smoking behaviors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004653). ***PLoS ONE***. PMID: 19247474. **[>240 cites]**
