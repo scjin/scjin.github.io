@@ -32,7 +32,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 <img src="images/Amar.jpg" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Amar Sheth__,
-MD Candidate, Yale School of Medicine
+MD Student, Yale School of Medicine
 
 Amar is a 2nd year medical student at Yale with a background in developmental neuroscience and computer science. His broader research aim is to harness our current understanding of spatiotemporal genetics of the brain to discover mechanisms of neurological dysfunction.
 
