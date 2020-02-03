@@ -19,7 +19,7 @@ To be considered for this role, please email Dr. Jin at jin810@wustl.edu with th
 
 -----
 
-### Staff Software Engineer
+### Bioinformatics Research Analyst/Bioinformatics Scientist ([WashU Job ID](https://jobs.wustl.edu/): 46782)
 
 We are looking for a computational biologist, software engineer, or bioinformatician with extensive experience in developing cutting edge tools to analyze high-throughput sequencing-based experiments, including but not limited to whole exome/genome sequencing, RNA-sequencing, single-cell RNA-sequencing, ChIP-sequencing, and ATAC-sequencing. Responsibilities include use of existing bioinformatics tools to process sequence data (alignment, variant calling, etc.), producing visualizations that aid interpretation of large data sets working with software developers to release open access bioinformatics tools, and contributing to publications and educational workshops.
 
