@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-### Postdoctoral Associate in Computational Genomics
+### Postdoctoral Associate in Computational Genomics ([WashU Job ID](https://jobs.wustl.edu/): 46784)
 
 The Jin lab is looking for an energetic and motivated individual to work as a Postdoctoral Associate with a doctoral degree in genetics, genomics, computational biology, or computer science to investigate the genetic basis of congenital heart disease, hydrocephalus, and Moyamoya disease.
 

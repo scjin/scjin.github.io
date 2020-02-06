@@ -3,4 +3,5 @@ title: "News"
 output: html_document
 ---
 
+[February 5th, 2020] **Spencer King joins the lab as a summmer intern! Welcome Spencer! You are our first lab member!**  
 [January 1st, 2020] **Postdoc Wanted: Computational Genomics in Congenital Disorders**
