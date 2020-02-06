@@ -65,6 +65,4 @@ M.Sc. Student, Washington University in St. Louis
 
 Spencer graduated with a B.S. in computer science and engineering from the University of Notre Dame in 2016. He has held multiple jobs in healthcare and is interested in the application of machine learning techniques to the medical field.
 
-***This could be you***
-
 -----
