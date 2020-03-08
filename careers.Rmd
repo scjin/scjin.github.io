@@ -5,6 +5,27 @@ output: html_document
 
 <br>
 
+### Postdoctoral Associate in Functional Genomics
+
+The Jin Lab is seeking a talented and enthusiastic postdoctoral fellow to join our growing team in the Department of Genetics at Washington University School of Medicine. The postdoctoral fellow will be jointly advised by investigators Sheng Chih Jin, Kristopher Kahle (Assistant Professor of Neurosurgery and Pediatrics and Cellular and Molecular Physiology at Yale School of Medicine) and Yi-Hsien Chen (Assistant Director of the Genome Engineering & iPSC Center). To tackle central questions about the pathophysiology of congenital hydrocephalus, moyamoya disease, and/or congenital heart disease, the fellow will conduct functional genomics research under the guiding aims:
+
+* Characterization of biological mechanisms disrupted by pathogenic mutations
+* Development of human disease models using human-induced pluripotent stem cell and/or zebrafish model systems
+* Implementation of multi-omics approach that integrate high-throughput imaging and machine learning coupled with CRISPR/Cas9 screens
+
+Our interdisciplinary research environment brings together life scientists, computational biologists, and physician-scientists to identify mutations underlying human diseases and their pathogenic mechanisms with the ultimate goal of translating these findings into effective therapeutic treatments. For more information, please visit our lab webpages: https://scjin.github.io/, https://www.kahlelab.com/, and http://geic.wustl.edu/
+
+Required qualifications:
+
+* Recent PhD/MD in a biological sciences or related fields (Molecular Biology, Developmental Biology, Cell Biology, Neurosciences, Biochemistry, etc.)
+* Experience in the zebrafish handling, cell culture, neuroscience, and genomics
+* Good communication skills
+* In addition, applicants must be able to visit St. Louis for potential interviews
+
+Applicants should email a single PDF file consisting of a letter of interest and CV, and should arrange for three letters of reference to be sent to Dr. Jin (jin810@wustl.edu), Dr. Kahle (kristopher.kahle@yale.edu) and Dr. Chen (ychen5@wustl.edu)
+
+-----
+
 ### Postdoctoral Associate in Computational Genomics ([WashU Job ID](https://jobs.wustl.edu/): 46784)
 
 The Jin lab is looking for an energetic and motivated individual to work as a Postdoctoral Associate with a doctoral degree in genetics, genomics, computational biology, or computer science to investigate the genetic basis of congenital heart disease, hydrocephalus, and Moyamoya disease.
