@@ -3,6 +3,14 @@ title: "News"
 output: html_document
 ---
 
+[April 1st, 2020] **Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!**
+
+[April 1st, 2020] **The lab received R01 funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project "Human genetics and molecular mechanisms of congenital hydrocephalus"**
+
+[April 1st, 2020] **The lab received R00 funding (PI: Jin) from the National Heart, Lung, and Blood Institute for the project "Integrative Genomic Analysis of Congenital Heart Disease"**
+
+[April 1st, 2020] **Jin Lab opens**		
+
 [February 27th, 2020] **Sam Peters joins the lab as a summmer intern! Welcome Sam!**
 
 [February 5th, 2020] **Spencer King joins the lab as a summmer intern! Welcome Spencer! You are our first lab member!**  
