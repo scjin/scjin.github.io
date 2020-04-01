@@ -5,7 +5,7 @@ output: html_document
 
 [April 1st, 2020] **Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!**
 
-[April 1st, 2020] **The lab received R01 funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project "Human genetics and molecular mechanisms of congenital hydrocephalus"**
+[April 1st, 2020] **The lab received R01 funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project "Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus"**
 
 [April 1st, 2020] **The lab received R00 funding (PI: Jin) from the National Heart, Lung, and Blood Institute for the project "Integrative Genomic Analysis of Congenital Heart Disease"**
 
