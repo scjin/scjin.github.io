@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying cardiovascular and neurodevelopmental diseases. His full CV is available [here](files/sjin-CV-01-02-2020-Detailed-Format.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying cardiovascular and neurodevelopmental diseases. His full CV is available [here](files/Biosketch-Jin-4-17-2020.pdf).
 
 *NIH Grants*
 
@@ -61,9 +61,12 @@ Weilai graduate with a B.S. in Biology in 2015 from the Zhejiang University. She
 
 ### Staff
 
-***This could be you***
+<img src="images/Po-Ying-Fu.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
------
+__Po-Ying Fu__,
+Bioinformatics Research Analyst, Washington University in St. Louis 
+
+Po-Ying obtained her master's degree in microbiology specialized in bioinformatics. In her master's thesis, she performed genomics analysis and used cell biology approaches to reveal the anti-cancer ability of lipopolysaccharide binding peptides. To advance her programming skills, she completed several advanced computer science courses relevant to this position at 42 Silicon Valley (a software engineering school) and Ohlong College.  She loves cycling and traveling!
 
 ### Rotation Students and Interns
 
