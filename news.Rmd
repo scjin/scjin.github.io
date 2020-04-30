@@ -3,7 +3,7 @@ title: "News"
 output: html_document
 ---
 
-[April 30th, 2020] **Dr. Jin's lead author paper on cerebal palsy genomics was accepted in Nature Genetics!** 
+[April 30th, 2020] **Dr. Jin's lead author paper on cerebral palsy genomics was accepted in Nature Genetics!** 
 
 [April 1st, 2020] **Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!**
 
