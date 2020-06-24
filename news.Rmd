@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[June 24th, 2020] **Dr. Jin's lead author paper on congenital hydrocephalus genomics was accepted in Nature Medicine!**
+
 [April 30th, 2020] **Dr. Jin's lead author paper on cerebral palsy genomics was accepted in Nature Genetics!** 
 
 [April 1st, 2020] **Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!**
