@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[August 5th, 2020] **Breanna Cooper joins the lab as lab manager! Welcome Breanna!**
+
 [June 24th, 2020] **Dr. Jin's lead author paper on congenital hydrocephalus genomics was accepted in Nature Medicine!**
 
 [April 30th, 2020] **Dr. Jin's lead author paper on cerebral palsy genomics was accepted in Nature Genetics!** 
