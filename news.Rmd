@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[September 3rd, 2020] **Dr. Jin's co-1st authored paper on trigeminal neuralgia genomics was accepted in iScience!**
+
 [August 5th, 2020] **Breanna Cooper joins the lab as lab manager! Welcome Breanna!**
 
 [June 24th, 2020] **Dr. Jin's lead author paper on congenital hydrocephalus genomics was accepted in Nature Medicine!**
