@@ -94,8 +94,14 @@ Bioinformatics Research Analyst, Washington University in St. Louis
 
 Po-Ying obtained her master's degree in microbiology specialized in bioinformatics from Soochow University. In her master's thesis, she performed genomics analysis and used cell biology approaches to reveal the anti-cancer ability of lipopolysaccharide binding peptides. To advance her programming skills, she completed several advanced computer science courses at 42 Silicon Valley (a software engineering school) and Ohlong College.  She loves cycling and traveling!
 
+-----
+
 ### Rotation Students and Interns
 
-***This could be you***
+<img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Shujuan Zhao__,
+Ph.D. Student, Washington University in St. Louis
+
 
 -----

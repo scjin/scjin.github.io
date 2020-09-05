@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[September 4th, 2020] **Shujuan Zhao joins the lab as a rotation student! Welcome Shujuan!**
+
 [September 3rd, 2020] **Dr. Jin's co-1st authored paper on trigeminal neuralgia genomics was accepted in iScience!**
 
 [August 5th, 2020] **Breanna Cooper joins the lab as lab manager! Welcome Breanna!**
