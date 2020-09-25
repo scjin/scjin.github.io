@@ -46,6 +46,13 @@ Breanna is the lab supervisor of the Jin lab. Breanna has a broad interest in bo
 
 ### Graduate Students
 
+<img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Shujuan Zhao__,
+Ph.D. Student, Washington University in St. Louis
+
+Shujuan is a 2nd year Ph.D. student at Washington University in St. Louis with a background in biochemistry and nuclear magnetic resonance. She is working with Dr. Jin and Dr. Kahle at Yale to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.
+
 <img src="images/Amar.jpg" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Amar Sheth__,
@@ -98,10 +105,6 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
-<img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Shujuan Zhao__,
-Ph.D. Student, Washington University in St. Louis
-
+***This could be you***
 
 -----
