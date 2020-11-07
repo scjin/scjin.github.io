@@ -3,7 +3,9 @@ title: "News"
 output: html_document
 ---
 
-[September 25th, 2020] **Shujuan Zhao joins the lab to perform her PhD thesis research!**
+[November 6th, 2020] **Jian Ryou joins the lab as a rotation student! Welcome Jian!**
+
+[September 25th, 2020] **Shujuan Zhao joins the lab for her thesis study! Welcome Shujuan!**
 
 [September 4th, 2020] **Shujuan Zhao joins the lab as a rotation student! Welcome Shujuan!**
 
