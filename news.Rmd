@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[November 11th, 2020] **Dr. Jin has been awarded the 2020 Clinical and Translational Research Funding Program from WashU ICTS to investigate complex geneticc model using long-read genome sequencing and integrative genomic analysis for cerebral palsy!**
+
 [November 6th, 2020] **Jian Ryou joins the lab as a rotation student! Welcome Jian!**
 
 [September 25th, 2020] **Shujuan Zhao joins the lab for her thesis study! Welcome Shujuan!**
