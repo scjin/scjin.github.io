@@ -25,8 +25,6 @@ Diab N#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **
 
 Li M, Zeng X, Jin L, **Jin SC**, Dong W, Brueckner M, Lifton RP, Lu Q, Zhao H. **Integrative modeling of transmitted and de novo variants identifies novel risk genes for congenital heart disease**. Under review in ***Quantitative Biology***.
 
-Lewis SA, Shetty S, Wilson B, Huang AJ, **Jin SC**, Smithers-Sheedy H, Fahey MC, Kruer MC. **Insights from genetic studies of cerebral palsy**. Under review in ***Frontiers in Neurology***.
-
 Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, **Jin SC**, Bilguvar K, Padilla-Lopez S, Kruer MC. **Mutation in ZDHHC15 leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual disability**. Under review in ***Neurology: Genetics***. 
 
 Bakhtiari S, Tafakhori A, **Jin SC**, Guida BS, Alehabib E, Firouzbadi S, Bilguvar K, Darvish H, Kruer MC. **Recessive COL4A2 mutation leads to intellectual disability, epilepsy, and spastic cerebral palsy**. Under minor revision in ***Neurology: Genetics***.
@@ -40,6 +38,8 @@ Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner
 Alsharhan H, He M, Edmondson AC, Donald T, Bakhtiari S, Amor D, Jones EA, Vassallo G, Vincent G, Cogné B, Deb W, Werners AH, **Jin SC**, Bilguvar K, Yearwood KR, Kruer MC, Li D, Sobering AK, Bho EJ. **ALG13 X-Linked Intellectual Disability: Report of New Variants, Glycosylation Markers and Expansion of the Phenotype**. Under review in ***Journal of Inherited Metabolic Disease***.
 
 ### 2020
+
+41 Lewis SA, Shetty S, Wilson B, Huang AJ, **Jin SC**, Smithers-Sheedy H, Fahey MC, Kruer MC. **Insights from genetic studies of cerebral palsy**. ***Frontiers in Neurology***. In Press
 
 40 Wiessner M, Maroofian R, Ni M-Y, Bartesaghi L, Pedroni A, Müller JS, Stucka R, Beetz C, Efthymiou S, Santorelli FM, Alfares AA, Zhu C, Meszarosova AU, Alehabib E, Bakhtiari S, Jannecke AR, Otero MG, Chen JY, Peterson JT, Skraban C, Goldstein A, Strom TM, Jonghe PD, Deconinck T, Ridder WD, Winter JD, Pasquariello R, Ricca I, Alfadhel M, van de Warrenburg BP, Portier R, Bergmann C, Firouzabadi SG, **Jin SC**, Bilguvar K, ..., Senderek J. **Biallelic variants in HPDL cause pure and complicated hereditary spastic paraplegia**.  ***Brain***. In Press
 
