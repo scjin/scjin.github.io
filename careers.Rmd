@@ -7,7 +7,7 @@ output: html_document
 
 ### Postdoctoral Associate in Functional Genomics
 
-The Jin Lab is seeking a talented and enthusiastic postdoctoral fellow to join our growing team in the Department of Genetics at Washington University School of Medicine. The postdoctoral fellow will be jointly advised by investigators Sheng Chih Jin, Kristopher Kahle (Assistant Professor of Neurosurgery and Pediatrics and Cellular and Molecular Physiology at Yale School of Medicine) and Yi-Hsien Chen (Assistant Director of the Genome Engineering & iPSC Center). To tackle central questions about the pathophysiology of congenital hydrocephalus, moyamoya disease, and/or congenital heart disease, the fellow will conduct functional genomics research under the guiding aims:
+The Jin Lab is seeking a talented and enthusiastic postdoctoral fellow to join our growing team in the Department of Genetics at Washington University School of Medicine. The postdoctoral fellow will be jointly advised by investigators Sheng Chih Jin, Kristopher Kahle (Assistant Professor of Neurosurgery and Pediatrics and Cellular and Molecular Physiology at Yale School of Medicine) and Yi-Hsien Chen (Assistant Director of the Genome Engineering & iPSC Center). To tackle central questions about the pathophysiology of congenital hydrocephalus, cerebral palsy, and/or Moyamoya disease, the fellow will conduct functional genomics research under the guiding aims:
 
 * Characterization of biological mechanisms disrupted by pathogenic mutations
 * Development of human disease models using human-induced pluripotent stem cell and/or zebrafish model systems
@@ -26,9 +26,9 @@ Applicants should email a single PDF file consisting of a letter of interest and
 
 -----
 
-### Postdoctoral Associate in Computational Genomics ([WashU Job ID](https://jobs.wustl.edu/): 46784)
+### Postdoctoral Associate in Computational Genomics
 
-The Jin lab is looking for an energetic and motivated individual to work as a Postdoctoral Associate with a doctoral degree in genetics, genomics, computational biology, or computer science to investigate the genetic basis of congenital heart disease, hydrocephalus, and Moyamoya disease.
+The Jin lab is looking for an energetic and motivated individual to work as a Postdoctoral Associate with a doctoral degree in genetics, genomics, computational biology, or computer science to investigate the genetic basis of congenital hydrocephalus, cerebral palsy, and/or Moyamoya disease.
 
 Although advances in next-generation sequencing have discovered the genetic causes of a large proportion of patients with congenital disorders,the etiology of most cases remains unclear. It is becoming evident that simple genetic models do not entirely explain the causes of all congenital disorders and more nuanced approaches are required. Therefore, the Jin lab's research is focusing on the formulation and development of computational methods to determine the complex genetic basis underlying congenital disorders using human genetics, genomics, and advanced statistical methods. Our goal is to translate an improved molecular understanding of congenital disorders from the laboratory into clinically actionable models, diagnostics, and ultimately therapeutic interventions.
 
