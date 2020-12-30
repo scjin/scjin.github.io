@@ -39,7 +39,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 <img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Shujuan Zhao__,
-Ph.D. Candidate, Washington University in St. Louis
+Ph.D. Candidate (Chemistry), Washington University in St. Louis
 
 Shujuan is a 2nd year Ph.D. student at Washington University in St. Louis with a background in biochemistry and nuclear magnetic resonance. She is working with Dr. Jin and Dr. Kahle at Yale to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.
 
@@ -67,7 +67,7 @@ Weilai graduate with a B.S. in Biology in 2015 from the Zhejiang University. She
 <img src="images/SKing.jpeg" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Spencer King__,
-M.Sc. Student, Washington University in St. Louis
+M.Sc. Student (Computer Science), Washington University in St. Louis
 
 Spencer graduated with a B.S. in Computer Science and Engineering from the University of Notre Dame in 2016. He has held multiple jobs in healthcare and is interested in the application of machine learning techniques to the medical field.
 
@@ -75,7 +75,7 @@ Spencer graduated with a B.S. in Computer Science and Engineering from the Unive
 <img src="images/Sam.png" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Sam Peters__,
-M.Sc. Student, Saint Louis University
+M.Sc. Student (Bioinformatics and Computational Biology), Saint Louis University
 
 Sam graduated with a B.S. in Biology from the Southern Illinois University Edwardsville. He is interested in implementing efficient bioinformatic pipelines, increasing efficiencies of ones already in place, and visualizing large datasets in a high-throughput manner by creating efficient code. He has a passion for homebrewing and baking bread.
 
@@ -98,7 +98,7 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 <img src="images/jian_ryou1.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Jian Ryou__,
-Ph.D. Student (HSG), Washington University School of Medicne
+Ph.D. Student (Human & Statistical Genetics), Washington University School of Medicne
 
 
 -----
