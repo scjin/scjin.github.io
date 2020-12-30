@@ -39,7 +39,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 <img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Shujuan Zhao__,
-Ph.D. Student, Washington University in St. Louis
+Ph.D. Candidate, Washington University in St. Louis
 
 Shujuan is a 2nd year Ph.D. student at Washington University in St. Louis with a background in biochemistry and nuclear magnetic resonance. She is working with Dr. Jin and Dr. Kahle at Yale to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.
 
@@ -98,7 +98,7 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 <img src="images/jian_ryou1.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Jian Ryou__,
-Ph.D. Student, Washington University School of Medicne
+Ph.D. Student (HSG), Washington University School of Medicne
 
 
 -----
