@@ -35,13 +35,15 @@ Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner
 
 Alsharhan H, He M, Edmondson AC, Donald T, Bakhtiari S, Amor D, Jones EA, Vassallo G, Vincent G, Cogné B, Deb W, Werners AH, **Jin SC**, Bilguvar K, Yearwood KR, Kruer MC, Li D, Sobering AK, Bho EJ. **ALG13 X-Linked Intellectual Disability: Report of New Variants, Glycosylation Markers and Expansion of the Phenotype**. Under review in ***Journal of Inherited Metabolic Disease***.
 
-### 2020
+### 2021
 
 42 Bakhtiari S, Tafakhori A, **Jin SC**, Guida BS, Alehabib E, Firouzbadi S, Bilguvar K, Darvish H, Kruer MC. **Recessive COL4A2 mutation leads to intellectual disability, epilepsy, and spastic cerebral palsy**. ***Neurology: Genetics***. In Press
 
 41 Lewis SA, Shetty S, Wilson B, Huang AJ, **Jin SC**, Smithers-Sheedy H, Fahey MC, Kruer MC. **Insights from genetic studies of cerebral palsy**. ***Frontiers in Neurology***. In Press
 
 40 Wiessner M, Maroofian R, Ni M-Y, Bartesaghi L, Pedroni A, Müller JS, Stucka R, Beetz C, Efthymiou S, Santorelli FM, Alfares AA, Zhu C, Meszarosova AU, Alehabib E, Bakhtiari S, Jannecke AR, Otero MG, Chen JY, Peterson JT, Skraban C, Goldstein A, Strom TM, Jonghe PD, Deconinck T, Ridder WD, Winter JD, Pasquariello R, Ricca I, Alfadhel M, van de Warrenburg BP, Portier R, Bergmann C, Firouzabadi SG, **Jin SC**, Bilguvar K, ..., Senderek J. **Biallelic variants in HPDL cause pure and complicated hereditary spastic paraplegia**.  ***Brain***. In Press
+
+### 2020
 
 39 **Jin SC#**, Dong W#, Kundishora AJ#, Panchagnula S#, Moreno-De-Luca A#, Furey CG, Allocco AA, Walker RL, Nelson-Williams C, Smith H, Dunbar A, Conine S, Lu Q, Zeng X, Sierant MC, Knight JR, Sullivan W, Duy PQ, DeSpenza T, Reeves BC, Karimy JK, Marlier A, Castaldi C, Tikhonova IR, Li B, Peña HP, Broach JR, Kabachelor EM, Ssenyonga P, Hehnly C, Ge L, Keren B, Timberlake AT, Goto J, Mangano FT, Johnston JM, Butler WE, Warf BC, Smith ER, Schiff SJ, Limbrick DD, Heuer G, Jackson EM, Iskandar BJ, Mane S, Haider S, Guclu B, Bayri Y, Sahin Y, Duncan CC, Apuzzo ML, DiLuna ML, Hoffman EJ, Sestan N, Ment LR, Alper SL, Bilguvar K, Geschwind DH, Günel M, Lifton RP, Kahle KT. [Exome sequencing implicates genetic disruption of prenatal neuro-gliogenesis in sporadic congenital hydrocephalus](https://www.nature.com/articles/s41591-020-1090-2). ***Nature Medicine***. #Co-first authors .\
 **Press coverage:** [Nature Medicine](https://www.nature.com/articles/s41591-020-1120-0), [Yale News](https://medicine.yale.edu/news-article/28466/)
