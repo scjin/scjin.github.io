@@ -80,8 +80,6 @@ M.Sc. Student (Bioinformatics and Computational Biology), Saint Louis University
 Sam graduated with a B.S. in Biology from the Southern Illinois University Edwardsville. He is interested in implementing efficient bioinformatic pipelines, increasing efficiencies of ones already in place, and visualizing large datasets in a high-throughput manner by creating efficient code. He has a passion for homebrewing and baking bread.
 
 
------
-
 <img src="images/Dean_Yu.png" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Xiaobing (Dean) Yu__,
@@ -89,6 +87,7 @@ M.Sc. Student (Computer Science), Washington University in St. Louis
 
 Xiaobing graduated with a B.S in Computer Science and Engineering from the Miami University. He is interested in applying natural language processing and deep learning techniques to process high dimenstional biomedical data.
 
+-----
 
 ### Staff
 
