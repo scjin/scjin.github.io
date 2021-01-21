@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 21th, 2020] **Xiaobing (Dean) Yu joins the lab as a student research assistant! Welcome Xiaobing!**
+
 [January 11th, 2020] **Dr. Jin's first paper being a corresponding author has been accepted in STAR Protocols. Graduate students Spencer (co-1st) and Sam are major authors.** 
 
 [November 11th, 2020] **Dr. Jin has been awarded the 2020 Clinical and Translational Research Funding Program from WashU ICTS to investigate complex genetic model using long-read genome sequencing and integrative genomic analysis for cerebral palsy!**
