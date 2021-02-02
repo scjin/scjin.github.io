@@ -117,4 +117,9 @@ __Jian Ryou__,
 Ph.D. Student (Human & Statistical Genetics), Washington University School of Medicne
 
 
+<img src="images/Changfeng-Chen-v2.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Changfeng Chen__,
+Ph.D. Student (Molecular Cell Biology), Washington University School of Medicne
+
 -----

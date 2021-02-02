@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[February 1st, 2020] **Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!**
+
 [January 26th, 2020] **Shohaib Shaffiey joins the lab as a student research assistant! Welcome Shohaib!**
 
 [January 21th, 2020] **Xiaobing (Dean) Yu joins the lab as a student research assistant! Welcome Xiaobing!**
