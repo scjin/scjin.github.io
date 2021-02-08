@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[February 8th, 2020] **Jin lab has been awarded a Zebrafish Models for Pediatric Research Services Cooperative Micro-grant to generate zebrafish knock-in lines to functionally characterize mutations' impact on vascular development!**
+
 [February 1st, 2020] **Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!**
 
 [January 26th, 2020] **Shohaib Shaffiey joins the lab as a student research assistant! Welcome Shohaib!**
