@@ -3,15 +3,15 @@ title: "News"
 output: html_document
 ---
 
-[February 8th, 2020] **Jin lab has been awarded a Zebrafish Models for Pediatric Research Services Cooperative Micro-grant to generate zebrafish knock-in lines to functionally characterize mutations' impact on vascular development!**
+[February 8th, 2021] **Jin lab has been awarded a Zebrafish Models for Pediatric Research Services Cooperative Micro-grant to generate zebrafish knock-in lines to functionally characterize mutations' impact on vascular development!**
 
-[February 1st, 2020] **Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!**
+[February 1st, 2021] **Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!**
 
-[January 26th, 2020] **Shohaib Shaffiey joins the lab as a student research assistant! Welcome Shohaib!**
+[January 26th, 2021] **Shohaib Shaffiey joins the lab as a student research assistant! Welcome Shohaib!**
 
-[January 21th, 2020] **Xiaobing (Dean) Yu joins the lab as a student research assistant! Welcome Xiaobing!**
+[January 21th, 2021] **Xiaobing (Dean) Yu joins the lab as a student research assistant! Welcome Xiaobing!**
 
-[January 11th, 2020] **Dr. Jin's first paper being a corresponding author has been accepted in STAR Protocols. Graduate students Spencer (co-1st) and Sam are major authors.** 
+[January 11th, 2021] **Dr. Jin's first paper being a corresponding author has been accepted in STAR Protocols. Graduate students Spencer (co-1st) and Sam are major authors.** 
 
 [November 11th, 2020] **Dr. Jin has been awarded the 2020 Clinical and Translational Research Funding Program from WashU ICTS to investigate complex genetic model using long-read genome sequencing and integrative genomic analysis for cerebral palsy!**
 
