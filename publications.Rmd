@@ -34,7 +34,7 @@ Alsharhan H, He M, Edmondson AC, Donald T, Bakhtiari S, Amor D, Jones EA, Vassal
 ### 2021
 
 
-44 Dzinovic I, Skorvanek M, Pavelekova P, Zhao C, Keren B, Whalen S, Bakhtiari S, **Jin SC**, Kruer MC, Jech R, Winkelmann J, Zech M. **Variant Recurrence Confirms the Existence of a FBXO31-Related Spastic-Dystonic Cerebral Palsy Syndrome**. ***Annals of Clinical and Translational Neurology***. In Press
+44 Dzinovic I, Skorvanek M, Pavelekova P, Zhao C, Keren B, Whalen S, Bakhtiari S, **Jin SC**, Kruer MC, Jech R, Winkelmann J, Zech M. **Variant recurrence confirms the existence of a FBXO31-related spastic-dystonic cerebral palsy syndrome**. ***Annals of Clinical and Translational Neurology***. In Press
 
 43 Diab N#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **Jin SC&**. **Analysis workflow to assess de novo genetic variants from whole-exome sequencing**. ***STAR Protocols***. #Co-first authors; &Co-corresponding authors. In Press 
 
