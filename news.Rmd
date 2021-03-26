@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[March 26th, 2021] **Amar Sheth, a medical student at Yale, has been admitted to the Clinical Research Training Center’s TL1 One-Year Predoctoral Program. He will be working with Dr. Jin and Dr. Milbrandt to perform integrative genomic analysis of cerebral palsy and rare pediatric movement disorde! Welcome Amar!**
+
 [February 8th, 2021] **Jin lab has been awarded a Zebrafish Models for Pediatric Research Services Cooperative Micro-grant to generate zebrafish knock-in lines to functionally characterize mutations' impact on vascular development!**
 
 [February 1st, 2021] **Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!**
