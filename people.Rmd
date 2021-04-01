@@ -46,7 +46,7 @@ Shujuan is a 2nd year Ph.D. student at Washington University in St. Louis with a
 <img src="images/Amar.jpg" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Amar Sheth__,
-Predoctoral Research Scholar, Washington Univeristy School of Medicine/Yale School of Medicine
+Predoctoral Research Scholar, Washington University School of Medicine/Yale School of Medicine
 
 Amar is a visiting predoctoral research fellow who is currently between his 3rd and 4th years of medical school at Yale. He has a background in developmental neuroscience and computer science. His broader research aim is to harness our current understanding of spatiotemporal genetics of the brain to discover mechanisms of neurological dysfunction. He is currently pursuing a Master's degree in clinical investigation through a TL1 grant fromt the NIH.
 
@@ -57,21 +57,13 @@ MD/Ph.D. Student, Yale School of Medicine
 
 Duy graduated with a B.S. in Neuroscience in 2018 from Johns Hopkins University, where he was a Barry M. Goldwater Scholar, Woodrow Wilson Research Fellow, HHMI Scholar, and NIH Research Fellow. He is interested in the molecular genetic mechanisms of neural development and the pathogenesis of primary and acquired central nervous system maldevelopment. 
 
-
+c
 <img src="images/SKing.jpeg" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Spencer King__,
 M.Sc. Student (Computer Science), Washington University in St. Louis
 
 Spencer graduated with a B.S. in Computer Science and Engineering from the University of Notre Dame in 2016. He has held multiple jobs in healthcare and is interested in the application of machine learning techniques to the medical field.
-
-
-<img src="images/Sam.png" style="width:20%; border:0; margin-right: 20px" align="top">
-
-__Sam Peters__,
-M.Sc. Student (Bioinformatics and Computational Biology), Saint Louis University
-
-Sam graduated with a B.S. in Biology from the Southern Illinois University Edwardsville. He is interested in implementing efficient bioinformatic pipelines, increasing efficiencies of ones already in place, and visualizing large datasets in a high-throughput manner by creating efficient code. He has a passion for homebrewing and baking bread.
 
 
 <img src="images/Dean_Yu.png" style="width:20%; border:0; margin-right: 20px" align="top">
@@ -116,6 +108,8 @@ Ph.D. Student (Molecular Cell Biology), Washington University School of Medicne
 
 __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/02
 
-__Weilai Dong__ - Ph.D. student (Genetics at Yale), 2015/08 - 2020/03; Currently MD student at Yale School of Medicine
+__Weilai Dong__ - Ph.D. student (Genetics at Yale), 2015/08 - 2020/03; currently MD student at Yale School of Medicine
+
+__Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2020/04; currently Master's student at SLU
 
 -----
