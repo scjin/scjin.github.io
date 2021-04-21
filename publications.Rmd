@@ -25,9 +25,9 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### Under revision or review
 
-Dong W#, Kaymakcalan H#, **Jin SC#**, Diab NS#, Tanıdır C, Yalcin ASY, Ercan-Sencicek AG, Mane S, Günel MGünel M, Lifton RP, Bilguvar K, Brueckner M. **Mutation spectrum of congenital heart disease in a consanguineous Turkish population**. #Co-first authors. Under review in ***Eorupean Journal of Human Genetics***.
+Dong W#, Kaymakcalan H#, **Jin SC#**, Diab NS#, Tanıdır C, Yalcin ASY, Ercan-Sencicek AG, Mane S, Günel MGünel M, Lifton RP, Bilguvar K, Brueckner M. **Mutation spectrum of congenital heart disease in a consanguineous Turkish population**. #Co-first authors. Under review in ***Aamerican Journal of Medical Genetics Part A***.
 
-Tang CS, Mononen M, Lam W-Y, **Jin SC**, Zhuang X, Garcia-Barcelo M, Li Q, Yang Y, Sahara M, Eroglu E, Chien K, Hong H, Tam PKH, Gruber PJ. **Whole genome sequencing of a Chinese cohort reveals clustering of de novo mutations in myogenic heart progenitors as a cellular pathway for Tetralogy of Fallot**. Under review in ***Nature Communications***.
+Tang CS, Mononen M, Lam W-Y, **Jin SC**, Zhuang X, Garcia-Barcelo M, Li Q, Yang Y, Sahara M, Eroglu E, Chien K, Hong H, Tam PKH, Gruber PJ. **Whole genome sequencing of a Chinese cohort reveals clustering of de novo mutations in myogenic heart progenitors as a cellular pathway for Tetralogy of Fallot**. ***Submitted***.
 
 DeSpenza T, Carlson M, Panchagnula S, Robert S, Mermin-Bunnell N, Reeves B, Kundishora A, Elsamadicy A, Smith H, Ocken J, Alper S, **Jin SC**, Hoffman E, Kahle KT. **PTEN mutation in autism spectrum disorder and congenital hydrocephalus: developmental pleiotropy and therapeutic target**. Under review in ***Nature Reviews Neurology***.
 
@@ -37,9 +37,9 @@ Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, **Jin SC**, Bilguv
 
 Duy PQ, **Jin SC**, Weise SC, Marini C, Dong W, Kundishora AJ, Torres-Fernández LA, Cuevas E, Hao LT, Furey CG, Zeng X,Jux B, Sousa AMM, Liu F, Kim SK, Li M, Yang Y, Takeo Y, Foster DJ, Nelson-Williams C, Allocco AA, Smith H, Dunbar A, Sullivan W, Ha Y, Selvaganesan K, Sheth AH, DeSpenza T, Reeves, BC, Goto J, Marlier A, Warf BC, Moreno-De-Luca A, Lake EMR, Constable RT, Sestan N, Lin H, Alper SL, Slack FJ, Wulczyn FG, Kolanus W, Lifton RP, Kahle KT. **Trim71 mutation causes congenital hydrocephalus by impairing prenatal neural stem cell regulation**. Under review in ***Cell Reports***.
 
-Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. **Protein kinase D1 mutation associated with human epilepsy and peripheral nerve hypermyelination**. Under revision in ***Clinical Genetics***.
-
 ### 2021
+
+48 Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. **Protein kinase D1 mutation associated with human epilepsy and peripheral nerve hypermyelination**. ***Clinical Genetics***. In Press
 
 47 Kundishora AJ#, **Peters ST#**, Pinard A, Duran D, Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D, Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N, Stratman AN, Chen Y-H, **Zhao S**, Roszko I, Lu Q, Zhang B, Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, **Jin SC&**, Kahle KT&. **DIAPH1 mutations in non-East Asian patients with sporadic moyamoya disease**. ***JAMA Neurology***. In Press. #Co-first authors; &Co-corresponding authors.
 
