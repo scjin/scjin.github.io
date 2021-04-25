@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[April 25th, 2021] **Kareena Joshipura joins the lab as s summer intern! Welcome Kareena!**
+
 [April 14th, 2021] **Kesava Viswanadha joins the lab as a summer intern! Welcome Kesava!**
 
 [April 7th, 2021] **Dr. Jin's co-corresponding authored paper on Moyamoya genomics was acceptde in JAMA Neurology. Sam is a co-1st author and Shujuan is an author!**
