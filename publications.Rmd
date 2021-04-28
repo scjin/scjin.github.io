@@ -39,7 +39,7 @@ Duy PQ, **Jin SC**, Weise SC, Marini C, Dong W, Kundishora AJ, Torres-Fernández
 
 ### 2021
 
-48 Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. **Protein kinase D1 mutation associated with human epilepsy and peripheral nerve hypermyelination**. ***Clinical Genetics***. In Press
+48 Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. [Protein kinase D1 mutation associated with human epilepsy and peripheral nerve hypermyelination](https://onlinelibrary.wiley.com/doi/abs/10.1111/cge.13973). ***Clinical Genetics***.
 
 47 Kundishora AJ#, **Peters ST#**, Pinard A, Duran D, Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D, Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N, Stratman AN, Chen Y-H, **Zhao S**, Roszko I, Lu Q, Zhang B, Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, **Jin SC&**, Kahle KT&. **DIAPH1 mutations in non-East Asian patients with sporadic moyamoya disease**. ***JAMA Neurology***. In Press. #Co-first authors; &Co-corresponding authors.
 
@@ -51,7 +51,7 @@ Duy PQ, **Jin SC**, Weise SC, Marini C, Dong W, Kundishora AJ, Torres-Fernández
 
 43 Diab N#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **Jin SC&**. [Analysis workflow to assess de novo genetic variants from whole-exome sequencing](https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY). ***STAR Protocols***. #Co-first authors; &Co-corresponding authors. 
 
-42 Bakhtiari S, Tafakhori A, **Jin SC**, Guida BS, Alehabib E, Firouzbadi S, Bilguvar K, Darvish H, Kruer MC. **Recessive COL4A2 mutation leads to intellectual disability, epilepsy, and spastic cerebral palsy**. ***Neurology: Genetics***. In Press
+42 Bakhtiari S, Tafakhori A, **Jin SC**, Guida BS, Alehabib E, Firouzbadi S, Bilguvar K, Darvish H, Kruer MC. [Recessive COL4A2 mutation leads to intellectual disability, epilepsy, and spastic cerebral palsy](https://ng.neurology.org/content/7/3/e583). ***Neurology: Genetics***.
 
 41 Lewis SA, Shetty S, Wilson B, Huang AJ, **Jin SC**, Smithers-Sheedy H, Fahey MC, Kruer MC. [Insights from genetic studies of cerebral palsy](https://www.frontiersin.org/articles/10.3389/fneur.2020.625428/full). ***Frontiers in Neurology***.
 
