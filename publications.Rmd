@@ -25,6 +25,8 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### Under revision or review
 
+Duy PQ, Dong W, Ma S, Rakic P, Sestan N, **Jin SC&**, Kahle KT&. Role of the proteoglycan Tsukushi in brain development and human congenital hydrocephalus. Under review in ***Science Translational Medicine***. &Co-corresponding authors.
+
 Kundishora AJ#, Singh AK#,Allington G, Dunbar AM, Duy PQ, Ryou J, Alper SL, **Jin SC&**, Kahle KT&. **Genomics of human congenital hydrocephalus**. Under review in ***Child's Nervous System***. #Co-first authors; &Co-corresponding authors.
 
 Dong W#, Kaymakcalan H#, **Jin SC#**, Diab NS#, Tanıdır C, Yalcin ASY, Ercan-Sencicek AG, Mane S, Günel MGünel M, Lifton RP, Bilguvar K, Brueckner M. **Mutation spectrum of congenital heart disease in a consanguineous Turkish population**. #Co-first authors. Under review in ***Aamerican Journal of Medical Genetics Part A***.
@@ -33,7 +35,7 @@ Tang CS, Mononen M, Lam W-Y, **Jin SC**, Zhuang X, Garcia-Barcelo M, Li Q, Yang 
 
 DeSpenza T, Carlson M, Panchagnula S, Robert S, Mermin-Bunnell N, Reeves B, Kundishora A, Elsamadicy A, Smith H, Ocken J, Alper S, **Jin SC**, Hoffman E, Kahle KT. **PTEN mutation in autism spectrum disorder and congenital hydrocephalus: developmental pleiotropy and therapeutic target**. Under review in ***Nature Reviews Neurology***.
 
-Allington G#, **King S#**, Duy PQ, **Ryou J**, Singh A, Haider S, Kundishora AJ, Kahle KT&, **Jin SC&**. **Whole-exome sequencing as a potential diagnostic tool for human congenital hydrocephalus**. #Co-first authors; &Co-corresponding authors. Under review in ***Frontiers in Genetics***. 
+Allington G#, **King S#**, Duy PQ, **Ryou J**, Singh A, Haider S, Kundishora AJ, Kahle KT&, **Jin SC&**. **Whole-exome sequencing as a potential diagnostic tool for human congenital hydrocephalus**.  Under review in ***Frontiers in Genetics***. #Co-first authors; &Co-corresponding authors.
 
 Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, **Jin SC**, Bilguvar K, Padilla-Lopez S, Kruer MC. **Mutation in ZDHHC15 leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual disability**. Under review in ***Neurology: Genetics***. 
 
