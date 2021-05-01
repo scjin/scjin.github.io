@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[May 1st, 2021] **Yung-Chun (David) Wang has been awarded a prestigious Center of Regenerative Medicine postdoctoral Fellowship and will join the lab as a postdoc fellow! Welcome David!**
+
 [April 25th, 2021] **Kareena Joshipura joins the lab as s summer intern! Welcome Kareena!**
 
 [April 14th, 2021] **Kesava Viswanadha joins the lab as a summer intern! Welcome Kesava!**
