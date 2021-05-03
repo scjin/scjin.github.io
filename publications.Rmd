@@ -37,11 +37,11 @@ DeSpenza T, Carlson M, Panchagnula S, Robert S, Mermin-Bunnell N, Reeves B, Kund
 
 Allington G#, **King S#**, Duy PQ, **Ryou J**, Singh A, Haider S, Kundishora AJ, Kahle KT&, **Jin SC&**. **Whole-exome sequencing as a potential diagnostic tool for human congenital hydrocephalus**.  Under review in ***Frontiers in Genetics***. #Co-first authors; &Co-corresponding authors.
 
-Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, **Jin SC**, Bilguvar K, Padilla-Lopez S, Kruer MC. **Mutation in ZDHHC15 leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual disability**. Under review in ***Neurology: Genetics***. 
-
 Duy PQ, **Jin SC**, Weise SC, Marini C, Dong W, Kundishora AJ, Torres-Fernández LA, Cuevas E, Hao LT, Furey CG, Zeng X,Jux B, Sousa AMM, Liu F, Kim SK, Li M, Yang Y, Takeo Y, Foster DJ, Nelson-Williams C, Allocco AA, Smith H, Dunbar A, Sullivan W, Ha Y, Selvaganesan K, Sheth AH, DeSpenza T, Reeves, BC, Goto J, Marlier A, Warf BC, Moreno-De-Luca A, Lake EMR, Constable RT, Sestan N, Lin H, Alper SL, Slack FJ, Wulczyn FG, Kolanus W, Lifton RP, Kahle KT. **Trim71 mutation causes congenital hydrocephalus by impairing prenatal neural stem cell regulation**. Under review in ***Cell Reports***.
 
 ### 2021
+
+49 Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, **Jin SC**, Bilguvar K, Padilla-Lopez S, Kruer MC. **Mutation in ZDHHC15 leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual disability**. ***Neurology: Genetics***. In Press
 
 48 Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. [Protein kinase D1 mutation associated with human epilepsy and peripheral nerve hypermyelination](https://onlinelibrary.wiley.com/doi/abs/10.1111/cge.13973). ***Clinical Genetics***.
 
