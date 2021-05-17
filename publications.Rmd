@@ -55,7 +55,7 @@ Duy PQ, **Jin SC**, Weise SC, Marini C, Dong W, Kundishora AJ, Torres-Fernández
 
 44 Dzinovic I, Skorvanek M, Pavelekova P, Zhao C, Keren B, Whalen S, Bakhtiari S, **Jin SC**, Kruer MC, Jech R, Winkelmann J, Zech M. [Variant recurrence confirms the existence of a FBXO31-related spastic-dystonic cerebral palsy syndrome](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.51335). ***Annals of Clinical and Translational Neurology***.
 
-43 Diab N#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **Jin SC&**. [Analysis workflow to assess de novo genetic variants from whole-exome sequencing](https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY). ***STAR Protocols***. #Co-first authors; &Co-corresponding authors. 
+43 Diab NS#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **Jin SC&**. [Analysis workflow to assess de novo genetic variants from whole-exome sequencing](https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY). ***STAR Protocols***. #Co-first authors; &Co-corresponding authors. 
 
 42 Bakhtiari S, Tafakhori A, **Jin SC**, Guida BS, Alehabib E, Firouzbadi S, Bilguvar K, Darvish H, Kruer MC. [Recessive COL4A2 mutation leads to intellectual disability, epilepsy, and spastic cerebral palsy](https://ng.neurology.org/content/7/3/e583). ***Neurology: Genetics***.
 
