@@ -74,15 +74,6 @@ M.Sc. Student (Computer Science), Washington University in St. Louis
 
 Xiaobing graduated with a B.S in Computer Science and Engineering from the Miami University. He is interested in applying natural language processing and deep learning techniques to process high dimensional biomedical data.
 
-
-<img src="images/ShohaibsPicture.png" style="width:20%; border:0; margin-right: 20px" align="top">
-
-__Shohaib Shaffiey__,
-M.Sc. Student (Computer Science), Washington University in St. Louis
-
-Shohaib is currently an M.Sc. Student in Computer Science at Washington University in St. Louis. He graduated with a BS in Biological Engineering from the University of Missouri - Columbia and with a M.Sc. in Bioinformatics from Johns Hopkins University.  He's interested in applying linear and non-linear dimensionality reduction techniques to preprocess high dimensional genomic data sets so that machine learning techniques can be better applied to them.  He's also interested in applying Machine Learning algorithms on genomic and proteomic data to predict gene expression, protein structure and function, phylogenetic tree formation, coding, non-coding, and regulatory regions of genes.
-
-
 -----
 
 ### Staff
@@ -127,5 +118,7 @@ __Weilai Dong__ - Ph.D. student (Genetics at Yale), 2015/08 - 2020/03; currently
 __Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04; currently Master's student at SLU
 
 __Spencer King__ - Master's student (Computer Science & Engineering); currently summer intern at WashU Institute for Informatics
+
+__Shohaib Shaffiey__ Master's student (Computer Science & Engineering); currently Master's student at WashU
 
 -----
