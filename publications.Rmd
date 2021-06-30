@@ -7,6 +7,8 @@ output: html_document
 
 ### Featured publications
 
+Diab NS#, Barish S#, Dong W#, **Zhao S#**, allington G, **Yu X**, Kahle KT, Brueckner M&, **Jin SC&**. [Molecular genetics and complex inheritance of congenital heart disease](https://www.mdpi.com/2073-4425/12/7/1020). ***Genes***. #Co-first authors; &Co-corresponding authors.
+
 Kundishora AJ#, **Peters ST#**, Pinard A, Duran D, Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D, Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N, Stratman AN, Chen Y-H, **Zhao S**, Roszko I, Lu Q, Zhang B, Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, **Jin SC&**, Kahle KT&. 2021. [DIAPH1 mutations in non-East Asian patients with sporadic moyamoya disease](https://jamanetwork.com/journals/jamaneuroly/fullarticle/2781029). ***JAMA Neurology***. #Co-first authors; &Co-corresponding authors.
 
 Diab N#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **Jin SC&**. 2021. [Analysis workflow to assess de novo genetic variants from whole-exome sequencing](https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY). ***STAR Protocols***. #Co-first authors; &Co-corresponding authors.
@@ -25,7 +27,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### Under revision or review
 
-Duy PQ, Dong W, Ma S, Rakic P, Sestan N, **Jin SC&**, Kahle KT&. Role of the proteoglycan Tsukushi in brain development and human congenital hydrocephalus. Under review in ***Science Translational Medicine***. &Co-corresponding authors.
+Duy PQ, Dong W, Ma S, Rakic P, Sestan N, **Jin SC**, Kahle KT&. Role of the proteoglycan Tsukushi in brain development and human congenital hydrocephalus. Under review in ***Science Translational Medicine***.
 
 Dong W#, Kaymakcalan H#, **Jin SC#**, Diab NS#, Tanıdır C, Yalcin ASY, Ercan-Sencicek AG, Mane S, Günel MGünel M, Lifton RP, Bilguvar K, Brueckner M. **Mutation spectrum of congenital heart disease in a consanguineous Turkish population**. Under review in ***American Journal of Medical Genetics Part A***. #Co-first authors.
 
@@ -34,6 +36,8 @@ Tang CS, Mononen M, Lam W-Y, **Jin SC**, Zhuang X, Garcia-Barcelo M, Li Q, Yang 
 DeSpenza T, Carlson M, Panchagnula S, Robert S, Mermin-Bunnell N, Reeves B, Kundishora A, Elsamadicy A, Smith H, Ocken J, Alper S, **Jin SC**, Hoffman E, Kahle KT. **PTEN mutation in autism spectrum disorder and congenital hydrocephalus: developmental pleiotropy and therapeutic target**. Under review in ***Trends in Neurosciences***.
 
 ### 2021
+
+51 Diab NS#, Barish S#, Dong W#, **Zhao S#**, allington G, **Yu X**, Kahle KT, Brueckner M&, **Jin SC&**. [Molecular genetics and complex inheritance of congenital heart disease](https://www.mdpi.com/2073-4425/12/7/1020). ***Genes***. #Co-first authors; &Co-corresponding authors.
 
 50 Kundishora AJ#, Singh AK#, Allington G, Dunbar AM, Duy PQ, Ryou J, Alper SL, **Jin SC**, Kahle KT&. **Genomics of human congenital hydrocephalus**. ***Child's Nervous System***. In Press. #Co-first authors. 
 
