@@ -5,13 +5,17 @@ output: html_document
 
 <br>
 
+[NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/sheng%20chih.jin.1/bibliography/public/)
+
+Lab members in **bold**.
+
 ### Featured publications
 
 Diab NS#, Barish S#, Dong W#, **Zhao S#**, allington G, **Yu X**, Kahle KT, Brueckner M&, **Jin SC&**. 2021. [Molecular genetics and complex inheritance of congenital heart disease](https://www.mdpi.com/2073-4425/12/7/1020). ***Genes***. #Co-first authors; &Co-corresponding authors.
 
 Kundishora AJ#, **Peters ST#**, Pinard A, Duran D, Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D, Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N, Stratman AN, Chen Y-H, **Zhao S**, Roszko I, Lu Q, Zhang B, Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, **Jin SC&**, Kahle KT&. 2021. [DIAPH1 mutations in non-East Asian patients with sporadic moyamoya disease](https://jamanetwork.com/journals/jamaneuroly/fullarticle/2781029). ***JAMA Neurology***. #Co-first authors; &Co-corresponding authors.
 
-Diab N#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **Jin SC&**. 2021. [Analysis workflow to assess de novo genetic variants from whole-exome sequencing](https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY). ***STAR Protocols***. #Co-first authors; &Co-corresponding authors.
+Diab NS#, **King S#**, Dong W#, Allington G, Sheth A, **Peters S**, Kahle KT&, **Jin SC&**. 2021. [Analysis workflow to assess de novo genetic variants from whole-exome sequencing](https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY). ***STAR Protocols***. #Co-first authors; &Co-corresponding authors.
 
 **Jin SC#**, Dong W#, Kundishora AJ#, Panchagnula S#, Moreno-De-Luca A#, Furey CG, Allocco AA, Walker RL, Nelson-Williams C, Smith H, Dunbar A, Conine S, Lu Q, Zeng X, Sierant MC, Knight JR, Sullivan W, Duy PQ, DeSpenza T, Reeves BC, Karimy JK, Marlier A, Castaldi C, Tikhonova IR, Li B, Peña HP, Broach JR, Kabachelor EM, Ssenyonga P, Hehnly C, Ge L, Keren B, Timberlake AT, Goto J, Mangano FT, Johnston JM, Butler WE, Warf BC, Smith ER, Schiff SJ, Limbrick DD, Heuer G, Jackson EM, Iskandar BJ, Mane S, Haider S, Guclu B, Bayri Y, Sahin Y, Duncan CC, Apuzzo ML, DiLuna ML, Hoffman EJ, Sestan N, Ment LR, Alper SL, Bilguvar K, Geschwind DH, Günel M, Lifton RP, Kahle KT. 2020. [Exome sequencing implicates genetic disruption of prenatal neuro-gliogenesis in sporadic congenital hydrocephalus](https://www.nature.com/articles/s41591-020-1090-2). ***Nature Medicine***. #Co-first authors .\
 **Press coverage:** [Nature Medicine](https://www.nature.com/articles/s41591-020-1120-0), [Yale News](https://medicine.yale.edu/news-article/28466/)
