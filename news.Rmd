@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[July 9th, 2021] **Summer lab outing with great food and drinks**
+
+<img src="images/JinLabOuting2021.jpeg" style="width:75%; border:0; margin-right: 20px" align="top">
+
 [May 1st, 2021] **Yung-Chun (David) Wang has been awarded a prestigious Center of Regenerative Medicine Postdoctoral Fellowship and will join the lab as a postdoc fellow! Welcome David!**
 
 [April 25th, 2021] **Kareena Joshipura joins the lab as s summer intern! Welcome Kareena!**
