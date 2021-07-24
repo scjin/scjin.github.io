@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[July 24th, 2021] **Our Genes paper was selected as the cover for the 2021 July issue.**
+
+<img src="images/cover-genes.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
 [July 9th, 2021] **Summer lab outing with great food and drinks**
 
 <img src="images/JinLabOuting2021.jpeg" style="width:75%; border:0; margin-right: 20px" align="top">
