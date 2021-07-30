@@ -37,7 +37,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 50 Kundishora AJ, Singh AK, Allington G, Dunbar AM, Duy PQ, **Ryou J**, Alper SL, **Jin SC**, Kahle KT. [Genomics of human congenital hydrocephalus](https://link.springer.com/article/10.1007/s00381-021-05230-8). ***Child's Nervous System***. 
 
-49 Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, **Jin SC**, Bilguvar K, Padilla-Lopez S, Kruer MC. **Mutation in ZDHHC15 leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual disability**. ***Neurology: Genetics***. In Press.
+49 Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, **Jin SC**, Bilguvar K, Padilla-Lopez S, Kruer MC. [Mutation in ZDHHC15 leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual disability](https://ng.neurology.org/content/7/4/e602). ***Neurology: Genetics***.
 
 48 Omar S, **Jin SC**, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. [Protein kinase D1 mutation associated with human epilepsy and peripheral nerve hypermyelination](https://onlinelibrary.wiley.com/doi/abs/10.1111/cge.13973). ***Clinical Genetics***.
 
