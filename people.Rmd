@@ -71,6 +71,11 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
+<img src="images/PrashantKumarKuntala.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Prashant Kumar Kuntala__,
+DBBS Rotation Student (Computational and Systems Biology)
+
 <img src="images/IMG_7467.JPG" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Kareena Joshipura__,

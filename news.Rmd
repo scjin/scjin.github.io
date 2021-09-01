@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[September 1st, 2021] **Prashant Kumar Kuntala joins the lab as a rotation student! Welcome Prashant!**
+
 [July 24th, 2021] **Our Genes paper was selected as the cover for the 2021 July issue.**
 
 <img src="images/cover-genes.png" style="width:25%; border:0; margin-right: 20px" align="top">
