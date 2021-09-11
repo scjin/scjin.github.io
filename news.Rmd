@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[September 10th, 2021] **Mariam Khanfar joins the lab as a rotation student! Welcome Mariam!**
+
 [September 1st, 2021] **Prashant Kumar Kuntala joins the lab as a rotation student! Welcome Prashant!**
 
 [July 24th, 2021] **Our Genes paper was selected as the cover for the 2021 July issue.**
