@@ -71,6 +71,12 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
+<img src="images/Kuangying.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Kuangying Yang__,
+DBBS Rotation Student (Human & Statistical Genetics)
+
+
 <img src="images/Khanfar_HSG.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Mariam Khanfar__,
