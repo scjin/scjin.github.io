@@ -2,6 +2,9 @@
 title: "News"
 output: html_document
 ---
+
+[October 1st, 2021] **Dr. Jin has been awarded the 2021 Children's Discovery Institute Faculty Scholar Award from WashU CDI for the project "Human genetics and molecular mechanisms of cerebral palsy."**
+
 [September 22nd, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
 
 [September 10th, 2021] **Mariam Khanfar joins the lab as a rotation student! Welcome Mariam!**
