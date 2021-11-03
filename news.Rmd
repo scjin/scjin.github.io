@@ -3,6 +3,11 @@ title: "News"
 output: html_document
 ---
 
+[November 2nd, 2021] **Our first annual lab retreat was lots of fun at the Boathouse at Forest Park**
+
+<img src="images/FirstLabRetreat.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
+
+
 [October 1st, 2021] **Dr. Jin has been awarded the 2021 Children's Discovery Institute Faculty Scholar Award from WashU CDI for the project "Human genetics and molecular mechanisms of cerebral palsy."**
 
 [September 22nd, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
