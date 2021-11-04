@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[November 4th, 2021] **Dr. Jin has been awarded the 2021 Hydrocephalus Association Innovator Award for the project "A genome-wide assessment of noncoding risk variants in congenital hydrocephalus."**
+
 [November 2nd, 2021] **Our first annual lab retreat was lots of fun at the Boathouse at Forest Park**
 
 <img src="images/FirstLabRetreat.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
