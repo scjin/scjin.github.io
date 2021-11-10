@@ -75,6 +75,11 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
+<img src="images/Max_Wrubel.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Max Wrubel__,
+McDonnell Genome Institute OGR Student
+
 <img src="images/Julie.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Julie Choi__,
@@ -92,11 +97,6 @@ __Mariam Khanfar__,
 DBBS Rotation Student (Human & Statistical Genetics)
 
 
-<img src="images/PrashantKumarKuntala.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Prashant Kumar Kuntala__,
-DBBS Rotation Student (Computational and Systems Biology)
-
 <img src="images/IMG_7467.JPG" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Kareena Joshipura__,
@@ -107,6 +107,8 @@ Kareena is a rising senior at Mount Holyoke College, studying Statistics and Bio
 -----
 
 ### Alumni
+
+__Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11
 
 __Changfeng Chen__ - Rotation Student (Molecular Cell Biology), 2021/02 - 2021/04
 
