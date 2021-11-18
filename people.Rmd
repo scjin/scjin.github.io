@@ -5,7 +5,7 @@ output: html_document
 
 ### Principal Investigator
 
-<img src="images/SJIN.png" style="width:20%; border:0; margin-right: 20px" align="top">
+<img src="images/Jin_Peter.png" style="width:20%; border:0; margin-right: 20px" align="top">
 
 __Sheng Chih (Peter) Jin__
 
