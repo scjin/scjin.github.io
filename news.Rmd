@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[December 15th, 2021] **The group celebrates another fun and exciting-science-filled year with an equally fun party at Edera italian Eatery**
+
+<img src="images/20211215_185439.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
+
 [November 4th, 2021] **Dr. Jin has been awarded the 2021 Hydrocephalus Association Innovator Award for the project "A genome-wide assessment of noncoding risk variants in congenital hydrocephalus."**
 
 [November 2nd, 2021] **Our first annual lab retreat was lots of fun at the Boathouse at Forest Park**

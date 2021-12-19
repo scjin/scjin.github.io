@@ -33,7 +33,9 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2021
 
-60 Tang CSM#, Mononen M#, Lam W-Y, **Jin SC**, Zhuang X, Garcia-Barcelo M-M, Lin Q, Yang Y, Sahara M, Eroglu E, Chien K&, Hong H&, Tma PKH&, Gruber P&. **Sequencing of a Chinese Tetralogy of Fallot cohort reveals clustering mutations in myogenic heart progenitors**. ***JCI Insight***. #Co-first author; &Co-corresponding authors. In Press.
+61 Zech M#, Kopajtich R#, Steinbrücker K#, Bris C, Gueguen N, Feichtinger R, Achleitner M, Duzkale N, Périvier M, Koch J, Engelhardt H, Freisinger P, Wagner M, Brunet T, Berutti R, Smirnov D, Rodenburg RJ, Pais LS, Austin-Tse C, O’Leary M, Boesch S, Jech R, Bakhtiari S, **Jin SC**, Wilbert F, Kruer MC, Wortmann SB, Eckenweiler M, Mayr JA, Distelmaier F, Steinfeld R, Winkelmann J&, Prokisch H&. **Variants in mitochondrial ATP synthase cause variable neurologic phenotypes**. ***Annals of Neurology***. #Co-first author; &Co-corresponding authors. In Press.
+
+60 Tang CSM#, Mononen M#, Lam W-Y, **Jin SC**, Zhuang X, Garcia-Barcelo M-M, Lin Q, Yang Y, Sahara M, Eroglu E, Chien K&, Hong H&, Tma PKH&, Gruber P&. [Sequencing of a Chinese Tetralogy of Fallot cohort reveals clustering mutations in myogenic heart progenitors](https://insight.jci.org/articles/view/152198). ***JCI Insight***. #Co-first author; &Co-corresponding authors.
 
 59 Duy PQ, Rakic P, Alper SL, Butler WE, Walsh CA, Sestan N, Geschwind DH, **Jin SC**, Kahle KT. **Brain ventricles as windows into the development of the human cerebral cortex**. ***Neuron***. In Press.
 
