@@ -39,7 +39,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 __Yung-Chun (David) Wang__,
 Center of Regenerative Medicine Postdoctoral Fellow, Washington University School of Medicine
 
-David earned a B.S. in Agriculture Chemistry from the National Taiwan University. He did his Ph.D. with Dr. Shiyou Chen studying the mechanism underlying the regulation of JAK3 in abdominal aortic aneurysm at the University of Georgia. David has received a prestigious Center of Regenerative Medicine Postdoctoral Fellowship. He is focused on genetic analyses and functional genomics of Moyamoya and neuropathy projects.
+David earned a B.S. in Agriculture Chemistry from the National Taiwan University. He did his Ph.D. with Dr. Shiyou Chen studying the mechanism underlying the regulation of JAK3 in abdominal aortic aneurysm at the University of Georgia. David has received a prestigious Center of Regenerative Medicine Postdoctoral Fellowship. He is focused on genetic analyses and functional genomics of Moyamoya and cerebral palsy projects.
 
 
 -----
@@ -49,7 +49,7 @@ David earned a B.S. in Agriculture Chemistry from the National Taiwan University
 <img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Shujuan Zhao__,
-Ph.D. Candidate (Molecular Genetics and Genomics), Washington University in St. Louis
+Ph.D. Candidate (DBBS Molecular Genetics and Genomics), Washington University School of Medicine
 
 Shujuan is a 3rd year Ph.D. student at Washington University in St. Louis with a background in biochemistry and nuclear magnetic resonance. She is working with Dr. Jin and Dr. Kahle at Yale to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.
 
