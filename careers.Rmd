@@ -7,13 +7,13 @@ output: html_document
 
 ### Postdoctoral Associate in Functional Genomics
 
-The Jin Lab is seeking a talented and enthusiastic postdoctoral fellow to join our growing team in the Department of Genetics at Washington University School of Medicine. The postdoctoral fellow will be jointly advised by investigators Sheng Chih Jin, Kristopher Kahle (Assistant Professor of Neurosurgery and Pediatrics and Cellular and Molecular Physiology at Yale School of Medicine) and Yi-Hsien Chen (Assistant Director of the Genome Engineering & iPSC Center). To tackle central questions about the pathophysiology of congenital hydrocephalus, cerebral palsy, and/or Moyamoya disease, the fellow will conduct functional genomics research under the guiding aims:
+The Jin Lab is seeking a talented and enthusiastic postdoctoral fellow to join our growing team in the Department of Genetics at Washington University School of Medicine. To tackle central questions about the pathophysiology of neuropathy, congenital hydrocephalus, cerebral palsy, and/or congenital heart defects, the fellow will conduct functional genomics research under the guiding aims:
 
 * Characterization of biological mechanisms disrupted by pathogenic mutations
-* Development of human disease models using human-induced pluripotent stem cell and/or zebrafish model systems
+* Development of human disease models using massively parallel reporter assays and/or zebrafish model systems
 * Implementation of multi-omics approach that integrate high-throughput imaging and machine learning coupled with CRISPR/Cas9 screens
 
-Our interdisciplinary research environment brings together life scientists, computational biologists, and physician-scientists to identify mutations underlying human diseases and their pathogenic mechanisms with the ultimate goal of translating these findings into effective therapeutic treatments. For more information, please visit our lab webpages: https://scjin.github.io/, https://www.kahlelab.com/, and http://geic.wustl.edu/
+Our interdisciplinary research environment brings together life scientists, computational biologists, and physician-scientists to identify mutations underlying human diseases and their pathogenic mechanisms with the ultimate goal of translating these findings into effective therapeutic treatments. For more information, please visit our lab webpage: https://scjin.github.io/
 
 Required qualifications:
 
@@ -22,17 +22,17 @@ Required qualifications:
 * Good communication skills
 * In addition, applicants must be able to visit St. Louis for potential interviews
 
-Applicants should email a single PDF file consisting of a letter of interest and CV, and should arrange for three letters of reference to be sent to Dr. Jin (jin810@wustl.edu), Dr. Kahle (kristopher.kahle@yale.edu) and Dr. Chen (ychen5@wustl.edu)
+Applicants should email a single PDF file consisting of a letter of interest and CV, and should arrange for three letters of reference to be sent to Dr. Jin (jin810@wustl.edu).
 
 -----
 
 ### Postdoctoral Associate in Computational Genomics
 
-The Jin lab is looking for an energetic and motivated individual to work as a Postdoctoral Associate with a doctoral degree in genetics, genomics, computational biology, or computer science to investigate the genetic basis of congenital hydrocephalus, cerebral palsy, and/or Moyamoya disease.
+The Jin lab is looking for an energetic and motivated individual to work as a Postdoctoral Associate with a doctoral degree in genetics, genomics, computational biology, or computer science to investigate the genetic basis of neuropathy, congenital hydrocephalus, cerebral palsy, and/or congenital heart defects.
 
 Although advances in next-generation sequencing have discovered the genetic causes of a large proportion of patients with congenital disorders,the etiology of most cases remains unclear. It is becoming evident that simple genetic models do not entirely explain the causes of all congenital disorders and more nuanced approaches are required. Therefore, the Jin lab's research is focusing on the formulation and development of computational methods to determine the complex genetic basis underlying congenital disorders using human genetics, genomics, and advanced statistical methods. Our goal is to translate an improved molecular understanding of congenital disorders from the laboratory into clinically actionable models, diagnostics, and ultimately therapeutic interventions.
 
-We are currently looking for researchers with a strong computational background in genomic and functional genomic analysis, including whole exome/genome sequencing, large scale genetic association studies, and integrative analysis of genomic and functional genomic data. The candidate will be expected to plan and carry out research tasks independently and write-up/present findings on a regular basis.
+We are currently looking for researchers with a strong computational background in genomic and functional genomic analysis, including whole genome sequencing, single-cell RNA-sequencing, genetic association studies, and integrative analysis of genomic and functional genomic data. The candidate will be expected to plan and carry out research tasks independently and write-up/present findings on a regular basis.
 
 The Jin lab is located in the Couch Biomedical Research building on the 5th floor in the Department of Genetics space. The successful candidate will take advantage of the unique collaborative relationships with the McDonnell Genome Institute, the Intellectual and Developmental Disabilities Research Center, Departments of Pediatrics & Neuroscience, and across the broader research community of Washington University which provides outstanding training and educational opportunities. Dr. Jin is committed to mentoring and training the candidate, providing all the support the candidate needs to reach their career goals. For competitive candidates, references from current and previous trainees attesting to the supportive and dynamic research environment of the Jin lab are available upon request.
 
