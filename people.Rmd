@@ -73,26 +73,15 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 __Max Wrubel__,
 McDonnell Genome Institute OGR Student
 
-<img src="images/Julie.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Julie Choi__,
-DBBS Rotation Student (Human & Statistical Genetics)
-
-<img src="images/Kuangying.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Kuangying Yang__,
-DBBS Rotation Student (Human & Statistical Genetics)
-
-
-<img src="images/Khanfar_HSG.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Mariam Khanfar__,
-DBBS Rotation Student (Human & Statistical Genetics)
-
-
 -----
 
 ### Alumni
+
+__Julie Choi__ - Rotation Student (Human & Statistical Genetics), 2021/10 - 2021/12
+
+__Mariam Khanfar__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12
+
+__Kuangying Yang__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12
 
 __Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11; currently Master's student at WashU
 
