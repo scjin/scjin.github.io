@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 13th, 2022] **Lei Lu joins the lab as a rotation student! Welcome Lei!**
+
 [December 15th, 2021] **The group celebrates another fun and exciting-science-filled year with an equally fun party at Edera italian Eatery.**
 
 <img src="images/20211215_185439.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
@@ -15,10 +17,11 @@ output: html_document
 
 <img src="images/FirstLabRetreat.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
 
+[October 28th, 2021] **Julie Choi joins the lab as a rotation student! Welcome Julie!**
 
 [October 1st, 2021] **Dr. Jin has been awarded the 2021 Children's Discovery Institute Faculty Scholar Award from WashU CDI for the project "Human genetics and molecular mechanisms of cerebral palsy."**
 
-[September 22nd, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
+[Septem 22nd, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
 
 [September 10th, 2021] **Mariam Khanfar joins the lab as a rotation student! Welcome Mariam!**
 
