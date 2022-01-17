@@ -74,6 +74,12 @@ __Max Wrubel__,
 McDonnell Genome Institute OGR Student
 
 
+<img src="images/Nahyun.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Nahyun Kong__,
+Rotation PhD student (Human & Statistical Genetics)
+
+
 <img src="images/Lei_Lu.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Lei Lu__,

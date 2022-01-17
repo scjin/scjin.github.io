@@ -2,6 +2,7 @@
 title: "News"
 output: html_document
 ---
+[January 17th, 2022] **Nahyun Kong joins the lab as a rotation student! Welcome Nahyun!**
 
 [January 13th, 2022] **Lei Lu joins the lab as a rotation student! Welcome Lei!**
 
