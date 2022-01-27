@@ -11,9 +11,9 @@ Lab members in **bold**.
 
 ### Featured publications
 
-**Wang Y-C#**, Wu Y#, **Choi J#**, Allington G#, **Zhao S#**, **Khanfar M#**, **Yang K#**, **Fu P-Y**, **Wrubel M**, **Yu X**, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&, **Jin SC&**. **Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy**.  ***Journal of Personalized Medicine***. In Press. #Co-first author; &Co-corresponding authors.
+**Wang Y-C#**, Wu Y#, **Choi J#**, Allington G#, **Zhao S#**, **Khanfar M#**, **Yang K#**, **Fu P-Y**, **Wrubel M**, **Yu X**, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&, **Jin SC&**. 2022. [Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy](https://www.mdpi.com/2075-4426/12/2/175).  ***Journal of Personalized Medicine***. #Co-first author; &Co-corresponding authors. [**Feature paper**]
 
-Allington G, Duy PQ, **Ryou J**, Singh A, Kiziltug E, Robert SM, Kundishora A, **King S**, Haider S, Kahle KT, **Jin SC**. [Genomic approaches to improve the clinical diagnosis and management of congenital hydrocephalus patients](https://thejns.org/pediatrics/view/journals/j-neurosurg-pediatr/aop/article-10.3171-2021.8.PEDS21368/article-10.3171-2021.8.PEDS21368.xml)  ***Journal of Neurosurgery:Pediatrics***.
+Allington G, Duy PQ, **Ryou J**, Singh A, Kiziltug E, Robert SM, Kundishora A, **King S**, Haider S, Kahle KT, **Jin SC**. 2021. [Genomic approaches to improve the clinical diagnosis and management of congenital hydrocephalus patients](https://thejns.org/pediatrics/view/journals/j-neurosurg-pediatr/aop/article-10.3171-2021.8.PEDS21368/article-10.3171-2021.8.PEDS21368.xml). ***Journal of Neurosurgery:Pediatrics***.
 
 Diab NS#, Barish S#, Dong W#, **Zhao S#**, Allington G, **Yu X**, Kahle KT, Brueckner M&, **Jin SC&**. 2021. [Molecular genetics and complex inheritance of congenital heart disease](https://www.mdpi.com/2073-4425/12/7/1020). ***Genes***. #Co-first authors; &Co-corresponding authors. [**Cover story**](https://www.mdpi.com/2073-4425/12/7?utm_campaign=releaseissue_genesutm_medium=emailutm_source=releaseissueutm_term=coverlink).
 
@@ -35,7 +35,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2022
 
-63 **Wang Y-C#**, Wu Y#, **Choi J#**, Allington G#, **Zhao S#**, **Khanfar M#**, **Yang K#**, **Fu P-Y**, **Wrubel M**, **Yu X**, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&, **Jin SC&**. **Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy**.  ***Journal of Personalized Medicine***. In Press. #Co-first author; &Co-corresponding authors.
+63 **Wang Y-C#**, Wu Y#, **Choi J#**, Allington G#, **Zhao S#**, **Khanfar M#**, **Yang K#**, **Fu P-Y**, **Wrubel M**, **Yu X**, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&, **Jin SC&**. [Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy](https://www.mdpi.com/2075-4426/12/2/175). ***Journal of Personalized Medicine***. #Co-first author; &Co-corresponding authors. [**Feature paper**]
 
 62 Duy PQ#, Weise SC#, Marini C, Li X, Liang D, Dahl P, Ma S, Spajic A, Dong W, Juusola J, Kiziltug E, Kundishora AJ, Koundal S, Pedram MZ, Torres-Fernández LZ, Händler K, Domenico ED, Becker M, Ulas T, Juranek SA, Cuevas E, Hao LT, Jux B, Sousa AM, Kim S-K, Li M, Yang Y, Takeo Y, Duque A, Nelson-Williams C, Ha Y, Selvaganesan K, Robert SM, Singh AK, Allington G, Furey CG, Timberlake AT, Reeves BC, Smith H, Dunbar A, DeSpenza Jr. T, Goto J, Marlier A, Moreno-De-Luc A, Yu X, Butler WE, Carter BS, Lake EM, Constable RT, Rakic P, Lin H, Deniz E, Benveniste H, Malvankar N, Estrada-Veras JI, Walsh CA, Alper SL, Schultze J, Paeschke K, Doetzlhofer A, Wulczyn FG, **Jin SC**, Lifton RP, Sestan N, Kolanus W, Kahle KT. **Convergent systems biology uncovers mechanisms of human congenital hydrocephalus**. ***Nature Neuroscience***. In Press. #Co-first author.  
 
