@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[February 9th, 2022] **Lab outing to celebrate our recent publication and the Hydrocephalus Association Innovator Award!**
+
+<img src="images/02-09-2022.jpeg" style="width:75%; border:0; margin-right: 20px" align="top">
+
 [January 17th, 2022] **Julie Choi joins the lab for her thesis study. Julie will be co-advised by Peter and Dr. Jeff Milbrandt. Welcome back Julie!**
 
 [January 17th, 2022] **Nahyun Kong joins the lab as a rotation student! Welcome Nahyun!**
