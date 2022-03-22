@@ -60,6 +60,14 @@ Ph.D. Student (DBBS Human & Statistical Genetics), Washington University School 
 
 Julie is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biology and Public Health at the University of Texas at Austin. She is working with Dr. Jin and Dr. Jeff Milbrandt to figure out the genetic etiology and molecular mechanisms of hereditary neuropathy. 
 
+<img src="images/Nahyun.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Nahyun Kong__,
+Ph.D. student (DBBS Human & Statistical Genetics), Washington University School of Medicine
+
+Nahyun is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of congenital heart disease and rare movement disorders.
+
+
 -----
 
 ### Staff
@@ -79,13 +87,6 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 __Max Wrubel__,
 McDonnell Genome Institute OGR Student
-
-
-<img src="images/Nahyun.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Nahyun Kong__,
-Rotation PhD student (Human & Statistical Genetics)
-
 
 -----
 

@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[March 21th, 2022] **Nahyun Kong joins the lab for her thesis study.**
+
 [February 9th, 2022] **Lab outing to celebrate our recent publication and the Hydrocephalus Association Innovator Award!**
 
 <img src="images/02-09-2022.jpeg" style="width:75%; border:0; margin-right: 20px" align="top">
