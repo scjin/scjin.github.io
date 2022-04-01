@@ -65,7 +65,7 @@ Julie is a 1st year Ph.D. student at Washington University in St. Louis. She com
 __Nahyun Kong__,
 Ph.D. student (DBBS Human & Statistical Genetics), Washington University School of Medicine
 
-Nahyun is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of congenital heart disease and rare movement disorders.
+Nahyun is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of rare movement disorders.
 
 
 -----
