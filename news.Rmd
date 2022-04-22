@@ -2,6 +2,7 @@
 title: "News"
 output: html_document
 ---
+[April 22nd, 2022] **Dr. Jin hass been awarded the 2021 Cerebral Palsy Alliance Research Foundation grant from the Cerebral Palsy Alliance Research Foundation for the projecct "Discovery of novel genetic variations in cerebral palsy by whole genome sequencing."**
 
 [March 21th, 2022] **Nahyun Kong joins the lab for her thesis study.**
 
