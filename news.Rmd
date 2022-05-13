@@ -2,7 +2,7 @@
 title: "News"
 output: html_document
 ---
-[May 12, 2022] ****Lab outing to welcome WUSTL MSTP rotation students Yuxiao Xu and Wendy Dong at Brasserie by Niche!**
+[May 12, 2022] **Lab outing to welcome WUSTL MSTP rotation students Yuxiao Xu and Wendy Dong at Brasserie by Niche!**
 
 <img src="images/LabOuting05122022.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
