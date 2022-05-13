@@ -2,97 +2,102 @@
 title: "News"
 output: html_document
 ---
+[May 12, 2022] ****Lab outing to welcome WUSTL MSTP rotation students Yuxiao Xu and Wendy Dong at Brasserie by Niche!**
 
-[May 10th, 2022] **Congratulations to our graduate students Shujuan Zhao and Max Wrubel who have been awarded with Scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
+<img src="images/LabOuting05122022.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
-[April 22nd, 2022] **Dr. Jin hass been awarded the 2021 Cerebral Palsy Alliance Research Foundation Project Grant from the Cerebral Palsy Alliance Research Foundation for the projecct "Discovery of novel genetic variations in cerebral palsy by whole genome sequencing."**
+[May 12, 2022] **Yuxiao Xu and Wendy Dong, two WUSTL MSTP studnets, join the lab as rotation students! Welcome Yuxiao and Wendy!**
 
-[March 21th, 2022] **Nahyun Kong joins the lab for her thesis study.**
+[May 10, 2022] **Congratulations to our graduate students Shujuan Zhao and Max Wrubel who have been awarded with Scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
 
-[February 9th, 2022] **Lab outing to celebrate our recent publication and the Hydrocephalus Association Innovator Award!**
+[April 22, 2022] **Dr. Jin hass been awarded the 2021 Cerebral Palsy Alliance Research Foundation Project Grant from the Cerebral Palsy Alliance Research Foundation for the projecct "Discovery of novel genetic variations in cerebral palsy by whole genome sequencing."**
+
+[March 21, 2022] **Nahyun Kong joins the lab for her thesis study.**
+
+[February 9, 2022] **Lab outing to celebrate our recent publication and the Hydrocephalus Association Innovator Award!**
 
 <img src="images/02-09-2022.jpeg" style="width:75%; border:0; margin-right: 20px" align="top">
 
-[January 17th, 2022] **Julie Choi joins the lab for her thesis study. Julie will be co-advised by Peter and Dr. Jeff Milbrandt. Welcome back Julie!**
+[January 17, 2022] **Julie Choi joins the lab for her thesis study. Julie will be co-advised by Peter and Dr. Jeff Milbrandt. Welcome back Julie!**
 
-[January 17th, 2022] **Nahyun Kong joins the lab as a rotation student! Welcome Nahyun!**
+[January 17, 2022] **Nahyun Kong joins the lab as a rotation student! Welcome Nahyun!**
 
-[January 13th, 2022] **Lei Lu joins the lab as a rotation student! Welcome Lei!**
+[January 13, 2022] **Lei Lu joins the lab as a rotation student! Welcome Lei!**
 
-[December 15th, 2021] **The group celebrates another fun and exciting-science-filled year with an equally fun party at Edera italian Eatery.**
+[December 15, 2021] **The group celebrates another fun and exciting-science-filled year with an equally fun party at Edera italian Eatery.**
 
 <img src="images/20211215_185439.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
 
-[November 10th, 2021] **Max Wrubel joins the lab as a McDonnell Genome Institute Opportunities in Genomics Research Student! Welcome Max.**
+[November 10, 2021] **Max Wrubel joins the lab as a McDonnell Genome Institute Opportunities in Genomics Research Student! Welcome Max.**
 
-[November 4th, 2021] **Dr. Jin has been awarded the 2021 Hydrocephalus Association Innovator Award for the project "A genome-wide assessment of noncoding risk variants in congenital hydrocephalus."**
+[November 4, 2021] **Dr. Jin has been awarded the 2021 Hydrocephalus Association Innovator Award for the project "A genome-wide assessment of noncoding risk variants in congenital hydrocephalus."**
 
-[November 2nd, 2021] **Our first annual lab retreat was lots of fun at the Boathouse at Forest Park.**
+[November 2, 2021] **Our first annual lab retreat was lots of fun at the Boathouse at Forest Park.**
 
 <img src="images/FirstLabRetreat.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
 
-[October 28th, 2021] **Julie Choi joins the lab as a rotation student! Welcome Julie!**
+[October 28, 2021] **Julie Choi joins the lab as a rotation student! Welcome Julie!**
 
-[October 1st, 2021] **Dr. Jin has been awarded the 2021 Children's Discovery Institute Faculty Scholar Award from WashU CDI for the project "Human genetics and molecular mechanisms of cerebral palsy."**
+[October 1, 2021] **Dr. Jin has been awarded the 2021 Children's Discovery Institute Faculty Scholar Award from WashU CDI for the project "Human genetics and molecular mechanisms of cerebral palsy."**
 
-[Septem 22nd, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
+[Septem 22, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
 
-[September 10th, 2021] **Mariam Khanfar joins the lab as a rotation student! Welcome Mariam!**
+[September 10, 2021] **Mariam Khanfar joins the lab as a rotation student! Welcome Mariam!**
 
-[September 1st, 2021] **Prashant Kumar Kuntala joins the lab as a rotation student! Welcome Prashant!**
+[September 1, 2021] **Prashant Kumar Kuntala joins the lab as a rotation student! Welcome Prashant!**
 
-[July 24th, 2021] **Our Genes paper was selected as the cover for the 2021 July issue.**
+[July 24, 2021] **Our Genes paper was selected as the cover for the 2021 July issue.**
 
 <img src="images/cover-genes.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
-[July 9th, 2021] **Summer lab outing with great food and drinks**
+[July 9, 2021] **Summer lab outing with great food and drinks**
 
 <img src="images/JinLabOuting2021.jpeg" style="width:75%; border:0; margin-right: 20px" align="top">
 
-[May 1st, 2021] **Yung-Chun (David) Wang has been awarded a prestigious Center of Regenerative Medicine Postdoctoral Fellowship and will join the lab as a postdoc fellow! Welcome David!**
+[May 1, 2021] **Yung-Chun (David) Wang has been awarded a prestigious Center of Regenerative Medicine Postdoctoral Fellowship and will join the lab as a postdoc fellow! Welcome David!**
 
-[April 25th, 2021] **Kareena Joshipura joins the lab as s summer intern! Welcome Kareena!**
+[April 25, 2021] **Kareena Joshipura joins the lab as s summer intern! Welcome Kareena!**
 
-[April 14th, 2021] **Kesava Viswanadha joins the lab as a summer intern! Welcome Kesava!**
+[April 14, 2021] **Kesava Viswanadha joins the lab as a summer intern! Welcome Kesava!**
 
-[April 7th, 2021] **Dr. Jin's co-corresponding authored paper on Moyamoya genomics was acceptde in JAMA Neurology. Sam is a co-1st author and Shujuan is an author!**
+[April 7, 2021] **Dr. Jin's co-corresponding authored paper on Moyamoya genomics was acceptde in JAMA Neurology. Sam is a co-1st author and Shujuan is an author!**
 
-[March 26th, 2021] **Amar Sheth, a medical student at Yale, has been admitted to the Clinical Research Training Center’s TL1 One-Year Predoctoral Program. He will be working with Dr. Jin and Dr. Milbrandt to perform integrative genomic analysis of cerebral palsy and rare pediatric movement disorder! Welcome on board Amar!**
+[March 26, 2021] **Amar Sheth, a medical student at Yale, has been admitted to the Clinical Research Training Center’s TL1 One-Year Predoctoral Program. He will be working with Dr. Jin and Dr. Milbrandt to perform integrative genomic analysis of cerebral palsy and rare pediatric movement disorder! Welcome on board Amar!**
 
-[February 8th, 2021] **Jin lab has been awarded a Zebrafish Models for Pediatric Research Services Cooperative Micro-grant to generate zebrafish knock-in lines to functionally characterize mutations' impact on vascular development!**
+[February 8, 2021] **Jin lab has been awarded a Zebrafish Models for Pediatric Research Services Cooperative Micro-grant to generate zebrafish knock-in lines to functionally characterize mutations' impact on vascular development!**
 
-[February 1st, 2021] **Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!**
+[February 1, 2021] **Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!**
 
-[January 26th, 2021] **Shohaib Shaffiey joins the lab as a student research assistant! Welcome Shohaib!**
+[January 26, 2021] **Shohaib Shaffiey joins the lab as a student research assistant! Welcome Shohaib!**
 
-[January 21th, 2021] **Xiaobing (Dean) Yu joins the lab as a student research assistant! Welcome Xiaobing!**
+[January 21, 2021] **Xiaobing (Dean) Yu joins the lab as a student research assistant! Welcome Xiaobing!**
 
-[January 11th, 2021] **Dr. Jin's first paper being a corresponding author has been accepted in STAR Protocols. Graduate students Spencer (co-1st) and Sam are major authors.** 
+[January 11, 2021] **Dr. Jin's first paper being a corresponding author has been accepted in STAR Protocols. Graduate students Spencer (co-1st) and Sam are major authors.** 
 
-[November 11th, 2020] **Dr. Jin has been awarded the 2020 Clinical and Translational Research Funding Program from WashU ICTS to investigate complex genetic model using long-read genome sequencing and integrative genomic analysis for cerebral palsy!**
+[November 11, 2020] **Dr. Jin has been awarded the 2020 Clinical and Translational Research Funding Program from WashU ICTS to investigate complex genetic model using long-read genome sequencing and integrative genomic analysis for cerebral palsy!**
 
-[November 6th, 2020] **Jian Ryou joins the lab as a rotation student! Welcome Jian!**
+[November 6, 2020] **Jian Ryou joins the lab as a rotation student! Welcome Jian!**
 
-[September 25th, 2020] **Shujuan Zhao joins the lab for her thesis study! Welcome Shujuan!**
+[September 25, 2020] **Shujuan Zhao joins the lab for her thesis study! Welcome Shujuan!**
 
-[September 4th, 2020] **Shujuan Zhao joins the lab as a rotation student! Welcome Shujuan!**
+[September 4, 2020] **Shujuan Zhao joins the lab as a rotation student! Welcome Shujuan!**
 
-[September 3rd, 2020] **Dr. Jin's co-1st authored paper on trigeminal neuralgia genomics was accepted in iScience!**
+[September 3, 2020] **Dr. Jin's co-1st authored paper on trigeminal neuralgia genomics was accepted in iScience!**
 
-[June 24th, 2020] **Dr. Jin's lead author paper on congenital hydrocephalus genomics was accepted in Nature Medicine!**
+[June 24, 2020] **Dr. Jin's lead author paper on congenital hydrocephalus genomics was accepted in Nature Medicine!**
 
-[April 30th, 2020] **Dr. Jin's lead author paper on cerebral palsy genomics was accepted in Nature Genetics!** 
+[April 30, 2020] **Dr. Jin's lead author paper on cerebral palsy genomics was accepted in Nature Genetics!** 
 
-[April 1st, 2020] **Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!**
+[April 1, 2020] **Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!**
 
-[April 1st, 2020] **The lab received R01 subaward funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project "Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus"**
+[April 1, 2020] **The lab received R01 subaward funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project "Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus"**
 
-[April 1st, 2020] **The lab received R00 funding (PI: Jin) from the National Heart, Lung, and Blood Institute for the project "Integrative Genomic Analysis of Congenital Heart Disease"**
+[April 1, 2020] **The lab received R00 funding (PI: Jin) from the National Heart, Lung, and Blood Institute for the project "Integrative Genomic Analysis of Congenital Heart Disease"**
 
-[April 1st, 2020] **Jin Lab opens**		
+[April 1, 2020] **Jin Lab opens**		
 
-[February 27th, 2020] **Sam Peters joins the lab as a summmer intern! Welcome Sam!**
+[February 27, 2020] **Sam Peters joins the lab as a summmer intern! Welcome Sam!**
 
-[February 5th, 2020] **Spencer King joins the lab as a summmer intern! Welcome Spencer! You are our first lab member!**  
+[February 5, 2020] **Spencer King joins the lab as a summmer intern! Welcome Spencer! You are our first lab member!**  
 
-[January 1st, 2020] **Postdoc Wanted: Computational Genomics in Congenital Disorders**
+[January 1, 2020] **Postdoc Wanted: Computational Genomics in Congenital Disorders**
