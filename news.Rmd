@@ -2,6 +2,9 @@
 title: "News"
 output: html_document
 ---
+
+[May 10th, 2022] **Congratulations to our graduate students Shujuan Zhao and Max Wrubel who have been awarded with Scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
+
 [April 22nd, 2022] **Dr. Jin hass been awarded the 2021 Cerebral Palsy Alliance Research Foundation Project Grant from the Cerebral Palsy Alliance Research Foundation for the projecct "Discovery of novel genetic variations in cerebral palsy by whole genome sequencing."**
 
 [March 21th, 2022] **Nahyun Kong joins the lab for her thesis study.**

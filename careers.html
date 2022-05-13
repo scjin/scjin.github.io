@@ -13,24 +13,38 @@
 
 <title>Careers</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -311,7 +285,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -321,37 +295,102 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<div id="postdoctoral-associate-in-functional-genomics" class="section level3">
+<div id="postdoctoral-associate-in-functional-genomics"
+class="section level3">
 <h3>Postdoctoral Associate in Functional Genomics</h3>
-<p>The Jin Lab is seeking a talented and enthusiastic postdoctoral fellow to join our growing team in the Department of Genetics at Washington University School of Medicine. To tackle central questions about the pathophysiology of neuropathy, congenital hydrocephalus, cerebral palsy, and/or congenital heart defects, the fellow will conduct functional genomics research under the guiding aims:</p>
+<p>The Jin Lab is seeking a talented and enthusiastic postdoctoral
+fellow to join our growing team in the Department of Genetics at
+Washington University School of Medicine. To tackle central questions
+about the pathophysiology of neuropathy, congenital hydrocephalus,
+cerebral palsy, and/or congenital heart defects, the fellow will conduct
+functional genomics research under the guiding aims:</p>
 <ul>
-<li>Characterization of biological mechanisms disrupted by pathogenic mutations</li>
-<li>Development of human disease models using massively parallel reporter assays and/or zebrafish model systems</li>
-<li>Implementation of multi-omics approach that integrate high-throughput imaging and machine learning coupled with CRISPR/Cas9 screens</li>
+<li>Characterization of biological mechanisms disrupted by pathogenic
+mutations</li>
+<li>Development of human disease models using massively parallel
+reporter assays and/or zebrafish model systems</li>
+<li>Implementation of multi-omics approach that integrate
+high-throughput imaging and machine learning coupled with CRISPR/Cas9
+screens</li>
 </ul>
-<p>Our interdisciplinary research environment brings together life scientists, computational biologists, and physician-scientists to identify mutations underlying human diseases and their pathogenic mechanisms with the ultimate goal of translating these findings into effective therapeutic treatments. For more information, please visit our lab webpage: <a href="https://scjin.github.io/" class="uri">https://scjin.github.io/</a></p>
+<p>Our interdisciplinary research environment brings together life
+scientists, computational biologists, and physician-scientists to
+identify mutations underlying human diseases and their pathogenic
+mechanisms with the ultimate goal of translating these findings into
+effective therapeutic treatments. For more information, please visit our
+lab webpage: <a href="https://scjin.github.io/"
+class="uri">https://scjin.github.io/</a></p>
 <p>Required qualifications:</p>
 <ul>
-<li>Recent PhD/MD in a biological sciences or related fields (Molecular Biology, Developmental Biology, Cell Biology, Neurosciences, Biochemistry, etc.)</li>
-<li>Experience in the zebrafish handling, cell culture, neuroscience, and genomics</li>
+<li>Recent PhD/MD in a biological sciences or related fields (Molecular
+Biology, Developmental Biology, Cell Biology, Neurosciences,
+Biochemistry, etc.)</li>
+<li>Experience in the zebrafish handling, cell culture, neuroscience,
+and genomics</li>
 <li>Good communication skills</li>
-<li>In addition, applicants must be able to visit St. Louis for potential interviews</li>
+<li>In addition, applicants must be able to visit St. Louis for
+potential interviews</li>
 </ul>
-<p>Applicants should email a single PDF file consisting of a letter of interest and CV, and should arrange for three letters of reference to be sent to Dr. Jin (<a href="mailto:jin810@wustl.edu" class="email">jin810@wustl.edu</a>).</p>
+<p>Applicants should email a single PDF file consisting of a letter of
+interest and CV, and should arrange for three letters of reference to be
+sent to Dr. Jin (<a href="mailto:jin810@wustl.edu"
+class="email">jin810@wustl.edu</a>).</p>
 <hr />
 </div>
-<div id="postdoctoral-associate-in-computational-genomics" class="section level3">
+<div id="postdoctoral-associate-in-computational-genomics"
+class="section level3">
 <h3>Postdoctoral Associate in Computational Genomics</h3>
-<p>The Jin lab is looking for an energetic and motivated individual to work as a Postdoctoral Associate with a doctoral degree in genetics, genomics, computational biology, or computer science to investigate the genetic basis of neuropathy, congenital hydrocephalus, cerebral palsy, and/or congenital heart defects.</p>
-<p>Although advances in next-generation sequencing have discovered the genetic causes of a large proportion of patients with congenital disorders,the etiology of most cases remains unclear. It is becoming evident that simple genetic models do not entirely explain the causes of all congenital disorders and more nuanced approaches are required. Therefore, the Jin lab’s research is focusing on the formulation and development of computational methods to determine the complex genetic basis underlying congenital disorders using human genetics, genomics, and advanced statistical methods. Our goal is to translate an improved molecular understanding of congenital disorders from the laboratory into clinically actionable models, diagnostics, and ultimately therapeutic interventions.</p>
-<p>We are currently looking for researchers with a strong computational background in genomic and functional genomic analysis, including whole genome sequencing, single-cell RNA-sequencing, genetic association studies, and integrative analysis of genomic and functional genomic data. The candidate will be expected to plan and carry out research tasks independently and write-up/present findings on a regular basis.</p>
-<p>The Jin lab is located in the Couch Biomedical Research building on the 5th floor in the Department of Genetics space. The successful candidate will take advantage of the unique collaborative relationships with the McDonnell Genome Institute, the Intellectual and Developmental Disabilities Research Center, Departments of Pediatrics &amp; Neuroscience, and across the broader research community of Washington University which provides outstanding training and educational opportunities. Dr. Jin is committed to mentoring and training the candidate, providing all the support the candidate needs to reach their career goals. For competitive candidates, references from current and previous trainees attesting to the supportive and dynamic research environment of the Jin lab are available upon request.</p>
-<p>To be considered for this role, please email Dr. Jin at <a href="mailto:jin810@wustl.edu" class="email">jin810@wustl.edu</a> with the following items: 1) CV with a list of publications; 2) a short summary of your present and future research interests; 3) a list of three references with their contact information. Diverse expertise will be considered. Competitive salary and benefits will be provided</p>
+<p>The Jin lab is looking for an energetic and motivated individual to
+work as a Postdoctoral Associate with a doctoral degree in genetics,
+genomics, computational biology, or computer science to investigate the
+genetic basis of neuropathy, congenital hydrocephalus, cerebral palsy,
+and/or congenital heart defects.</p>
+<p>Although advances in next-generation sequencing have discovered the
+genetic causes of a large proportion of patients with congenital
+disorders,the etiology of most cases remains unclear. It is becoming
+evident that simple genetic models do not entirely explain the causes of
+all congenital disorders and more nuanced approaches are required.
+Therefore, the Jin lab’s research is focusing on the formulation and
+development of computational methods to determine the complex genetic
+basis underlying congenital disorders using human genetics, genomics,
+and advanced statistical methods. Our goal is to translate an improved
+molecular understanding of congenital disorders from the laboratory into
+clinically actionable models, diagnostics, and ultimately therapeutic
+interventions.</p>
+<p>We are currently looking for researchers with a strong computational
+background in genomic and functional genomic analysis, including whole
+genome sequencing, single-cell RNA-sequencing, genetic association
+studies, and integrative analysis of genomic and functional genomic
+data. The candidate will be expected to plan and carry out research
+tasks independently and write-up/present findings on a regular
+basis.</p>
+<p>The Jin lab is located in the Couch Biomedical Research building on
+the 5th floor in the Department of Genetics space. The successful
+candidate will take advantage of the unique collaborative relationships
+with the McDonnell Genome Institute, the Intellectual and Developmental
+Disabilities Research Center, Departments of Pediatrics &amp;
+Neuroscience, and across the broader research community of Washington
+University which provides outstanding training and educational
+opportunities. Dr. Jin is committed to mentoring and training the
+candidate, providing all the support the candidate needs to reach their
+career goals. For competitive candidates, references from current and
+previous trainees attesting to the supportive and dynamic research
+environment of the Jin lab are available upon request.</p>
+<p>To be considered for this role, please email Dr. Jin at <a
+href="mailto:jin810@wustl.edu" class="email">jin810@wustl.edu</a> with
+the following items: 1) CV with a list of publications; 2) a short
+summary of your present and future research interests; 3) a list of
+three references with their contact information. Diverse expertise will
+be considered. Competitive salary and benefits will be provided</p>
 <hr />
 </div>
-<div id="graduates-undergraduates-summer-interns-and-visiting-scholars" class="section level3">
+<div id="graduates-undergraduates-summer-interns-and-visiting-scholars"
+class="section level3">
 <h3>Graduates, Undergraduates, Summer Interns and Visiting Scholars</h3>
-<p>If you are a graduate/undergraduate student or a visiting scholar and looking for temporary lodging, please email your CV to Dr. Jin at <a href="mailto:jin810@wustl.edu" class="email">jin810@wustl.edu</a> for discussion.</p>
+<p>If you are a graduate/undergraduate student or a visiting scholar and
+looking for temporary lodging, please email your CV to Dr. Jin at <a
+href="mailto:jin810@wustl.edu" class="email">jin810@wustl.edu</a> for
+discussion.</p>
 </div>
 
 
@@ -363,7 +402,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -381,7 +420,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

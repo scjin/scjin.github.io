@@ -13,24 +13,38 @@
 
 <title>People</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -311,7 +285,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -324,75 +298,142 @@ $(document).ready(function () {
 <h3>Principal Investigator</h3>
 <p><img src="images/Jin_Peter.png" style="width:25%; border:0; margin-right: 20px" align="top"></p>
 <p><strong>Sheng Chih (Peter) Jin</strong></p>
-<p>Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available <a href="files/CV-WUSM-CV-format-04-28-2022.pdf">here</a>.</p>
+<p>Peter is Assistant Professor of Genetics and Pediatrics at the
+Washington University School of Medicine. He is interested in
+understanding how genetic variation affects disease biology and using
+genetic and genomic analyses to infer the molecular mechanisms
+underlying neurodevelopmental and cardiovascular diseases. His full CV
+is available <a
+href="files/CV-WUSM-CV-format-04-28-2022.pdf">here</a>.</p>
 <p><em>NIH Grants</em></p>
 <ul>
-<li>R00HL143036: Integrative Genomic Analysis of Congenital Heart Disease (Role: PI) (Active)</li>
-<li>R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: Co-Investigator) (Active)</li>
-<li>R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role: Co-Investigator) (Active)</li>
-<li>R01NS117609: Human Genetics and Molecular Mechanisms of Vein of Galen Aneurysmal Malformation (Role: Co-Investigator) (Active)</li>
+<li>R00HL143036: Integrative Genomic Analysis of Congenital Heart
+Disease (Role: PI) (Active)</li>
+<li>R01NS111029: Human Genetics and Molecular Mechanisms of Congenital
+Hydrocephalus (Role: Co-Investigator) (Active)</li>
+<li>R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role:
+Co-Investigator) (Active)</li>
+<li>R01NS117609: Human Genetics and Molecular Mechanisms of Vein of
+Galen Aneurysmal Malformation (Role: Co-Investigator) (Active)</li>
 </ul>
 <p><em>Selected Honors and Awards</em></p>
 <ul>
-<li>Cerebral Palsy Alliance Research Foundation Project Grant, 2022-2027</li>
+<li>Cerebral Palsy Alliance Research Foundation Project Grant,
+2022-2027</li>
 <li>Hydrocephalus Association Innovator Award, 2021</li>
 <li>Children’s Discovery Institute Faculty Scholar, 2021-2026</li>
-<li>Children’s Discovery Institute Zebrafish Models for Pediatric Research Services Cooperative Micro-Grant Award, 2021</li>
-<li>Washington University Institute of Clinical and Translational Research Funding Program Award, 2020</li>
+<li>Children’s Discovery Institute Zebrafish Models for Pediatric
+Research Services Cooperative Micro-Grant Award, 2021</li>
+<li>Washington University Institute of Clinical and Translational
+Research Funding Program Award, 2020</li>
 <li>K99/R00 Pathway to Independence Award, NHLBI, NIH</li>
 <li>American Heart Association Postdoctoral Fellowship</li>
-<li>James Hudson Brown – Alexander B. Coxe Fellowship, Yale School of Medicine</li>
-<li>Howard Hughes Medical Institute Postdoctoral Fellowship, Howard Hughes Medical Institute at Yale School of Medicine</li>
-<li>Fellow, Lucille P. Markey Special Emphasis Pathway in Human Pathobiology, Markey Foundation, Washington University School of Medicine</li>
+<li>James Hudson Brown – Alexander B. Coxe Fellowship, Yale School of
+Medicine</li>
+<li>Howard Hughes Medical Institute Postdoctoral Fellowship, Howard
+Hughes Medical Institute at Yale School of Medicine</li>
+<li>Fellow, Lucille P. Markey Special Emphasis Pathway in Human
+Pathobiology, Markey Foundation, Washington University School of
+Medicine</li>
 </ul>
 <hr />
 </div>
 <div id="postdoctoral-researchers-and-fellows" class="section level3">
 <h3>Postdoctoral Researchers and Fellows</h3>
 <p><img src="images/David.jpeg" style="width:25%; border:0; margin-right: 20px" align="top"></p>
-<p><strong>Yung-Chun (David) Wang</strong>, Center of Regenerative Medicine Postdoctoral Fellow, Washington University School of Medicine</p>
-<p>David earned a B.S. in Agriculture Chemistry from the National Taiwan University. He did his Ph.D. with Dr. Shiyou Chen studying the mechanism underlying the regulation of JAK3 in abdominal aortic aneurysm at the University of Georgia. David has received a prestigious Center of Regenerative Medicine Postdoctoral Fellowship. He is focused on genetic analyses and functional genomics of congenital hydrocephalus and cerebral palsy projects.</p>
+<p><strong>Yung-Chun (David) Wang</strong>, Center of Regenerative
+Medicine Postdoctoral Fellow, Washington University School of
+Medicine</p>
+<p>David earned a B.S. in Agriculture Chemistry from the National Taiwan
+University. He did his Ph.D. with Dr. Shiyou Chen studying the mechanism
+underlying the regulation of JAK3 in abdominal aortic aneurysm at the
+University of Georgia. David has received a prestigious Center of
+Regenerative Medicine Postdoctoral Fellowship. He is focused on genetic
+analyses and functional genomics of congenital hydrocephalus and
+cerebral palsy projects.</p>
 <hr />
 </div>
 <div id="graduate-students" class="section level3">
 <h3>Graduate Students</h3>
 <p><img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top"></p>
-<p><strong>Shujuan Zhao</strong>, Ph.D. Candidate (DBBS Molecular Genetics and Genomics), Washington University School of Medicine</p>
-<p>Shujuan is a 3rd year Ph.D. student at Washington University in St. Louis. She completed her BS in Pharmaceutical Engineering at the Central South University. She is working with Dr. Jin and Dr. Kahle at Massachusetts General Hospital to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.</p>
+<p><strong>Shujuan Zhao</strong>, Ph.D. Candidate (DBBS Molecular
+Genetics and Genomics), Washington University School of Medicine</p>
+<p>Shujuan is a 3rd year Ph.D. student at Washington University in
+St. Louis. She completed her BS in Pharmaceutical Engineering at the
+Central South University. She is working with Dr. Jin and Dr. Kahle at
+Massachusetts General Hospital to figure out the genetic etiology and
+molecular mechanisms of Vein of Galen aneurysmal malformation and
+Moyamoya disease.</p>
 <p><img src="images/Julie.png" style="width:25%; border:0; margin-right: 20px" align="top"></p>
-<p><strong>Julie Choi</strong>, Ph.D. Student (DBBS Human &amp; Statistical Genetics), Washington University School of Medicine</p>
-<p>Julie is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biology and Public Health at the University of Texas at Austin. She is working with Dr. Jin and Dr. Jeff Milbrandt to figure out the genetic etiology and molecular mechanisms of hereditary neuropathy.</p>
+<p><strong>Julie Choi</strong>, Ph.D. Student (DBBS Human &amp;
+Statistical Genetics), Washington University School of Medicine</p>
+<p>Julie is a 1st year Ph.D. student at Washington University in
+St. Louis. She completed her BS in Biology and Public Health at the
+University of Texas at Austin. She is working with Dr. Jin and Dr. Jeff
+Milbrandt to figure out the genetic etiology and molecular mechanisms of
+hereditary neuropathy.</p>
 <p><img src="images/Nahyun.jpg" style="width:25%; border:0; margin-right: 20px" align="top"></p>
-<p><strong>Nahyun Kong</strong>, Ph.D. student (DBBS Human &amp; Statistical Genetics), Washington University School of Medicine</p>
-<p>Nahyun is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of rare movement disorders.</p>
+<p><strong>Nahyun Kong</strong>, Ph.D. student (DBBS Human &amp;
+Statistical Genetics), Washington University School of Medicine</p>
+<p>Nahyun is a 1st year Ph.D. student at Washington University in
+St. Louis. She completed her BS in Biological Sciences at the Korea
+Advanced Institute of Science and Technology. She is developing genomic
+apporaches to figure out the genetic etiology and molecular mechanisms
+of rare movement disorders.</p>
 <hr />
 </div>
 <div id="staff" class="section level3">
 <h3>Staff</h3>
 <p><img src="images/Po-Ying-Fu.png" style="width:25%; border:0; margin-right: 20px" align="top"></p>
-<p><strong>Po-Ying Fu</strong>, Bioinformatics Research Analyst, Washington University in St. Louis</p>
-<p>Po-Ying obtained her master’s degree in microbiology specialized in bioinformatics from Soochow University. In her master’s thesis, she performed genomics analysis and used cell biology approaches to reveal the anti-cancer ability of lipopolysaccharide binding peptides. To advance her programming skills, she completed several advanced computer science courses at 42 Silicon Valley (a software engineering school) and Ohlong College. She loves cycling and traveling!</p>
+<p><strong>Po-Ying Fu</strong>, Bioinformatics Research Analyst,
+Washington University in St. Louis</p>
+<p>Po-Ying obtained her master’s degree in microbiology specialized in
+bioinformatics from Soochow University. In her master’s thesis, she
+performed genomics analysis and used cell biology approaches to reveal
+the anti-cancer ability of lipopolysaccharide binding peptides. To
+advance her programming skills, she completed several advanced computer
+science courses at 42 Silicon Valley (a software engineering school) and
+Ohlong College. She loves cycling and traveling!</p>
 <hr />
 </div>
 <div id="rotation-students-and-interns" class="section level3">
 <h3>Rotation Students and Interns</h3>
 <p><img src="images/Max_Wrubel.jpg" style="width:25%; border:0; margin-right: 20px" align="top"></p>
-<p><strong>Max Wrubel</strong>, McDonnell Genome Institute OGR Student</p>
+<p><strong>Max Wrubel</strong>, McDonnell Genome Institute OGR
+Student</p>
 <hr />
 </div>
 <div id="alumni" class="section level3">
 <h3>Alumni</h3>
-<p><strong>Lei Lu</strong> - Rotation Student (Computer Science &amp; Engineering), 2022/01 - 2022/02</p>
-<p><strong>Mariam Khanfar</strong> - Rotation Student (Human &amp; Statistical Genetics), 2021/09 - 2021/12</p>
-<p><strong>Kuangying Yang</strong> - Rotation Student (Human &amp; Statistical Genetics), 2021/09 - 2021/12</p>
-<p><strong>Xiaobing (Dean) Yu</strong> - Master’s student (Computer Science &amp; Engineering), 2021/03 - 2021/11; currently Master’s student at WashU.</p>
-<p><strong>Prashant Kumar Kuntala</strong> - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11</p>
-<p><strong>Kareena Joshipura</strong> - Mount Holyoke College’s Lynk Fellow, 2021/04 - 2021/09; currently a senior at Mount Holyoke College.</p>
-<p><strong>Changfeng Chen</strong> - Rotation Student (Molecular Cell Biology), 2021/02 - 2021/04; currently graduate student in Brian Laidlaw’s lab.</p>
-<p><strong>Jian Ryou</strong> - Rotation Student (Human &amp; Statistical Genetics), 2020/11 - 2021/02; currently graduate student in Gautam Dantas’s lab.</p>
-<p><strong>Sam Peters</strong> - Master’s student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04; currently Master’s student at SLU.</p>
-<p><strong>Spencer King</strong> - Master’s student (Computer Science &amp; Engineering), 2020/05 - 2021/05; currently Associate Data Scientist at Schnuck Markets, Inc.</p>
-<p><strong>Shohaib Shaffiey</strong> - Master’s student (Computer Science &amp; Engineering), 2021/02 - 2021/05; currently Master’s student at WashU.</p>
+<p><strong>Lei Lu</strong> - Rotation Student (Computer Science &amp;
+Engineering), 2022/01 - 2022/02</p>
+<p><strong>Mariam Khanfar</strong> - Rotation Student (Human &amp;
+Statistical Genetics), 2021/09 - 2021/12</p>
+<p><strong>Kuangying Yang</strong> - Rotation Student (Human &amp;
+Statistical Genetics), 2021/09 - 2021/12</p>
+<p><strong>Xiaobing (Dean) Yu</strong> - Master’s student (Computer
+Science &amp; Engineering), 2021/03 - 2021/11; currently Master’s
+student at WashU.</p>
+<p><strong>Prashant Kumar Kuntala</strong> - Rotation Student
+(Computational and Systems Biology), 2021/09 - 2021/11</p>
+<p><strong>Kareena Joshipura</strong> - Mount Holyoke College’s Lynk
+Fellow, 2021/04 - 2021/09; currently a senior at Mount Holyoke
+College.</p>
+<p><strong>Changfeng Chen</strong> - Rotation Student (Molecular Cell
+Biology), 2021/02 - 2021/04; currently graduate student in Brian
+Laidlaw’s lab.</p>
+<p><strong>Jian Ryou</strong> - Rotation Student (Human &amp;
+Statistical Genetics), 2020/11 - 2021/02; currently graduate student in
+Gautam Dantas’s lab.</p>
+<p><strong>Sam Peters</strong> - Master’s student (Bioinformatics and
+Computational Biology at SLU), 2020/05 - 2021/04; currently Master’s
+student at SLU.</p>
+<p><strong>Spencer King</strong> - Master’s student (Computer Science
+&amp; Engineering), 2020/05 - 2021/05; currently Associate Data
+Scientist at Schnuck Markets, Inc.</p>
+<p><strong>Shohaib Shaffiey</strong> - Master’s student (Computer
+Science &amp; Engineering), 2021/02 - 2021/05; currently Master’s
+student at WashU.</p>
 </div>
 
 
@@ -404,7 +445,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -422,7 +463,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

@@ -13,24 +13,38 @@
 
 <title>News</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -311,7 +285,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -320,52 +294,120 @@ $(document).ready(function () {
 </div>
 
 
-<p>[April 22nd, 2022] <strong>Dr. Jin hass been awarded the 2021 Cerebral Palsy Alliance Research Foundation Project Grant from the Cerebral Palsy Alliance Research Foundation for the projecct “Discovery of novel genetic variations in cerebral palsy by whole genome sequencing.”</strong></p>
-<p>[March 21th, 2022] <strong>Nahyun Kong joins the lab for her thesis study.</strong></p>
-<p>[February 9th, 2022] <strong>Lab outing to celebrate our recent publication and the Hydrocephalus Association Innovator Award!</strong></p>
+<p>[May 10th, 2022] <strong>Congratulations to our graduate students
+Shujuan Zhao and Max Wrubel who have been awarded with Scholarships to
+attend Jackson Laboratory’s Human and Mammalian Genetics and Genomics:
+The McKusick Short Course.</strong></p>
+<p>[April 22nd, 2022] <strong>Dr. Jin hass been awarded the 2021
+Cerebral Palsy Alliance Research Foundation Project Grant from the
+Cerebral Palsy Alliance Research Foundation for the projecct “Discovery
+of novel genetic variations in cerebral palsy by whole genome
+sequencing.”</strong></p>
+<p>[March 21th, 2022] <strong>Nahyun Kong joins the lab for her thesis
+study.</strong></p>
+<p>[February 9th, 2022] <strong>Lab outing to celebrate our recent
+publication and the Hydrocephalus Association Innovator
+Award!</strong></p>
 <p><img src="images/02-09-2022.jpeg" style="width:75%; border:0; margin-right: 20px" align="top"></p>
-<p>[January 17th, 2022] <strong>Julie Choi joins the lab for her thesis study. Julie will be co-advised by Peter and Dr. Jeff Milbrandt. Welcome back Julie!</strong></p>
-<p>[January 17th, 2022] <strong>Nahyun Kong joins the lab as a rotation student! Welcome Nahyun!</strong></p>
-<p>[January 13th, 2022] <strong>Lei Lu joins the lab as a rotation student! Welcome Lei!</strong></p>
-<p>[December 15th, 2021] <strong>The group celebrates another fun and exciting-science-filled year with an equally fun party at Edera italian Eatery.</strong></p>
+<p>[January 17th, 2022] <strong>Julie Choi joins the lab for her thesis
+study. Julie will be co-advised by Peter and Dr. Jeff Milbrandt. Welcome
+back Julie!</strong></p>
+<p>[January 17th, 2022] <strong>Nahyun Kong joins the lab as a rotation
+student! Welcome Nahyun!</strong></p>
+<p>[January 13th, 2022] <strong>Lei Lu joins the lab as a rotation
+student! Welcome Lei!</strong></p>
+<p>[December 15th, 2021] <strong>The group celebrates another fun and
+exciting-science-filled year with an equally fun party at Edera italian
+Eatery.</strong></p>
 <p><img src="images/20211215_185439.jpg" style="width:75%; border:0; margin-right: 20px" align="top"></p>
-<p>[November 10th, 2021] <strong>Max Wrubel joins the lab as a McDonnell Genome Institute Opportunities in Genomics Research Student! Welcome Max.</strong></p>
-<p>[November 4th, 2021] <strong>Dr. Jin has been awarded the 2021 Hydrocephalus Association Innovator Award for the project “A genome-wide assessment of noncoding risk variants in congenital hydrocephalus.”</strong></p>
-<p>[November 2nd, 2021] <strong>Our first annual lab retreat was lots of fun at the Boathouse at Forest Park.</strong></p>
+<p>[November 10th, 2021] <strong>Max Wrubel joins the lab as a McDonnell
+Genome Institute Opportunities in Genomics Research Student! Welcome
+Max.</strong></p>
+<p>[November 4th, 2021] <strong>Dr. Jin has been awarded the 2021
+Hydrocephalus Association Innovator Award for the project “A genome-wide
+assessment of noncoding risk variants in congenital
+hydrocephalus.”</strong></p>
+<p>[November 2nd, 2021] <strong>Our first annual lab retreat was lots of
+fun at the Boathouse at Forest Park.</strong></p>
 <p><img src="images/FirstLabRetreat.jpg" style="width:75%; border:0; margin-right: 20px" align="top"></p>
-<p>[October 28th, 2021] <strong>Julie Choi joins the lab as a rotation student! Welcome Julie!</strong></p>
-<p>[October 1st, 2021] <strong>Dr. Jin has been awarded the 2021 Children’s Discovery Institute Faculty Scholar Award from WashU CDI for the project “Human genetics and molecular mechanisms of cerebral palsy.”</strong></p>
-<p>[Septem 22nd, 2021] <strong>Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!</strong></p>
-<p>[September 10th, 2021] <strong>Mariam Khanfar joins the lab as a rotation student! Welcome Mariam!</strong></p>
-<p>[September 1st, 2021] <strong>Prashant Kumar Kuntala joins the lab as a rotation student! Welcome Prashant!</strong></p>
-<p>[July 24th, 2021] <strong>Our Genes paper was selected as the cover for the 2021 July issue.</strong></p>
+<p>[October 28th, 2021] <strong>Julie Choi joins the lab as a rotation
+student! Welcome Julie!</strong></p>
+<p>[October 1st, 2021] <strong>Dr. Jin has been awarded the 2021
+Children’s Discovery Institute Faculty Scholar Award from WashU CDI for
+the project “Human genetics and molecular mechanisms of cerebral
+palsy.”</strong></p>
+<p>[Septem 22nd, 2021] <strong>Kuangying Yang joins the lab as a
+rotation student! Welcome Kuangying!</strong></p>
+<p>[September 10th, 2021] <strong>Mariam Khanfar joins the lab as a
+rotation student! Welcome Mariam!</strong></p>
+<p>[September 1st, 2021] <strong>Prashant Kumar Kuntala joins the lab as
+a rotation student! Welcome Prashant!</strong></p>
+<p>[July 24th, 2021] <strong>Our Genes paper was selected as the cover
+for the 2021 July issue.</strong></p>
 <p><img src="images/cover-genes.png" style="width:25%; border:0; margin-right: 20px" align="top"></p>
-<p>[July 9th, 2021] <strong>Summer lab outing with great food and drinks</strong></p>
+<p>[July 9th, 2021] <strong>Summer lab outing with great food and
+drinks</strong></p>
 <p><img src="images/JinLabOuting2021.jpeg" style="width:75%; border:0; margin-right: 20px" align="top"></p>
-<p>[May 1st, 2021] <strong>Yung-Chun (David) Wang has been awarded a prestigious Center of Regenerative Medicine Postdoctoral Fellowship and will join the lab as a postdoc fellow! Welcome David!</strong></p>
-<p>[April 25th, 2021] <strong>Kareena Joshipura joins the lab as s summer intern! Welcome Kareena!</strong></p>
-<p>[April 14th, 2021] <strong>Kesava Viswanadha joins the lab as a summer intern! Welcome Kesava!</strong></p>
-<p>[April 7th, 2021] <strong>Dr. Jin’s co-corresponding authored paper on Moyamoya genomics was acceptde in JAMA Neurology. Sam is a co-1st author and Shujuan is an author!</strong></p>
-<p>[March 26th, 2021] <strong>Amar Sheth, a medical student at Yale, has been admitted to the Clinical Research Training Center’s TL1 One-Year Predoctoral Program. He will be working with Dr. Jin and Dr. Milbrandt to perform integrative genomic analysis of cerebral palsy and rare pediatric movement disorder! Welcome on board Amar!</strong></p>
-<p>[February 8th, 2021] <strong>Jin lab has been awarded a Zebrafish Models for Pediatric Research Services Cooperative Micro-grant to generate zebrafish knock-in lines to functionally characterize mutations’ impact on vascular development!</strong></p>
-<p>[February 1st, 2021] <strong>Changfeng Chen joins the lab as a rotation student! Welcome Changfeng!</strong></p>
-<p>[January 26th, 2021] <strong>Shohaib Shaffiey joins the lab as a student research assistant! Welcome Shohaib!</strong></p>
-<p>[January 21th, 2021] <strong>Xiaobing (Dean) Yu joins the lab as a student research assistant! Welcome Xiaobing!</strong></p>
-<p>[January 11th, 2021] <strong>Dr. Jin’s first paper being a corresponding author has been accepted in STAR Protocols. Graduate students Spencer (co-1st) and Sam are major authors.</strong></p>
-<p>[November 11th, 2020] <strong>Dr. Jin has been awarded the 2020 Clinical and Translational Research Funding Program from WashU ICTS to investigate complex genetic model using long-read genome sequencing and integrative genomic analysis for cerebral palsy!</strong></p>
-<p>[November 6th, 2020] <strong>Jian Ryou joins the lab as a rotation student! Welcome Jian!</strong></p>
-<p>[September 25th, 2020] <strong>Shujuan Zhao joins the lab for her thesis study! Welcome Shujuan!</strong></p>
-<p>[September 4th, 2020] <strong>Shujuan Zhao joins the lab as a rotation student! Welcome Shujuan!</strong></p>
-<p>[September 3rd, 2020] <strong>Dr. Jin’s co-1st authored paper on trigeminal neuralgia genomics was accepted in iScience!</strong></p>
-<p>[June 24th, 2020] <strong>Dr. Jin’s lead author paper on congenital hydrocephalus genomics was accepted in Nature Medicine!</strong></p>
-<p>[April 30th, 2020] <strong>Dr. Jin’s lead author paper on cerebral palsy genomics was accepted in Nature Genetics!</strong></p>
-<p>[April 1st, 2020] <strong>Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!</strong></p>
-<p>[April 1st, 2020] <strong>The lab received R01 subaward funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project “Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus”</strong></p>
-<p>[April 1st, 2020] <strong>The lab received R00 funding (PI: Jin) from the National Heart, Lung, and Blood Institute for the project “Integrative Genomic Analysis of Congenital Heart Disease”</strong></p>
+<p>[May 1st, 2021] <strong>Yung-Chun (David) Wang has been awarded a
+prestigious Center of Regenerative Medicine Postdoctoral Fellowship and
+will join the lab as a postdoc fellow! Welcome David!</strong></p>
+<p>[April 25th, 2021] <strong>Kareena Joshipura joins the lab as s
+summer intern! Welcome Kareena!</strong></p>
+<p>[April 14th, 2021] <strong>Kesava Viswanadha joins the lab as a
+summer intern! Welcome Kesava!</strong></p>
+<p>[April 7th, 2021] <strong>Dr. Jin’s co-corresponding authored paper
+on Moyamoya genomics was acceptde in JAMA Neurology. Sam is a co-1st
+author and Shujuan is an author!</strong></p>
+<p>[March 26th, 2021] <strong>Amar Sheth, a medical student at Yale, has
+been admitted to the Clinical Research Training Center’s TL1 One-Year
+Predoctoral Program. He will be working with Dr. Jin and Dr. Milbrandt
+to perform integrative genomic analysis of cerebral palsy and rare
+pediatric movement disorder! Welcome on board Amar!</strong></p>
+<p>[February 8th, 2021] <strong>Jin lab has been awarded a Zebrafish
+Models for Pediatric Research Services Cooperative Micro-grant to
+generate zebrafish knock-in lines to functionally characterize
+mutations’ impact on vascular development!</strong></p>
+<p>[February 1st, 2021] <strong>Changfeng Chen joins the lab as a
+rotation student! Welcome Changfeng!</strong></p>
+<p>[January 26th, 2021] <strong>Shohaib Shaffiey joins the lab as a
+student research assistant! Welcome Shohaib!</strong></p>
+<p>[January 21th, 2021] <strong>Xiaobing (Dean) Yu joins the lab as a
+student research assistant! Welcome Xiaobing!</strong></p>
+<p>[January 11th, 2021] <strong>Dr. Jin’s first paper being a
+corresponding author has been accepted in STAR Protocols. Graduate
+students Spencer (co-1st) and Sam are major authors.</strong></p>
+<p>[November 11th, 2020] <strong>Dr. Jin has been awarded the 2020
+Clinical and Translational Research Funding Program from WashU ICTS to
+investigate complex genetic model using long-read genome sequencing and
+integrative genomic analysis for cerebral palsy!</strong></p>
+<p>[November 6th, 2020] <strong>Jian Ryou joins the lab as a rotation
+student! Welcome Jian!</strong></p>
+<p>[September 25th, 2020] <strong>Shujuan Zhao joins the lab for her
+thesis study! Welcome Shujuan!</strong></p>
+<p>[September 4th, 2020] <strong>Shujuan Zhao joins the lab as a
+rotation student! Welcome Shujuan!</strong></p>
+<p>[September 3rd, 2020] <strong>Dr. Jin’s co-1st authored paper on
+trigeminal neuralgia genomics was accepted in iScience!</strong></p>
+<p>[June 24th, 2020] <strong>Dr. Jin’s lead author paper on congenital
+hydrocephalus genomics was accepted in Nature Medicine!</strong></p>
+<p>[April 30th, 2020] <strong>Dr. Jin’s lead author paper on cerebral
+palsy genomics was accepted in Nature Genetics!</strong></p>
+<p>[April 1st, 2020] <strong>Po-Ying Fu joins the lab as a
+Bioinformatics Research Analyst! Welcome Po-Ying!</strong></p>
+<p>[April 1st, 2020] <strong>The lab received R01 subaward funding (PI:
+Kahle) from the National Institute of Neurological Disorders and Stroke
+for the project “Human Genetics and Molecular Mechanisms of Congenital
+Hydrocephalus”</strong></p>
+<p>[April 1st, 2020] <strong>The lab received R00 funding (PI: Jin) from
+the National Heart, Lung, and Blood Institute for the project
+“Integrative Genomic Analysis of Congenital Heart Disease”</strong></p>
 <p>[April 1st, 2020] <strong>Jin Lab opens</strong></p>
-<p>[February 27th, 2020] <strong>Sam Peters joins the lab as a summmer intern! Welcome Sam!</strong></p>
-<p>[February 5th, 2020] <strong>Spencer King joins the lab as a summmer intern! Welcome Spencer! You are our first lab member!</strong></p>
-<p>[January 1st, 2020] <strong>Postdoc Wanted: Computational Genomics in Congenital Disorders</strong></p>
+<p>[February 27th, 2020] <strong>Sam Peters joins the lab as a summmer
+intern! Welcome Sam!</strong></p>
+<p>[February 5th, 2020] <strong>Spencer King joins the lab as a summmer
+intern! Welcome Spencer! You are our first lab member!</strong></p>
+<p>[January 1st, 2020] <strong>Postdoc Wanted: Computational Genomics in
+Congenital Disorders</strong></p>
 
 
 
@@ -376,7 +418,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -394,7 +436,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

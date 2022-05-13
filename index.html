@@ -13,24 +13,38 @@
 
 <title>Jin group</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -311,7 +285,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -322,19 +296,103 @@ $(document).ready(function () {
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <p><br></p>
-<p>Welcome to the Jin group in the <a href="http://genetics.wustl.edu/">Department of Genetics</a> and the <a href="https://www.genome.wustl.edu/">McDonnell Genome Institute</a> at the Washington University School of Medicine. Our mission is to provide meaningful and interpretable insight into disease biology, and define new targets for risk determination, prevention, and therapy. We are currently focusing on the formation, development, and application of genetic, genomic, and bioinformatic methods to better analyze and integrate exome and genome sequencing, SNP array, RNA-sequencing, epigenomic, metabolomic, and proteomic data. Through integration of diverse type of transcriptomic and epigenetic functional annotations, the integrative genomic analysis will provide a better understanding of the molecular basis of cardiovascular diseases and neurodevelopmental disorders. Following integrative genomic analyses, we use zebrafish and massively parallel reporter assays to precisely model human mutations.</p>
-<p>We collaborate with clinicians, the <a href="https://thepnrr.org/">Peripheral Neuropathy Research Registry</a>, the <a href="https://cprn.org/">Cerebral Palsy Research Network</a>, the <a href="https://sites.wustl.edu/undiagnosed/">WashU Undiagnosed Diseases Network</a>, and the <a href="https://medicine.yale.edu/keck/ycga/">Yale Center for Mendelian Genomics</a> to assemble thoroughly phenotyped cohorts for gene discovery. We also collaborate with experimentalists to design scalable high-throughput assays to model effects of disease-associated mutations. If you think any of this sounds cool consider <a href="./careers.html">joining us</a> in working to make the world a better place.</p>
+<p>Welcome to the Jin group in the <a
+href="http://genetics.wustl.edu/">Department of Genetics</a> and the <a
+href="https://www.genome.wustl.edu/">McDonnell Genome Institute</a> at
+the Washington University School of Medicine. Our mission is to provide
+meaningful and interpretable insight into disease biology, and define
+new targets for risk determination, prevention, and therapy. We are
+currently focusing on the formation, development, and application of
+genetic, genomic, and bioinformatic methods to better analyze and
+integrate exome and genome sequencing, SNP array, RNA-sequencing,
+epigenomic, metabolomic, and proteomic data. Through integration of
+diverse type of transcriptomic and epigenetic functional annotations,
+the integrative genomic analysis will provide a better understanding of
+the molecular basis of cardiovascular diseases and neurodevelopmental
+disorders. Following integrative genomic analyses, we use zebrafish and
+massively parallel reporter assays to precisely model human
+mutations.</p>
+<p>We collaborate with clinicians, the <a
+href="https://thepnrr.org/">Peripheral Neuropathy Research Registry</a>,
+the <a href="https://cprn.org/">Cerebral Palsy Research Network</a>, the
+<a href="https://sites.wustl.edu/undiagnosed/">WashU Undiagnosed
+Diseases Network</a>, and the <a
+href="https://medicine.yale.edu/keck/ycga/">Yale Center for Mendelian
+Genomics</a> to assemble thoroughly phenotyped cohorts for gene
+discovery. We also collaborate with experimentalists to design scalable
+high-throughput assays to model effects of disease-associated mutations.
+If you think any of this sounds cool consider <a
+href="./careers.html">joining us</a> in working to make the world a
+better place.</p>
 <p><img src="images/Jin_Lab_Research_2022.png" style="width:100%; border:0; margin-right: 20px" align="top"></p>
 <hr />
 <p>We are currently working on the following areas of research:</p>
 <p><strong><em>Methods Development</em></strong></p>
-<p>During my postdoctoral training, we developed a control-free statistical approach and applied it to a whole-exome sequencing dataset of 2,871 congenital heart disease probands procured from the <a href="https://benchtobassinet.com/?page_id=36">Pediatric Cardiac Genomics Consortium</a> to demonstrate that ~1.8% of cases are attributed to rare inherited variants. First, we demonstrated that extremely rare transmitted variants in each gene are similarly distributed when compared to de novo mutations; this allowed for a robust estimation of the expected frequency of rare transmitted variants based on the expected frequency of de novo mutations. Second, analysis of recessive variants has been confounded by varying degrees of consanguinity among probands and differences in consanguinity between cases and controls. We conceived and developed a novel method of analysis using a simple polynomial model that accounts for this variable inbreeding, enabling a powerful test comparing the observed and expected recessive variants in each gene. Currently, I am working with Drs. <a href="https://qlu-lab.org/">Qiongshi Lu</a>, <a href="http://zhaocenter.org/">Hongyu Zhao</a>, and <a href="http://www.leklab.org/">Monkol Lek</a>, to develop novel methods for large-scale genetic association analysis, joint modeling of de novo and transmitted variants, and polygenic risk prediction.</p>
-<p><strong><em>Unravelling Molecular Signatures and Novel Therapeutic Targets for Idiopathic Peripheral Neuropathy</em></strong></p>
-<p>Idiopathic peripheral neuropathy (IPN), a result of damage to the peripheral nerves with unknown causes, is a debilitating, painful, and as-yet-untreatable condition. Due to the unknown origin of the damage and the lack of targeted therapy, treatment for patients with IPN revolves around mere symptom management. In collaboration with Drs. <a href="http://milbrandt.wustl.edu/jeff-milbrandt/">Jeffrey Milbrandt</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/ahmet-hoke">Ahmet Hoke</a>, <a href="https://sites.wustl.edu/diantonio/">Aaron Di Antonio</a>, and the <a href="https://thepnrr.org/">Peripheral Neuropathy Patient Registry</a>, we are integrating whole-genome sequencing and SOMAscan proteomic data in extreme IPN patients with negative clinical genetic screening results and performing bioinformatic analysis to identify variants, pathways, and biomarkers for pathophysiological clues to axon degeneration.</p>
-<p><strong><em>Human Genetics and Molecular Mechanisms of Human Neurological Diseases</em></strong></p>
-<p>In collaboration with Drs. <a href="https://medicine.yale.edu/lab/kahle/">Kristopher Kahle</a>, <a href="https://sites.wustl.edu/krolllab/research/">Kristen Kroll</a>, <a href="http://genetics.wustl.edu/jdlab/">Joe Dougherty</a>, and the <a href="https://sites.wustl.edu/undiagnosed/">WashU Undiagnosed Diseases Network</a>, we are focusing on studying the genetic underpinnings of rare Mendelian forms of human neurological diseases, including congenital hydrocephalus, Vein of Galen malformation, Arachnoid cysts, and Moyamoya disease, using whole-genome sequencing, quantitative phenotyping, transcriptomic profiling, massively parallel reporter assyas, and in vitro/in vivo models.</p>
+<p>During my postdoctoral training, we developed a control-free
+statistical approach and applied it to a whole-exome sequencing dataset
+of 2,871 congenital heart disease probands procured from the <a
+href="https://benchtobassinet.com/?page_id=36">Pediatric Cardiac
+Genomics Consortium</a> to demonstrate that ~1.8% of cases are
+attributed to rare inherited variants. First, we demonstrated that
+extremely rare transmitted variants in each gene are similarly
+distributed when compared to de novo mutations; this allowed for a
+robust estimation of the expected frequency of rare transmitted variants
+based on the expected frequency of de novo mutations. Second, analysis
+of recessive variants has been confounded by varying degrees of
+consanguinity among probands and differences in consanguinity between
+cases and controls. We conceived and developed a novel method of
+analysis using a simple polynomial model that accounts for this variable
+inbreeding, enabling a powerful test comparing the observed and expected
+recessive variants in each gene. Currently, I am working with Drs. <a
+href="https://qlu-lab.org/">Qiongshi Lu</a>, <a
+href="http://zhaocenter.org/">Hongyu Zhao</a>, and <a
+href="http://www.leklab.org/">Monkol Lek</a>, to develop novel methods
+for large-scale genetic association analysis, joint modeling of de novo
+and transmitted variants, and polygenic risk prediction.</p>
+<p><strong><em>Unravelling Molecular Signatures and Novel Therapeutic
+Targets for Idiopathic Peripheral Neuropathy</em></strong></p>
+<p>Idiopathic peripheral neuropathy (IPN), a result of damage to the
+peripheral nerves with unknown causes, is a debilitating, painful, and
+as-yet-untreatable condition. Due to the unknown origin of the damage
+and the lack of targeted therapy, treatment for patients with IPN
+revolves around mere symptom management. In collaboration with Drs. <a
+href="http://milbrandt.wustl.edu/jeff-milbrandt/">Jeffrey Milbrandt</a>,
+<a
+href="https://www.hopkinsmedicine.org/profiles/details/ahmet-hoke">Ahmet
+Hoke</a>, <a href="https://sites.wustl.edu/diantonio/">Aaron Di
+Antonio</a>, and the <a href="https://thepnrr.org/">Peripheral
+Neuropathy Patient Registry</a>, we are integrating whole-genome
+sequencing and SOMAscan proteomic data in extreme IPN patients with
+negative clinical genetic screening results and performing bioinformatic
+analysis to identify variants, pathways, and biomarkers for
+pathophysiological clues to axon degeneration.</p>
+<p><strong><em>Human Genetics and Molecular Mechanisms of Human
+Neurological Diseases</em></strong></p>
+<p>In collaboration with Drs. <a
+href="https://medicine.yale.edu/lab/kahle/">Kristopher Kahle</a>, <a
+href="https://sites.wustl.edu/krolllab/research/">Kristen Kroll</a>, <a
+href="http://genetics.wustl.edu/jdlab/">Joe Dougherty</a>, and the <a
+href="https://sites.wustl.edu/undiagnosed/">WashU Undiagnosed Diseases
+Network</a>, we are focusing on studying the genetic underpinnings of
+rare Mendelian forms of human neurological diseases, including
+congenital hydrocephalus, Vein of Galen malformation, Arachnoid cysts,
+and Moyamoya disease, using whole-genome sequencing, quantitative
+phenotyping, transcriptomic profiling, massively parallel reporter
+assyas, and in vitro/in vivo models.</p>
 <p><strong><em>Genomic Research of Cerebral Palsy</em></strong></p>
-<p>In collaboration with Drs. <a href="https://www.kruerlab.org/">Michael Kruer</a>, <a href="https://physicians.wustl.edu/people/toni-pearson-md/">Toni Pearson</a>, <a href="https://aravamuthanlab.wustl.edu/">Bhooma Aravamuthan</a>, <a href="https://gurnettlab.wustl.edu/">Chris Gurnett</a>, <a href="http://genetics.wustl.edu/jdlab/">Joe Dougherty</a>, and the <a href="https://cprn.org/">Cerebral Palsy Research Network</a>, we are applying an integrative, multidimensional omics approach to a large, well-phenotyped cerebral palsy cohort to catalyze gene discovery, provide mechanistic insights into newly identified genetic causes, make genotype-phenotype correlations, and create a metadata ecosystem freely available to the cerebral palsy community.</p>
+<p>In collaboration with Drs. <a
+href="https://www.kruerlab.org/">Michael Kruer</a>, <a
+href="https://physicians.wustl.edu/people/toni-pearson-md/">Toni
+Pearson</a>, <a href="https://aravamuthanlab.wustl.edu/">Bhooma
+Aravamuthan</a>, <a href="https://gurnettlab.wustl.edu/">Chris
+Gurnett</a>, <a href="http://genetics.wustl.edu/jdlab/">Joe
+Dougherty</a>, and the <a href="https://cprn.org/">Cerebral Palsy
+Research Network</a>, we are applying an integrative, multidimensional
+omics approach to a large, well-phenotyped cerebral palsy cohort to
+catalyze gene discovery, provide mechanistic insights into newly
+identified genetic causes, make genotype-phenotype correlations, and
+create a metadata ecosystem freely available to the cerebral palsy
+community.</p>
 
 
 
@@ -345,7 +403,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -363,7 +421,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

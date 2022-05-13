@@ -13,24 +13,38 @@
 
 <title>Publications</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -79,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -183,10 +145,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,7 +173,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -265,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -311,7 +285,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -321,137 +295,787 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<p><a href="https://www.ncbi.nlm.nih.gov/myncbi/sheng%20chih.jin.1/bibliography/public/">NCBI Bibliography</a></p>
+<p><a
+href="https://www.ncbi.nlm.nih.gov/myncbi/sheng%20chih.jin.1/bibliography/public/">NCBI
+Bibliography</a></p>
 <p>Lab members in <strong>bold</strong>.</p>
 <div id="featured-publications" class="section level3">
 <h3>Featured publications</h3>
-<p><strong>Wang Y-C#</strong>, Wu Y#, <strong>Choi J#</strong>, Allington G#, <strong>Zhao S#</strong>, <strong>Khanfar M#</strong>, <strong>Yang K#</strong>, <strong>Fu P-Y</strong>, <strong>Wrubel M</strong>, <strong>Yu X</strong>, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&amp;, <strong>Jin SC&amp;</strong>. 2022. <a href="https://www.mdpi.com/2075-4426/12/2/175">Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy</a>. <strong><em>Journal of Personalized Medicine</em></strong>. #Co-first author; &amp;Co-corresponding authors. [<strong>Feature paper</strong>]</p>
-<p>Allington G, Duy PQ, <strong>Ryou J</strong>, Singh A, Kiziltug E, Robert SM, Kundishora A, <strong>King S</strong>, Haider S, Kahle KT, <strong>Jin SC</strong>. 2021. <a href="https://thejns.org/pediatrics/view/journals/j-neurosurg-pediatr/aop/article-10.3171-2021.8.PEDS21368/article-10.3171-2021.8.PEDS21368.xml">Genomic approaches to improve the clinical diagnosis and management of congenital hydrocephalus patients</a>. <strong><em>Journal of Neurosurgery:Pediatrics</em></strong>.</p>
-<p>Diab NS#, Barish S#, Dong W#, <strong>Zhao S#</strong>, Allington G, <strong>Yu X</strong>, Kahle KT, Brueckner M&amp;, <strong>Jin SC&amp;</strong>. 2021. <a href="https://www.mdpi.com/2073-4425/12/7/1020">Molecular genetics and complex inheritance of congenital heart disease</a>. <strong><em>Genes</em></strong>. #Co-first authors; &amp;Co-corresponding authors. <a href="https://www.mdpi.com/2073-4425/12/7?utm_campaign=releaseissue_genesutm_medium=emailutm_source=releaseissueutm_term=coverlink"><strong>Cover story</strong></a>.</p>
-<p>Kundishora AJ#, <strong>Peters ST#</strong>, Pinard A, Duran D, Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D, Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N, Stratman AN, Chen Y-H, <strong>Zhao S</strong>, Roszko I, Lu Q, Zhang B, Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, <strong>Jin SC&amp;</strong>, Kahle KT&amp;. 2021. <a href="https://jamanetwork.com/journals/jamaneuroly/fullarticle/2781029">DIAPH1 mutations in non-East Asian patients with sporadic moyamoya disease</a>. <strong><em>JAMA Neurology</em></strong>. #Co-first authors; &amp;Co-corresponding authors.</p>
-<p>Diab NS#, <strong>King S#</strong>, Dong W#, Allington G, Sheth A, <strong>Peters S</strong>, Kahle KT&amp;, <strong>Jin SC&amp;</strong>. 2021. <a href="https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY">Analysis workflow to assess de novo genetic variants from whole-exome sequencing</a>. <strong><em>STAR Protocols</em></strong>. #Co-first authors; &amp;Co-corresponding authors.</p>
-<p><strong>Jin SC#</strong>, Dong W#, Kundishora AJ#, Panchagnula S#, Moreno-De-Luca A#, Furey CG, Allocco AA, Walker RL, Nelson-Williams C, Smith H, Dunbar A, Conine S, Lu Q, Zeng X, Sierant MC, Knight JR, Sullivan W, Duy PQ, DeSpenza T, Reeves BC, Karimy JK, Marlier A, Castaldi C, Tikhonova IR, Li B, Peña HP, Broach JR, Kabachelor EM, Ssenyonga P, Hehnly C, Ge L, Keren B, Timberlake AT, Goto J, Mangano FT, Johnston JM, Butler WE, Warf BC, Smith ER, Schiff SJ, Limbrick DD, Heuer G, Jackson EM, Iskandar BJ, Mane S, Haider S, Guclu B, Bayri Y, Sahin Y, Duncan CC, Apuzzo ML, DiLuna ML, Hoffman EJ, Sestan N, Ment LR, Alper SL, Bilguvar K, Geschwind DH, Günel M, Lifton RP, Kahle KT. 2020. <a href="https://www.nature.com/articles/s41591-020-1090-2">Exome sequencing implicates genetic disruption of prenatal neuro-gliogenesis in sporadic congenital hydrocephalus</a>. <strong><em>Nature Medicine</em></strong>. #Co-first authors .<br />
-<strong>Press coverage:</strong> <a href="https://www.nature.com/articles/s41591-020-1120-0">Nature Medicine</a>, <a href="https://facultyopinions.com/prime/738854794">Faculty Opinions</a>, <a href="https://medicine.yale.edu/news-article/28466/">Yale News</a></p>
-<p><strong>Jin SC#</strong>, Lewis S#, Bakhtiari S#, Zeng X#, Sierant MC, Shetty S, Nordlie S, Elie A, Corbett M, Norton B, van Eyk C, Haider S, Guida B, Magee H, Liu J, Pastore S, Vincent J, Brunstrom-Hernandez J, Papavasileiou A, Fahey M, Berry J, Harper K, Zhou C, Zhang J, Li B, Heim J, Webber D, Frank M, Xia L, Xu Y, Zhu D, Zhang B, Sheth A, Knight JR, Castaldi C, Tikhonoa I, Lopez-Giraldez F, Keren B, Whalen S, Buratti J, Doummar D, Cho M, Retterer K, Millan F, Wang Y, Waugh J, Rodan L, Cohen J, Fatemi A, Lin A, Phillips J, Feyma T, MacLennan S, Vaughan S, Crompton K, Reid S, Reddihough D, Shang Q, Gao C, Novak I, Badawi N, Wilson Y, McIntyre S, Mane S, Wang X, Amor D, Zarnescu D, Lu Q, Xing Q†, Zhu C†, Bilguvar K, Padilla-Lopez S, Lifton RP, Gecz J, MacLennan A, Kruer MC. 2020 <a href="https://www.nature.com/articles/s41588-020-0695-1">Mutations disrupting neuritogenesis genes confer risk for cerebral palsy</a>. <strong><em>Nature Genetics</em></strong>. #Co-first authors .<br />
-<strong>Press coverage:</strong> <a href="https://www.nih.gov/news-events/news-releases/about-14-cerebral-palsy-cases-may-be-tied-brain-wiring-genes">NIH</a>, <a href="https://medicine.wustl.edu/news/cerebral-palsy-also-has-genetic-underpinnings/">WashU News</a>, <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajmg.a.61646">AJMG News</a></p>
-<p>Duran D#, Zeng X#, <strong>Jin SC#</strong>, Choi J, Nelson-Williams C, Yatsula B, Gaillard J, Furey CG, Lu Q, Timberlake AT, Dong W, Sorscher MA, Loring E, Klein J, Allocco A, Hunt A, Conine S, Karimy JK, Youngblood MW, Zhang J, DiLuna ML, Matouk CC, Mane S, Tikhonova IR, Castaldi C, López-Giráldez F, Knight J, Haider S, Soban M, Alper SL, Komiyama M, Ducruet AF, Zabramski JM, Dardik A, Walcott BP, Stapleton CJ, Aagaard-Kienitz B, Rodesch G, Jackson E, Smith ER, Orbach DB, Berenstein A, Bilguvar K, Vikkula M, Gunel M, Lifton RP, Kahle KT. 2019. <a href="https://www.sciencedirect.com/science/article/pii/S089662731831050X?via%3Dihub">Mutations in chromatin modifier and Ephrin signaling genes in Vein of Galen malformation</a>. <strong><em>Neuron</em></strong>. #Co-first authors .<br />
-<strong>Press coverage:</strong> <a href="https://yaledailynews.com/blog/2019/01/15/study-identifies-mutation-for-rare-infant-brain-disease/">Yale News</a></p>
-<p><strong>Jin SC#</strong>, Homsy J#, Zaidi S#, Lu Q, Morton S, DePalma SR, Zeng X, Qi H, Chang W, Sierant MC, Hung WC, Haider S, Zhang J, Knight J, Bjornson RD, Castaldi C, Tikhonoa IR, Bilguvar K, Mane SM, Sanders SJ, Mital S, Russell MW, Gaynor JW, Deanfield J, Giardini A, Porter GA Jr, Srivastava D, Lo CW, Shen Y, Watkins WS, Yandell M, Yost HJ, Tristani-Firouzi M, Newburger JW, Roberts AE, Kim R, Zhao H, Kaltman JR, Goldmuntz E, Chung WK, Seidman JG, Gelb BD, Seidman CE, Lifton RP, Brueckner M. 2017. <a href="https://www.nature.com/articles/ng.3970">Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands</a>. <strong><em>Nature Genetics</em></strong>. #Co-first authors. <strong>[&gt;400 cites]</strong> .<br />
-<strong>Press coverage:</strong> <a href="https://www.nhregister.com/news/article/Study-revealing-links-between-heart-disease-and-12264612.php">New Haven Register</a>, <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=207467">MedicineNet</a></p>
+<p><strong>Wang Y-C#</strong>, Wu Y#, <strong>Choi J#</strong>,
+Allington G#, <strong>Zhao S#</strong>, <strong>Khanfar M#</strong>,
+<strong>Yang K#</strong>, <strong>Fu P-Y</strong>, <strong>Wrubel
+M</strong>, <strong>Yu X</strong>, Mekbib KY, Ocken J, Smith H, Shohfi
+J, Kahle KT, Lu Q&amp;, <strong>Jin SC&amp;</strong>. 2022. <a
+href="https://www.mdpi.com/2075-4426/12/2/175">Computational genomics in
+the era of precision medicine: applications to variant analysis and gene
+therapy</a>. <strong><em>Journal of Personalized Medicine</em></strong>.
+#Co-first author; &amp;Co-corresponding authors. [<strong>Feature
+paper</strong>]</p>
+<p>Allington G, Duy PQ, <strong>Ryou J</strong>, Singh A, Kiziltug E,
+Robert SM, Kundishora A, <strong>King S</strong>, Haider S, Kahle KT,
+<strong>Jin SC</strong>. 2021. <a
+href="https://thejns.org/pediatrics/view/journals/j-neurosurg-pediatr/aop/article-10.3171-2021.8.PEDS21368/article-10.3171-2021.8.PEDS21368.xml">Genomic
+approaches to improve the clinical diagnosis and management of
+congenital hydrocephalus patients</a>. <strong><em>Journal of
+Neurosurgery:Pediatrics</em></strong>.</p>
+<p>Diab NS#, Barish S#, Dong W#, <strong>Zhao S#</strong>, Allington G,
+<strong>Yu X</strong>, Kahle KT, Brueckner M&amp;, <strong>Jin
+SC&amp;</strong>. 2021. <a
+href="https://www.mdpi.com/2073-4425/12/7/1020">Molecular genetics and
+complex inheritance of congenital heart disease</a>.
+<strong><em>Genes</em></strong>. #Co-first authors;
+&amp;Co-corresponding authors. <a
+href="https://www.mdpi.com/2073-4425/12/7?utm_campaign=releaseissue_genesutm_medium=emailutm_source=releaseissueutm_term=coverlink"><strong>Cover
+story</strong></a>.</p>
+<p>Kundishora AJ#, <strong>Peters ST#</strong>, Pinard A, Duran D,
+Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar
+A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D,
+Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N,
+Stratman AN, Chen Y-H, <strong>Zhao S</strong>, Roszko I, Lu Q, Zhang B,
+Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson
+DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach
+DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, <strong>Jin
+SC&amp;</strong>, Kahle KT&amp;. 2021. <a
+href="https://jamanetwork.com/journals/jamaneuroly/fullarticle/2781029">DIAPH1
+mutations in non-East Asian patients with sporadic moyamoya disease</a>.
+<strong><em>JAMA Neurology</em></strong>. #Co-first authors;
+&amp;Co-corresponding authors.</p>
+<p>Diab NS#, <strong>King S#</strong>, Dong W#, Allington G, Sheth A,
+<strong>Peters S</strong>, Kahle KT&amp;, <strong>Jin SC&amp;</strong>.
+2021. <a
+href="https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY">Analysis
+workflow to assess de novo genetic variants from whole-exome
+sequencing</a>. <strong><em>STAR Protocols</em></strong>. #Co-first
+authors; &amp;Co-corresponding authors.</p>
+<p><strong>Jin SC#</strong>, Dong W#, Kundishora AJ#, Panchagnula S#,
+Moreno-De-Luca A#, Furey CG, Allocco AA, Walker RL, Nelson-Williams C,
+Smith H, Dunbar A, Conine S, Lu Q, Zeng X, Sierant MC, Knight JR,
+Sullivan W, Duy PQ, DeSpenza T, Reeves BC, Karimy JK, Marlier A,
+Castaldi C, Tikhonova IR, Li B, Peña HP, Broach JR, Kabachelor EM,
+Ssenyonga P, Hehnly C, Ge L, Keren B, Timberlake AT, Goto J, Mangano FT,
+Johnston JM, Butler WE, Warf BC, Smith ER, Schiff SJ, Limbrick DD, Heuer
+G, Jackson EM, Iskandar BJ, Mane S, Haider S, Guclu B, Bayri Y, Sahin Y,
+Duncan CC, Apuzzo ML, DiLuna ML, Hoffman EJ, Sestan N, Ment LR, Alper
+SL, Bilguvar K, Geschwind DH, Günel M, Lifton RP, Kahle KT. 2020. <a
+href="https://www.nature.com/articles/s41591-020-1090-2">Exome
+sequencing implicates genetic disruption of prenatal neuro-gliogenesis
+in sporadic congenital hydrocephalus</a>. <strong><em>Nature
+Medicine</em></strong>. #Co-first authors .<br />
+<strong>Press coverage:</strong> <a
+href="https://www.nature.com/articles/s41591-020-1120-0">Nature
+Medicine</a>, <a
+href="https://facultyopinions.com/prime/738854794">Faculty Opinions</a>,
+<a href="https://medicine.yale.edu/news-article/28466/">Yale
+News</a></p>
+<p><strong>Jin SC#</strong>, Lewis S#, Bakhtiari S#, Zeng X#, Sierant
+MC, Shetty S, Nordlie S, Elie A, Corbett M, Norton B, van Eyk C, Haider
+S, Guida B, Magee H, Liu J, Pastore S, Vincent J, Brunstrom-Hernandez J,
+Papavasileiou A, Fahey M, Berry J, Harper K, Zhou C, Zhang J, Li B, Heim
+J, Webber D, Frank M, Xia L, Xu Y, Zhu D, Zhang B, Sheth A, Knight JR,
+Castaldi C, Tikhonoa I, Lopez-Giraldez F, Keren B, Whalen S, Buratti J,
+Doummar D, Cho M, Retterer K, Millan F, Wang Y, Waugh J, Rodan L, Cohen
+J, Fatemi A, Lin A, Phillips J, Feyma T, MacLennan S, Vaughan S,
+Crompton K, Reid S, Reddihough D, Shang Q, Gao C, Novak I, Badawi N,
+Wilson Y, McIntyre S, Mane S, Wang X, Amor D, Zarnescu D, Lu Q, Xing Q†,
+Zhu C†, Bilguvar K, Padilla-Lopez S, Lifton RP, Gecz J, MacLennan A,
+Kruer MC. 2020 <a
+href="https://www.nature.com/articles/s41588-020-0695-1">Mutations
+disrupting neuritogenesis genes confer risk for cerebral palsy</a>.
+<strong><em>Nature Genetics</em></strong>. #Co-first authors .<br />
+<strong>Press coverage:</strong> <a
+href="https://www.nih.gov/news-events/news-releases/about-14-cerebral-palsy-cases-may-be-tied-brain-wiring-genes">NIH</a>,
+<a
+href="https://medicine.wustl.edu/news/cerebral-palsy-also-has-genetic-underpinnings/">WashU
+News</a>, <a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajmg.a.61646">AJMG
+News</a></p>
+<p>Duran D#, Zeng X#, <strong>Jin SC#</strong>, Choi J, Nelson-Williams
+C, Yatsula B, Gaillard J, Furey CG, Lu Q, Timberlake AT, Dong W,
+Sorscher MA, Loring E, Klein J, Allocco A, Hunt A, Conine S, Karimy JK,
+Youngblood MW, Zhang J, DiLuna ML, Matouk CC, Mane S, Tikhonova IR,
+Castaldi C, López-Giráldez F, Knight J, Haider S, Soban M, Alper SL,
+Komiyama M, Ducruet AF, Zabramski JM, Dardik A, Walcott BP, Stapleton
+CJ, Aagaard-Kienitz B, Rodesch G, Jackson E, Smith ER, Orbach DB,
+Berenstein A, Bilguvar K, Vikkula M, Gunel M, Lifton RP, Kahle KT. 2019.
+<a
+href="https://www.sciencedirect.com/science/article/pii/S089662731831050X?via%3Dihub">Mutations
+in chromatin modifier and Ephrin signaling genes in Vein of Galen
+malformation</a>. <strong><em>Neuron</em></strong>. #Co-first authors
+.<br />
+<strong>Press coverage:</strong> <a
+href="https://yaledailynews.com/blog/2019/01/15/study-identifies-mutation-for-rare-infant-brain-disease/">Yale
+News</a></p>
+<p><strong>Jin SC#</strong>, Homsy J#, Zaidi S#, Lu Q, Morton S, DePalma
+SR, Zeng X, Qi H, Chang W, Sierant MC, Hung WC, Haider S, Zhang J,
+Knight J, Bjornson RD, Castaldi C, Tikhonoa IR, Bilguvar K, Mane SM,
+Sanders SJ, Mital S, Russell MW, Gaynor JW, Deanfield J, Giardini A,
+Porter GA Jr, Srivastava D, Lo CW, Shen Y, Watkins WS, Yandell M, Yost
+HJ, Tristani-Firouzi M, Newburger JW, Roberts AE, Kim R, Zhao H, Kaltman
+JR, Goldmuntz E, Chung WK, Seidman JG, Gelb BD, Seidman CE, Lifton RP,
+Brueckner M. 2017. <a
+href="https://www.nature.com/articles/ng.3970">Contribution of rare
+inherited and de novo variants in 2,871 congenital heart disease
+probands</a>. <strong><em>Nature Genetics</em></strong>. #Co-first
+authors. <strong>[&gt;400 cites]</strong> .<br />
+<strong>Press coverage:</strong> <a
+href="https://www.nhregister.com/news/article/Study-revealing-links-between-heart-disease-and-12264612.php">New
+Haven Register</a>, <a
+href="https://www.medicinenet.com/script/main/art.asp?articlekey=207467">MedicineNet</a></p>
 </div>
 <div id="section" class="section level3">
 <h3>2022</h3>
-<p>66 Dong W#, Wong KHY#, Liu Y#, Levy-Sakin M#, Hung W-C#, Li M, Li B, <strong>Jin SC</strong>, Choi J, Lopez-Giraldez F, Vaka D, Poon A, Chu C, Lao R, Balamir M, Movsesyan I, Malloy MJ, Zhao H, Kwok P-Y, Kane JP, Lifton RP, Pullinger CR. <a href="https://www.jlr.org/article/S0022-2275(22)00042-6/fulltext">Whole exome sequencing reveals damaging gene variants associated with hypoalphalipoproteinemia</a>. <strong><em>Journal of Lipid Research</em></strong>. #Co-first author.</p>
-<p>65 Calame DG#, Herman I#, Marshall AE, Maroofian R, Donis KC, Fatih JM, Mitani T, Du H, Grochowski CM, Sousa S, Bakhtiari S, Io YA, Rocca C, Hunter JV, Sutton VR, Emrick LT, Boycott KM, Lossos A, Fellig Y, Prus E, Kalish Y, Meiner V, Suerink M, Ruivenkamp T, Muirhead K, Saadi NW, Zaki MS, Bouman A, Barakat TS, Skidmore DL, Osmond M, Silva TO, Houlden H, Murphy D, Karimiani EG, Jamshidi Y, Jaddoa AG, Tajsharghi H, <strong>Jin SC</strong>, Abbaszadegan MR, Ebrahimzadeh-Vesal R, Hosseini S, Alavi S, Bahreini A, Zarean E, Salehi MM, Robson S, Coban-Akdemir Z, Travaglini L, Nicita F, Jhangiani SN, Gibbs RA, Posey JE, Kruer MC, Kernohan KD, Saute JAM, Vanderver A, Pehlivan D, Marafi D, Lupski JR. <a href="https://onlinelibrary.wiley.com/doi/10.1002/ana.26381">Biallelic variants in the ectonucleotidase ENTPD1 cause a complex neurodevelopmental disorder with intellectual disability, distinct white matter abnormalities, and spastic paraplegia</a>. <strong><em>Annals of Neurology</em></strong>. #Co-first author.</p>
-<p>64 Dong W#, Kaymakcalan H#, <strong>Jin SC#</strong>, Diab NS#, Tanıdır C, Yalcin ASY, Ercan-Sencicek AG, Mane S, Gunel M, Lifton RP, Bilguvar K, Brueckner M. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.1944">Mutation spectrum of congenital heart disease in a consanguineous Turkish population</a>. <strong><em>Molecular Genetics &amp; Genomic Medicine</em></strong>. #Co-first author.</p>
-<p>63 <strong>Wang Y-C#</strong>, Wu Y#, <strong>Choi J#</strong>, Allington G#, <strong>Zhao S#</strong>, <strong>Khanfar M#</strong>, <strong>Yang K#</strong>, <strong>Fu P-Y</strong>, <strong>Wrubel M</strong>, <strong>Yu X</strong>, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&amp;, <strong>Jin SC&amp;</strong>. <a href="https://www.mdpi.com/2075-4426/12/2/175">Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy</a>. <strong><em>Journal of Personalized Medicine</em></strong>. #Co-first author; &amp;Co-corresponding authors. [<strong>Feature paper</strong>]</p>
-<p>62 Duy PQ#, Weise SC#, Marini C, Li X, Liang D, Dahl P, Ma S, Spajic A, Dong W, Juusola J, Kiziltug E, Kundishora AJ, Koundal S, Pedram MZ, Torres-Fernández LZ, Händler K, Domenico ED, Becker M, Ulas T, Juranek SA, Cuevas E, Hao LT, Jux B, Sousa AM, Kim S-K, Li M, Yang Y, Takeo Y, Duque A, Nelson-Williams C, Ha Y, Selvaganesan K, Robert SM, Singh AK, Allington G, Furey CG, Timberlake AT, Reeves BC, Smith H, Dunbar A, DeSpenza Jr. T, Goto J, Marlier A, Moreno-De-Luc A, Yu X, Butler WE, Carter BS, Lake EM, Constable RT, Rakic P, Lin H, Deniz E, Benveniste H, Malvankar N, Estrada-Veras JI, Walsh CA, Alper SL, Schultze J, Paeschke K, Doetzlhofer A, Wulczyn FG, <strong>Jin SC</strong>, Lifton RP, Sestan N, Kolanus W, Kahle KT. <a href="https://www.nature.com/articles/s41593-022-01043-3">Impaired neurogenesis alters brain biomechanics in a neuroprogenitor-based genetic subtype of congenital hydrocephalus</a>. <strong><em>Nature Neuroscience</em></strong>. #Co-first author.</p>
-<p>61 Duy PQ, Rakic P, Alper SL, Butler WE, Walsh CA, Sestan N, Geschwind DH, <strong>Jin SC</strong>, Kahle KT. <a href="https://www.sciencedirect.com/science/article/pii/S0896627321010175?dgcid=coauthor">Brain ventricles as windows into the development of the human cerebral cortex</a>. <strong><em>Neuron</em></strong>.</p>
+<p>66 Dong W#, Wong KHY#, Liu Y#, Levy-Sakin M#, Hung W-C#, Li M, Li B,
+<strong>Jin SC</strong>, Choi J, Lopez-Giraldez F, Vaka D, Poon A, Chu
+C, Lao R, Balamir M, Movsesyan I, Malloy MJ, Zhao H, Kwok P-Y, Kane JP,
+Lifton RP, Pullinger CR. <a
+href="https://www.jlr.org/article/S0022-2275(22)00042-6/fulltext">Whole
+exome sequencing reveals damaging gene variants associated with
+hypoalphalipoproteinemia</a>. <strong><em>Journal of Lipid
+Research</em></strong>. #Co-first author.</p>
+<p>65 Calame DG#, Herman I#, Marshall AE, Maroofian R, Donis KC, Fatih
+JM, Mitani T, Du H, Grochowski CM, Sousa S, Bakhtiari S, Io YA, Rocca C,
+Hunter JV, Sutton VR, Emrick LT, Boycott KM, Lossos A, Fellig Y, Prus E,
+Kalish Y, Meiner V, Suerink M, Ruivenkamp T, Muirhead K, Saadi NW, Zaki
+MS, Bouman A, Barakat TS, Skidmore DL, Osmond M, Silva TO, Houlden H,
+Murphy D, Karimiani EG, Jamshidi Y, Jaddoa AG, Tajsharghi H, <strong>Jin
+SC</strong>, Abbaszadegan MR, Ebrahimzadeh-Vesal R, Hosseini S, Alavi S,
+Bahreini A, Zarean E, Salehi MM, Robson S, Coban-Akdemir Z, Travaglini
+L, Nicita F, Jhangiani SN, Gibbs RA, Posey JE, Kruer MC, Kernohan KD,
+Saute JAM, Vanderver A, Pehlivan D, Marafi D, Lupski JR. <a
+href="https://onlinelibrary.wiley.com/doi/10.1002/ana.26381">Biallelic
+variants in the ectonucleotidase ENTPD1 cause a complex
+neurodevelopmental disorder with intellectual disability, distinct white
+matter abnormalities, and spastic paraplegia</a>. <strong><em>Annals of
+Neurology</em></strong>. #Co-first author.</p>
+<p>64 Dong W#, Kaymakcalan H#, <strong>Jin SC#</strong>, Diab NS#,
+Tanıdır C, Yalcin ASY, Ercan-Sencicek AG, Mane S, Gunel M, Lifton RP,
+Bilguvar K, Brueckner M. <a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.1944">Mutation
+spectrum of congenital heart disease in a consanguineous Turkish
+population</a>. <strong><em>Molecular Genetics &amp; Genomic
+Medicine</em></strong>. #Co-first author.</p>
+<p>63 <strong>Wang Y-C#</strong>, Wu Y#, <strong>Choi J#</strong>,
+Allington G#, <strong>Zhao S#</strong>, <strong>Khanfar M#</strong>,
+<strong>Yang K#</strong>, <strong>Fu P-Y</strong>, <strong>Wrubel
+M</strong>, <strong>Yu X</strong>, Mekbib KY, Ocken J, Smith H, Shohfi
+J, Kahle KT, Lu Q&amp;, <strong>Jin SC&amp;</strong>. <a
+href="https://www.mdpi.com/2075-4426/12/2/175">Computational genomics in
+the era of precision medicine: applications to variant analysis and gene
+therapy</a>. <strong><em>Journal of Personalized Medicine</em></strong>.
+#Co-first author; &amp;Co-corresponding authors. [<strong>Feature
+paper</strong>]</p>
+<p>62 Duy PQ#, Weise SC#, Marini C, Li X, Liang D, Dahl P, Ma S, Spajic
+A, Dong W, Juusola J, Kiziltug E, Kundishora AJ, Koundal S, Pedram MZ,
+Torres-Fernández LZ, Händler K, Domenico ED, Becker M, Ulas T, Juranek
+SA, Cuevas E, Hao LT, Jux B, Sousa AM, Kim S-K, Li M, Yang Y, Takeo Y,
+Duque A, Nelson-Williams C, Ha Y, Selvaganesan K, Robert SM, Singh AK,
+Allington G, Furey CG, Timberlake AT, Reeves BC, Smith H, Dunbar A,
+DeSpenza Jr. T, Goto J, Marlier A, Moreno-De-Luc A, Yu X, Butler WE,
+Carter BS, Lake EM, Constable RT, Rakic P, Lin H, Deniz E, Benveniste H,
+Malvankar N, Estrada-Veras JI, Walsh CA, Alper SL, Schultze J, Paeschke
+K, Doetzlhofer A, Wulczyn FG, <strong>Jin SC</strong>, Lifton RP, Sestan
+N, Kolanus W, Kahle KT. <a
+href="https://www.nature.com/articles/s41593-022-01043-3">Impaired
+neurogenesis alters brain biomechanics in a neuroprogenitor-based
+genetic subtype of congenital hydrocephalus</a>. <strong><em>Nature
+Neuroscience</em></strong>. #Co-first author.</p>
+<p>61 Duy PQ, Rakic P, Alper SL, Butler WE, Walsh CA, Sestan N,
+Geschwind DH, <strong>Jin SC</strong>, Kahle KT. <a
+href="https://www.sciencedirect.com/science/article/pii/S0896627321010175?dgcid=coauthor">Brain
+ventricles as windows into the development of the human cerebral
+cortex</a>. <strong><em>Neuron</em></strong>.</p>
 </div>
 <div id="section-1" class="section level3">
 <h3>2021</h3>
-<p>60 Zech M#, Kopajtich R#, Steinbrücker K#, Bris C, Gueguen N, Feichtinger R, Achleitner M, Duzkale N, Périvier M, Koch J, Engelhardt H, Freisinger P, Wagner M, Brunet T, Berutti R, Smirnov D, Rodenburg RJ, Pais LS, Austin-Tse C, O’Leary M, Boesch S, Jech R, Bakhtiari S, <strong>Jin SC</strong>, Wilbert F, Kruer MC, Wortmann SB, Eckenweiler M, Mayr JA, Distelmaier F, Steinfeld R, Winkelmann J&amp;, Prokisch H&amp;. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.26293">Variants in mitochondrial ATP synthase cause variable neurologic phenotypes</a>. <strong><em>Annals of Neurology</em></strong>. #Co-first author; &amp;Co-corresponding authors.</p>
-<p>59 Tang CSM#, Mononen M#, Lam W-Y, <strong>Jin SC</strong>, Zhuang X, Garcia-Barcelo M-M, Lin Q, Yang Y, Sahara M, Eroglu E, Chien K&amp;, Hong H&amp;, Tma PKH&amp;, Gruber P&amp;. <a href="https://insight.jci.org/articles/view/152198">Sequencing of a Chinese Tetralogy of Fallot cohort reveals clustering mutations in myogenic heart progenitors</a>. <strong><em>JCI Insight</em></strong>. #Co-first author; &amp;Co-corresponding authors.</p>
-<p>58 Fazeli W, Bamborschke D, Moawia A, Bakhtiari S, Tafakhori A, Giersdorf M, Hahn A, Weik A, Kolzter K, Shafiee S, <strong>Jin SC</strong>, Körber F, Lee-Kirsch MA, Cirak S, Darvish H, Kruer MC, Koy A. <a href="https://www.sciencedirect.com/science/article/pii/S1090379821001938">The phenotypic spectrum of PCDH12 associated disorders - five new cases and review of the literature</a>. <strong><em>European Journal of Paediatric Neurology</em></strong>.</p>
-<p>57 DeSpenza Jr T#, Carlson M#, Panchagnula S, Robert S, Duy PQ, Mermin-Bunnell N, Reeves BC, Kundishora AJ, Elsamadicy AA, Smith H, Ocken J, Alper SL, <strong>Jin SC</strong>, Hoffman EJ&amp;, Kahle KT&amp;. <a href="https://www.sciencedirect.com/science/article/pii/S0166223621001661?dgcid=coauthor">PTEN mutations in autism spectrum disorder and congenital hydrocephalus: developmental pleiotropy and therapeutic targets</a>. <strong><em>Trends in Neurosciences</em></strong>. #Co-first author; &amp;Co-corresponding authors.</p>
-<p>56 Zech M, Kumar KR, Reining S, Reunert J, Tchan M, Riley LG, Drew AP, Adam RJ, Berutti R, Biskup S, Derive N, Bakhtiari S, <strong>Jin SC</strong>, Kruer MC, Bardakjian T, Gonzales-Aalegre P, Sarmiento IJK, Mencacci NE, Lubbe SJ, Kurian MA, Cclot F, Menereett A, de Sainte Agathe J-M, Fung VSC, Vidailhet M, Baumann M, Marquardt T, Winkelmann J, Boesch S. <a href="https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28804">Biallelic AOPEP loss-of-function variants linked to progressive dystonia with prominent limb involvement</a>. <strong><em>Movement Disorders</em></strong>.</p>
-<p>55 Allington G, Duy PQ, <strong>Ryou J</strong>, Singh A, Kiziltug E, Robert SM, Kundishora A, <strong>King S</strong>, Haider S, Kahle KT, <strong>Jin SC</strong>. <a href="https://thejns.org/pediatrics/view/journals/j-neurosurg-pediatr/aop/article-10.3171-2021.8.PEDS21368/article-10.3171-2021.8.PEDS21368.xml">Genomic approaches to improve the clinical diagnosis and management of congenital hydrocephalus patients</a> <strong><em>Journal of Neurosurgery:Pediatrics</em></strong>.</p>
-<p>54 Barak T#, Ristori E#, Ercan-Sencicek AG, Miyagishima DF, Nelson-Williams C, Dong W, <strong>Jin SC</strong>, Prendergast A, Henegariu O, Erson-Omay EZ, Harmancı AS, Guy M, Gültekin B, Kilic D, Rai DK, Goc N, Aguilera SM, Gülez B, Altinok S, Ozcan K, Yarman Y, Coskun S, Sempou E, Deniz E, Hintzen J, Cox A, Fomchenko E, Jung SW, Ozturk AK, Louvi A, Bilgüvar K, Connolly Jr. ES, Khokha MK, Kahle KT, Yasuno K, Lifton RP, Mishra-Gorur K&amp;, Nicoli S&amp;, Günel M&amp;. <a href="https://www.nature.com/articles/s41591-021-01572-7">PPIL4 is essential for brain angiogenesis and implicated in intracranial aneurysm in humans</a>. <strong><em>Nature Medicine</em></strong>. #Co-first author; &amp;Co-corresponding authors.</p>
-<p>53 Richard EM#, Bakhtiari S#, Marsh APL#, Kaiyrzhanov R#, Wagner M#, Shetty S, Pagnozzi A, Nordlie SM, Guida BS, Cornejo P, Magee H, Liu J, Norton BY, Webster RI, Worgan L, Hakonarson H, Li J, Guo Y, Jain M, Blesson A, Rodan LH, Abbott M, Comi A, Cohen JS, Alhaddad B, Meitinger T, Lenz D, Ziegler A, Kotzaeridou U, Brunet T, Chassevent A, Smith-Hicks C, Smith-Hicks J, Weiden T, Hahn A, Zharkinbekova N, Turnpenny P, Tucci A, Yelton M, Horvath R, Gungor S, Hiz S, Oktay Y, Lochmuller H, Zollino M, Morleo M, Marangi G, Nigro V, Torella A, Pinelli M, Amenta S, TUDP Study Group, Husain RA, Grossmann B, Rapp M, Steen C, Marquardt I, Grimmel M, Grasshoff U, Korenke GC, Owczarek-Lipska M, Neidhardt J, Radio FC, Mancini C, Sepulveda DJC, McWalter K, Begtrup A, Crunk A, Guillen Sacoto MJ, Person R, Schnur RE, Mancardi MM, Kreuder F, Striano P, Zara F, Chung WK, Marks WA, Tartaglia M, Striano V, Christodoulou J, Kaslin J, Padilla-Lopez S, Bilguvar K, Munchau A, Ahmed ZM, Hufnagel RB, Fahey MC, Maroofian R, Houlden H, Sticht H, Mane SM, Rad A, Vona B, <strong>Jin SC</strong>, Haack TB, Makowski C, Hirsch Y, Riazuddin S&amp;, Kruer MC&amp;. <a href="https://www.sciencedirect.com/science/article/pii/S0002929721003025?dgcid=coauthor">Biallelic variants in SPATA5L1 lead to intellectual disability, spastic-dystonic cerebral palsy, epilepsy and hearing loss</a>. <strong><em>American Journal of Human Genetics</em></strong>. #Co-first author; &amp;Co-corresponding authors.</p>
-<p>52 Calame DG#, Bakhtiari S#, Logan R, Coban-Akdemir Z, Du H, Mitani T, Fatih JM, Hunter JV, Herman I, Pehlivan D, Jhangiani SN, Person R, Schnur RE, <strong>Jin SC</strong>, Bilguvar K, Posey JE, Koh S, Firouzabadi SG, Alehabib E, Tafakhori A, Esmkhani S, Gibbs RA, Noureldeen MM, Zaki MS, Marafi D, Darvish H&amp;, Kruer MC&amp;, Lupski JR&amp;. <a href="https://www.nature.com/articles/s41436-021-01291-x">Biallelic loss-of-function variants in the splicing regulator NSRP1 cause a severe neurodevelopmental disorder with spastic cerebral palsy and epilepsy</a>. <strong><em>Genetics in Medicine</em></strong>. #Co-first author; &amp;Co-corresponding authors.</p>
-<p>51 Diab NS#, Barish S#, Dong W#, <strong>Zhao S#</strong>, Allington G, <strong>Yu X</strong>, Kahle KT, Brueckner M&amp;, <strong>Jin SC&amp;</strong>. <a href="https://www.mdpi.com/2073-4425/12/7/1020">Molecular genetics and complex inheritance of congenital heart disease</a>. <strong><em>Genes</em></strong>. #Co-first authors; &amp;Co-corresponding authors. <a href="https://www.mdpi.com/2073-4425/12/7?utm_campaign=releaseissue_genesutm_medium=emailutm_source=releaseissueutm_term=coverlink"><strong>Cover story</strong></a>.</p>
-<p>50 Kundishora AJ, Singh AK, Allington G, Dunbar AM, Duy PQ, <strong>Ryou J</strong>, Alper SL, <strong>Jin SC</strong>, Kahle KT. <a href="https://link.springer.com/article/10.1007/s00381-021-05230-8">Genomics of human congenital hydrocephalus</a>. <strong><em>Child’s Nervous System</em></strong>.</p>
-<p>49 Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A, <strong>Jin SC</strong>, Bilguvar K, Padilla-Lopez S, Kruer MC. <a href="https://ng.neurology.org/content/7/4/e602">Mutation in ZDHHC15 leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual disability</a>. <strong><em>Neurology: Genetics</em></strong>.</p>
-<p>48 Omar S, <strong>Jin SC</strong>, Koumangoye R, Robert SM, Duran D, Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cge.13973">Protein kinase D1 mutation associated with human epilepsy and peripheral nerve hypermyelination</a>. <strong><em>Clinical Genetics</em></strong>.</p>
-<p>47 Kundishora AJ#, <strong>Peters ST#</strong>, Pinard A, Duran D, Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D, Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N, Stratman AN, Chen Y-H, <strong>Zhao S</strong>, Roszko I, Lu Q, Zhang B, Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, <strong>Jin SC&amp;</strong>, Kahle KT&amp;. <a href="https://jamanetwork.com/journals/jamaneurology/fullarticle/2781029">DIAPH1 mutations in non-East Asian patients with sporadic moyamoya disease</a>. <strong><em>JAMA Neurology</em></strong>. #Co-first authors; &amp;Co-corresponding authors.</p>
-<p>46 Li M, Zeng X, Jin L, <strong>Jin SC</strong>, Dong W, Brueckner M, Lifton RP, Lu Q, Zhao H. <a href="https://journal.hep.com.cn/qb/EN/10.15302/J-QB-021-0248">Integrative modeling of transmitted and de novo variants identifies novel risk genes for congenital heart disease</a>. <strong><em>Quantitative Biology</em></strong>.</p>
-<p>45 Alsharhan H, He M, Edmondson AC, Chen J, Donald T, Bakhtiari S, Amor D, Jones EA, Vassallo G, Vincent G, Cogné B, Deb W, Werners AH, <strong>Jin SC</strong>, Bilguvar K, Christodoulou J, Webster RI, Yearwood KR, Ng BG, Freeze HN, Kruer MC, Li D, Raymond KM, Bhoj EJ, Sobering AK. <a href="https://onlinelibrary.wiley.com/doi/10.1002/jimd.12378">ALG13 X-linked intellectual disability: new variants, Glycosylation analysis, and expansion of the phenotype</a>. <strong><em>Journal of Inherited Metabolic Disease</em></strong>.</p>
-<p>44 Dzinovic I, Skorvanek M, Pavelekova P, Zhao C, Keren B, Whalen S, Bakhtiari S, <strong>Jin SC</strong>, Kruer MC, Jech R, Winkelmann J, Zech M. <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.51335">Variant recurrence confirms the existence of a FBXO31-related spastic-dystonic cerebral palsy syndrome</a>. <strong><em>Annals of Clinical and Translational Neurology</em></strong>.</p>
-<p>43 Diab NS#, <strong>King S#</strong>, Dong W#, Allington G, Sheth A, <strong>Peters S</strong>, Kahle KT&amp;, <strong>Jin SC&amp;</strong>. <a href="https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY">Analysis workflow to assess de novo genetic variants from whole-exome sequencing</a>. <strong><em>STAR Protocols</em></strong>. #Co-first authors; &amp;Co-corresponding authors.</p>
-<p>42 Bakhtiari S, Tafakhori A, <strong>Jin SC</strong>, Guida BS, Alehabib E, Firouzbadi S, Bilguvar K, Darvish H, Kruer MC. <a href="https://ng.neurology.org/content/7/3/e583">Recessive COL4A2 mutation leads to intellectual disability, epilepsy, and spastic cerebral palsy</a>. <strong><em>Neurology: Genetics</em></strong>.</p>
-<p>41 Lewis SA, Shetty S, Wilson B, Huang AJ, <strong>Jin SC</strong>, Smithers-Sheedy H, Fahey MC, Kruer MC. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2020.625428/full">Insights from genetic studies of cerebral palsy</a>. <strong><em>Frontiers in Neurology</em></strong>.</p>
-<p>40 Wiessner M, Maroofian R, Ni M-Y, Bartesaghi L, Pedroni A, Müller JS, Stucka R, Beetz C, Efthymiou S, Santorelli FM, Alfares AA, Zhu C, Meszarosova AU, Alehabib E, Bakhtiari S, Jannecke AR, Otero MG, Chen JY, Peterson JT, Skraban C, Goldstein A, Strom TM, Jonghe PD, Deconinck T, Ridder WD, Winter JD, Pasquariello R, Ricca I, Alfadhel M, van de Warrenburg BP, Portier R, Bergmann C, Firouzabadi SG, <strong>Jin SC</strong>, Bilguvar K, …, Senderek J. <a href="https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awab041/6273093?rss=1">Biallelic variants in HPDL cause pure and complicated hereditary spastic paraplegia</a>. <strong><em>Brain</em></strong>.</p>
+<p>60 Zech M#, Kopajtich R#, Steinbrücker K#, Bris C, Gueguen N,
+Feichtinger R, Achleitner M, Duzkale N, Périvier M, Koch J, Engelhardt
+H, Freisinger P, Wagner M, Brunet T, Berutti R, Smirnov D, Rodenburg RJ,
+Pais LS, Austin-Tse C, O’Leary M, Boesch S, Jech R, Bakhtiari S,
+<strong>Jin SC</strong>, Wilbert F, Kruer MC, Wortmann SB, Eckenweiler
+M, Mayr JA, Distelmaier F, Steinfeld R, Winkelmann J&amp;, Prokisch
+H&amp;. <a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.26293">Variants
+in mitochondrial ATP synthase cause variable neurologic phenotypes</a>.
+<strong><em>Annals of Neurology</em></strong>. #Co-first author;
+&amp;Co-corresponding authors.</p>
+<p>59 Tang CSM#, Mononen M#, Lam W-Y, <strong>Jin SC</strong>, Zhuang X,
+Garcia-Barcelo M-M, Lin Q, Yang Y, Sahara M, Eroglu E, Chien K&amp;,
+Hong H&amp;, Tma PKH&amp;, Gruber P&amp;. <a
+href="https://insight.jci.org/articles/view/152198">Sequencing of a
+Chinese Tetralogy of Fallot cohort reveals clustering mutations in
+myogenic heart progenitors</a>. <strong><em>JCI Insight</em></strong>.
+#Co-first author; &amp;Co-corresponding authors.</p>
+<p>58 Fazeli W, Bamborschke D, Moawia A, Bakhtiari S, Tafakhori A,
+Giersdorf M, Hahn A, Weik A, Kolzter K, Shafiee S, <strong>Jin
+SC</strong>, Körber F, Lee-Kirsch MA, Cirak S, Darvish H, Kruer MC, Koy
+A. <a
+href="https://www.sciencedirect.com/science/article/pii/S1090379821001938">The
+phenotypic spectrum of PCDH12 associated disorders - five new cases and
+review of the literature</a>. <strong><em>European Journal of Paediatric
+Neurology</em></strong>.</p>
+<p>57 DeSpenza Jr T#, Carlson M#, Panchagnula S, Robert S, Duy PQ,
+Mermin-Bunnell N, Reeves BC, Kundishora AJ, Elsamadicy AA, Smith H,
+Ocken J, Alper SL, <strong>Jin SC</strong>, Hoffman EJ&amp;, Kahle
+KT&amp;. <a
+href="https://www.sciencedirect.com/science/article/pii/S0166223621001661?dgcid=coauthor">PTEN
+mutations in autism spectrum disorder and congenital hydrocephalus:
+developmental pleiotropy and therapeutic targets</a>. <strong><em>Trends
+in Neurosciences</em></strong>. #Co-first author; &amp;Co-corresponding
+authors.</p>
+<p>56 Zech M, Kumar KR, Reining S, Reunert J, Tchan M, Riley LG, Drew
+AP, Adam RJ, Berutti R, Biskup S, Derive N, Bakhtiari S, <strong>Jin
+SC</strong>, Kruer MC, Bardakjian T, Gonzales-Aalegre P, Sarmiento IJK,
+Mencacci NE, Lubbe SJ, Kurian MA, Cclot F, Menereett A, de Sainte Agathe
+J-M, Fung VSC, Vidailhet M, Baumann M, Marquardt T, Winkelmann J, Boesch
+S. <a
+href="https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28804">Biallelic
+AOPEP loss-of-function variants linked to progressive dystonia with
+prominent limb involvement</a>. <strong><em>Movement
+Disorders</em></strong>.</p>
+<p>55 Allington G, Duy PQ, <strong>Ryou J</strong>, Singh A, Kiziltug E,
+Robert SM, Kundishora A, <strong>King S</strong>, Haider S, Kahle KT,
+<strong>Jin SC</strong>. <a
+href="https://thejns.org/pediatrics/view/journals/j-neurosurg-pediatr/aop/article-10.3171-2021.8.PEDS21368/article-10.3171-2021.8.PEDS21368.xml">Genomic
+approaches to improve the clinical diagnosis and management of
+congenital hydrocephalus patients</a> <strong><em>Journal of
+Neurosurgery:Pediatrics</em></strong>.</p>
+<p>54 Barak T#, Ristori E#, Ercan-Sencicek AG, Miyagishima DF,
+Nelson-Williams C, Dong W, <strong>Jin SC</strong>, Prendergast A,
+Henegariu O, Erson-Omay EZ, Harmancı AS, Guy M, Gültekin B, Kilic D, Rai
+DK, Goc N, Aguilera SM, Gülez B, Altinok S, Ozcan K, Yarman Y, Coskun S,
+Sempou E, Deniz E, Hintzen J, Cox A, Fomchenko E, Jung SW, Ozturk AK,
+Louvi A, Bilgüvar K, Connolly Jr. ES, Khokha MK, Kahle KT, Yasuno K,
+Lifton RP, Mishra-Gorur K&amp;, Nicoli S&amp;, Günel M&amp;. <a
+href="https://www.nature.com/articles/s41591-021-01572-7">PPIL4 is
+essential for brain angiogenesis and implicated in intracranial aneurysm
+in humans</a>. <strong><em>Nature Medicine</em></strong>. #Co-first
+author; &amp;Co-corresponding authors.</p>
+<p>53 Richard EM#, Bakhtiari S#, Marsh APL#, Kaiyrzhanov R#, Wagner M#,
+Shetty S, Pagnozzi A, Nordlie SM, Guida BS, Cornejo P, Magee H, Liu J,
+Norton BY, Webster RI, Worgan L, Hakonarson H, Li J, Guo Y, Jain M,
+Blesson A, Rodan LH, Abbott M, Comi A, Cohen JS, Alhaddad B, Meitinger
+T, Lenz D, Ziegler A, Kotzaeridou U, Brunet T, Chassevent A, Smith-Hicks
+C, Smith-Hicks J, Weiden T, Hahn A, Zharkinbekova N, Turnpenny P, Tucci
+A, Yelton M, Horvath R, Gungor S, Hiz S, Oktay Y, Lochmuller H, Zollino
+M, Morleo M, Marangi G, Nigro V, Torella A, Pinelli M, Amenta S, TUDP
+Study Group, Husain RA, Grossmann B, Rapp M, Steen C, Marquardt I,
+Grimmel M, Grasshoff U, Korenke GC, Owczarek-Lipska M, Neidhardt J,
+Radio FC, Mancini C, Sepulveda DJC, McWalter K, Begtrup A, Crunk A,
+Guillen Sacoto MJ, Person R, Schnur RE, Mancardi MM, Kreuder F, Striano
+P, Zara F, Chung WK, Marks WA, Tartaglia M, Striano V, Christodoulou J,
+Kaslin J, Padilla-Lopez S, Bilguvar K, Munchau A, Ahmed ZM, Hufnagel RB,
+Fahey MC, Maroofian R, Houlden H, Sticht H, Mane SM, Rad A, Vona B,
+<strong>Jin SC</strong>, Haack TB, Makowski C, Hirsch Y, Riazuddin
+S&amp;, Kruer MC&amp;. <a
+href="https://www.sciencedirect.com/science/article/pii/S0002929721003025?dgcid=coauthor">Biallelic
+variants in SPATA5L1 lead to intellectual disability, spastic-dystonic
+cerebral palsy, epilepsy and hearing loss</a>. <strong><em>American
+Journal of Human Genetics</em></strong>. #Co-first author;
+&amp;Co-corresponding authors.</p>
+<p>52 Calame DG#, Bakhtiari S#, Logan R, Coban-Akdemir Z, Du H, Mitani
+T, Fatih JM, Hunter JV, Herman I, Pehlivan D, Jhangiani SN, Person R,
+Schnur RE, <strong>Jin SC</strong>, Bilguvar K, Posey JE, Koh S,
+Firouzabadi SG, Alehabib E, Tafakhori A, Esmkhani S, Gibbs RA,
+Noureldeen MM, Zaki MS, Marafi D, Darvish H&amp;, Kruer MC&amp;, Lupski
+JR&amp;. <a
+href="https://www.nature.com/articles/s41436-021-01291-x">Biallelic
+loss-of-function variants in the splicing regulator NSRP1 cause a severe
+neurodevelopmental disorder with spastic cerebral palsy and
+epilepsy</a>. <strong><em>Genetics in Medicine</em></strong>. #Co-first
+author; &amp;Co-corresponding authors.</p>
+<p>51 Diab NS#, Barish S#, Dong W#, <strong>Zhao S#</strong>, Allington
+G, <strong>Yu X</strong>, Kahle KT, Brueckner M&amp;, <strong>Jin
+SC&amp;</strong>. <a
+href="https://www.mdpi.com/2073-4425/12/7/1020">Molecular genetics and
+complex inheritance of congenital heart disease</a>.
+<strong><em>Genes</em></strong>. #Co-first authors;
+&amp;Co-corresponding authors. <a
+href="https://www.mdpi.com/2073-4425/12/7?utm_campaign=releaseissue_genesutm_medium=emailutm_source=releaseissueutm_term=coverlink"><strong>Cover
+story</strong></a>.</p>
+<p>50 Kundishora AJ, Singh AK, Allington G, Dunbar AM, Duy PQ,
+<strong>Ryou J</strong>, Alper SL, <strong>Jin SC</strong>, Kahle KT. <a
+href="https://link.springer.com/article/10.1007/s00381-021-05230-8">Genomics
+of human congenital hydrocephalus</a>. <strong><em>Child’s Nervous
+System</em></strong>.</p>
+<p>49 Lewis SA, Bakhtiari S, Heim J, Liu J, Huaang AJ, Musmacker A,
+<strong>Jin SC</strong>, Bilguvar K, Padilla-Lopez S, Kruer MC. <a
+href="https://ng.neurology.org/content/7/4/e602">Mutation in ZDHHC15
+leads to hypotonic cerebral palsy, autism, epilepsy, and intellectual
+disability</a>. <strong><em>Neurology: Genetics</em></strong>.</p>
+<p>48 Omar S, <strong>Jin SC</strong>, Koumangoye R, Robert SM, Duran D,
+Nelson-Williams C, Huttner A, DiLuna M, Kahle KT, Delpire E. <a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cge.13973">Protein
+kinase D1 mutation associated with human epilepsy and peripheral nerve
+hypermyelination</a>. <strong><em>Clinical Genetics</em></strong>.</p>
+<p>47 Kundishora AJ#, <strong>Peters ST#</strong>, Pinard A, Duran D,
+Panchagnula S, Barak T, Miyagishima DF, Dong W, Smith H, Ocken J, Dunbar
+A, Nelson-Williams C, Haider S, Walker RL, Li B, Zhao H, Thumkeo D,
+Marlier A, Duy PQ, Diab NS, Reeves BC, Robert SM, Sujijantarat N,
+Stratman AN, Chen Y-H, <strong>Zhao S</strong>, Roszko I, Lu Q, Zhang B,
+Mane S, Castaldi C, López-Giráldez F, Knight JR, Bamshad MJ, Nickerson
+DA, Geschwind DH, Lang Chen S-S, Storm PB, Diluna ML, Matouk C, Orbach
+DB, Alper SL, Smith ER, Lifton RP, Gunel M, Milewicz DM, <strong>Jin
+SC&amp;</strong>, Kahle KT&amp;. <a
+href="https://jamanetwork.com/journals/jamaneurology/fullarticle/2781029">DIAPH1
+mutations in non-East Asian patients with sporadic moyamoya disease</a>.
+<strong><em>JAMA Neurology</em></strong>. #Co-first authors;
+&amp;Co-corresponding authors.</p>
+<p>46 Li M, Zeng X, Jin L, <strong>Jin SC</strong>, Dong W, Brueckner M,
+Lifton RP, Lu Q, Zhao H. <a
+href="https://journal.hep.com.cn/qb/EN/10.15302/J-QB-021-0248">Integrative
+modeling of transmitted and de novo variants identifies novel risk genes
+for congenital heart disease</a>. <strong><em>Quantitative
+Biology</em></strong>.</p>
+<p>45 Alsharhan H, He M, Edmondson AC, Chen J, Donald T, Bakhtiari S,
+Amor D, Jones EA, Vassallo G, Vincent G, Cogné B, Deb W, Werners AH,
+<strong>Jin SC</strong>, Bilguvar K, Christodoulou J, Webster RI,
+Yearwood KR, Ng BG, Freeze HN, Kruer MC, Li D, Raymond KM, Bhoj EJ,
+Sobering AK. <a
+href="https://onlinelibrary.wiley.com/doi/10.1002/jimd.12378">ALG13
+X-linked intellectual disability: new variants, Glycosylation analysis,
+and expansion of the phenotype</a>. <strong><em>Journal of Inherited
+Metabolic Disease</em></strong>.</p>
+<p>44 Dzinovic I, Skorvanek M, Pavelekova P, Zhao C, Keren B, Whalen S,
+Bakhtiari S, <strong>Jin SC</strong>, Kruer MC, Jech R, Winkelmann J,
+Zech M. <a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.51335">Variant
+recurrence confirms the existence of a FBXO31-related spastic-dystonic
+cerebral palsy syndrome</a>. <strong><em>Annals of Clinical and
+Translational Neurology</em></strong>.</p>
+<p>43 Diab NS#, <strong>King S#</strong>, Dong W#, Allington G, Sheth A,
+<strong>Peters S</strong>, Kahle KT&amp;, <strong>Jin SC&amp;</strong>.
+<a
+href="https://star-protocols.cell.com/protocols/514?fbclid=IwAR0RAxAiY1LbdBXWdlWDL_fcfKIx7gzABfPn4F8tEs_VobHYDdmWO2iqJKY">Analysis
+workflow to assess de novo genetic variants from whole-exome
+sequencing</a>. <strong><em>STAR Protocols</em></strong>. #Co-first
+authors; &amp;Co-corresponding authors.</p>
+<p>42 Bakhtiari S, Tafakhori A, <strong>Jin SC</strong>, Guida BS,
+Alehabib E, Firouzbadi S, Bilguvar K, Darvish H, Kruer MC. <a
+href="https://ng.neurology.org/content/7/3/e583">Recessive COL4A2
+mutation leads to intellectual disability, epilepsy, and spastic
+cerebral palsy</a>. <strong><em>Neurology: Genetics</em></strong>.</p>
+<p>41 Lewis SA, Shetty S, Wilson B, Huang AJ, <strong>Jin SC</strong>,
+Smithers-Sheedy H, Fahey MC, Kruer MC. <a
+href="https://www.frontiersin.org/articles/10.3389/fneur.2020.625428/full">Insights
+from genetic studies of cerebral palsy</a>. <strong><em>Frontiers in
+Neurology</em></strong>.</p>
+<p>40 Wiessner M, Maroofian R, Ni M-Y, Bartesaghi L, Pedroni A, Müller
+JS, Stucka R, Beetz C, Efthymiou S, Santorelli FM, Alfares AA, Zhu C,
+Meszarosova AU, Alehabib E, Bakhtiari S, Jannecke AR, Otero MG, Chen JY,
+Peterson JT, Skraban C, Goldstein A, Strom TM, Jonghe PD, Deconinck T,
+Ridder WD, Winter JD, Pasquariello R, Ricca I, Alfadhel M, van de
+Warrenburg BP, Portier R, Bergmann C, Firouzabadi SG, <strong>Jin
+SC</strong>, Bilguvar K, …, Senderek J. <a
+href="https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awab041/6273093?rss=1">Biallelic
+variants in HPDL cause pure and complicated hereditary spastic
+paraplegia</a>. <strong><em>Brain</em></strong>.</p>
 </div>
 <div id="section-2" class="section level3">
 <h3>2020</h3>
-<p>39 <strong>Jin SC#</strong>, Dong W#, Kundishora AJ#, Panchagnula S#, Moreno-De-Luca A#, Furey CG, Allocco AA, Walker RL, Nelson-Williams C, Smith H, Dunbar A, Conine S, Lu Q, Zeng X, Sierant MC, Knight JR, Sullivan W, Duy PQ, DeSpenza T, Reeves BC, Karimy JK, Marlier A, Castaldi C, Tikhonova IR, Li B, Peña HP, Broach JR, Kabachelor EM, Ssenyonga P, Hehnly C, Ge L, Keren B, Timberlake AT, Goto J, Mangano FT, Johnston JM, Butler WE, Warf BC, Smith ER, Schiff SJ, Limbrick DD, Heuer G, Jackson EM, Iskandar BJ, Mane S, Haider S, Guclu B, Bayri Y, Sahin Y, Duncan CC, Apuzzo ML, DiLuna ML, Hoffman EJ, Sestan N, Ment LR, Alper SL, Bilguvar K, Geschwind DH, Günel M, Lifton RP, Kahle KT. <a href="https://www.nature.com/articles/s41591-020-1090-2">Exome sequencing implicates genetic disruption of prenatal neuro-gliogenesis in sporadic congenital hydrocephalus</a>. <strong><em>Nature Medicine</em></strong>. #Co-first authors .<br />
-<strong>Press coverage:</strong> <a href="https://www.nature.com/articles/s41591-020-1120-0">Nature Medicine</a>, <a href="https://facultyopinions.com/prime/738854794">Faculty Opinions</a>, <a href="https://medicine.yale.edu/news-article/28466/">Yale News</a></p>
-<p>38 <strong>Jin SC#</strong>, Lewis S#, Bakhtiari S#, Zeng X#, Sierant MC, Shetty S, Nordlie S, Elie A, Corbett M, Norton B, van Eyk C, Haider S, Guida B, Magee H, Liu J, Pastore S, Vincent J, Brunstrom-Hernandez J, Papavasileiou A, Fahey M, Berry J, Harper K, Zhou C, Zhang J, Li B, Zhao H, Heim J, Webber D, Frank M, Xia L, Xu Y, Zhu D, Zhang B, Sheth A, Knight JR, Castaldi C, Tikhonoa I, Lopez-Giraldez F, Keren B, Whalen S, Buratti J, Doummar D, Cho M, Retterer K, Millan F, Wang Y, Waugh J, Rodan L, Cohen J, Fatemi A, Lin A, Phillips J, Feyma T, MacLennan S, Vaughan S, Crompton K, Reid S, Reddihough D, Shang Q, Gao C, Novak I, Badawi N, Wilson Y, McIntyre S, Mane S, Wang X, Amor D, Zarnescu D, Lu Q, Xing Q†, Zhu C†, Bilguvar K, Padilla-Lopez S, Lifton RP, Gecz J, MacLennan A, Kruer MC. <a href="https://www.nature.com/articles/s41588-020-0695-1">Mutations disrupting neuritogenesis genes confer risk for cerebral palsy</a>. <strong><em>Nature Genetics</em></strong>. #Co-first authors .<br />
-<strong>Press coverage:</strong> <a href="https://www.nih.gov/news-events/news-releases/about-14-cerebral-palsy-cases-may-be-tied-brain-wiring-genes">NIH</a>, <a href="https://medicine.wustl.edu/news/cerebral-palsy-also-has-genetic-underpinnings/">WashU News</a>, <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajmg.a.61646">AJMG News</a></p>
-<p>37 Dong W#, <strong>Jin SC#</strong>, Allocco A#, Zeng X#, Sheth A, Panchagnula S, Castonguay A, Lorenzo L, Islam B, Brindle G, Bachand K, Hu J, Sularz A, Gaillard J, Choi J, Dunbar A, Nelson-Williams C, Kiziltug E, Furey C, Conine S, Duy P, Kundishora AJ, Loring E, Li B, Lu Q, Zhou G, Liu W, Li X, Sierant MC, Mane S, Castaldi C, Lopez-Giraldez F, Knight JR, Sekula R, Simard M, Eskandar E, Gottschalk C, Moliterno J, Gunel M, Gerrard J, Dib-Hajj S, Waxman S, Barker F, Alper S, Chahine M, Haider S, De Koninck Y, Lifton RP, Kahle KT. <a href="https://www.sciencedirect.com/science/article/pii/S2589004220307446">Exome sequencing implicates impaired GABA signaling and neuronal ion transport in trigeminal neuralgia</a>. <strong><em>iScience</em></strong>. #Co-first authors</p>
-<p>36 Morton SU, Shimamura A, Newburger PE, Opotowsky AR, Quiat D, Pereira AC, <strong>Jin SC</strong>, Gurvitz M, Brueckner M, Chung WK, Shen Y, Bernstein D, Gelb BD, Giardini A, Goldmuntz E, Kim RW, Lifton RP, Porter GA, Srivastava D, Tristani-Firouzi M, Newburger JW, Seidman JG, Seidman CE. <a href="https://jamanetwork.com/journals/jamacardiology/fullarticle/2772083?guestAccessKey=8f7539c8-dd74-4220-bfe2-5eeb72d2fd75&amp;utm_source=fbpage&amp;utm_medium=social_jamacard&amp;utm_term=3961651915&amp;utm_campaign=article_alert&amp;linkId=102524490&amp;fbclid=IwAR0wn_cKe5ijO2l_0hjUdYUjrJ7xgCKdxsHut_dbGsaQg5viFiqfLNfZbJ0">Damaging variants in genes associated with increased cancer risk among congenital heart disease patients</a>. <strong><em>JAMA Cardiology</em></strong>.</p>
-<p>35 Sullivan W, Reeves BC, Duy PQ, Nelson-Williams C, Dong W, <strong>Jin SC</strong>, Kahle KT. <a href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2772999">Exome sequencing as a potential diagnostic adjunct in sporadic congenital hydrocephalus</a>. <strong><em>JAMA Pediatrics</em></strong>.</p>
+<p>39 <strong>Jin SC#</strong>, Dong W#, Kundishora AJ#, Panchagnula S#,
+Moreno-De-Luca A#, Furey CG, Allocco AA, Walker RL, Nelson-Williams C,
+Smith H, Dunbar A, Conine S, Lu Q, Zeng X, Sierant MC, Knight JR,
+Sullivan W, Duy PQ, DeSpenza T, Reeves BC, Karimy JK, Marlier A,
+Castaldi C, Tikhonova IR, Li B, Peña HP, Broach JR, Kabachelor EM,
+Ssenyonga P, Hehnly C, Ge L, Keren B, Timberlake AT, Goto J, Mangano FT,
+Johnston JM, Butler WE, Warf BC, Smith ER, Schiff SJ, Limbrick DD, Heuer
+G, Jackson EM, Iskandar BJ, Mane S, Haider S, Guclu B, Bayri Y, Sahin Y,
+Duncan CC, Apuzzo ML, DiLuna ML, Hoffman EJ, Sestan N, Ment LR, Alper
+SL, Bilguvar K, Geschwind DH, Günel M, Lifton RP, Kahle KT. <a
+href="https://www.nature.com/articles/s41591-020-1090-2">Exome
+sequencing implicates genetic disruption of prenatal neuro-gliogenesis
+in sporadic congenital hydrocephalus</a>. <strong><em>Nature
+Medicine</em></strong>. #Co-first authors .<br />
+<strong>Press coverage:</strong> <a
+href="https://www.nature.com/articles/s41591-020-1120-0">Nature
+Medicine</a>, <a
+href="https://facultyopinions.com/prime/738854794">Faculty Opinions</a>,
+<a href="https://medicine.yale.edu/news-article/28466/">Yale
+News</a></p>
+<p>38 <strong>Jin SC#</strong>, Lewis S#, Bakhtiari S#, Zeng X#, Sierant
+MC, Shetty S, Nordlie S, Elie A, Corbett M, Norton B, van Eyk C, Haider
+S, Guida B, Magee H, Liu J, Pastore S, Vincent J, Brunstrom-Hernandez J,
+Papavasileiou A, Fahey M, Berry J, Harper K, Zhou C, Zhang J, Li B, Zhao
+H, Heim J, Webber D, Frank M, Xia L, Xu Y, Zhu D, Zhang B, Sheth A,
+Knight JR, Castaldi C, Tikhonoa I, Lopez-Giraldez F, Keren B, Whalen S,
+Buratti J, Doummar D, Cho M, Retterer K, Millan F, Wang Y, Waugh J,
+Rodan L, Cohen J, Fatemi A, Lin A, Phillips J, Feyma T, MacLennan S,
+Vaughan S, Crompton K, Reid S, Reddihough D, Shang Q, Gao C, Novak I,
+Badawi N, Wilson Y, McIntyre S, Mane S, Wang X, Amor D, Zarnescu D, Lu
+Q, Xing Q†, Zhu C†, Bilguvar K, Padilla-Lopez S, Lifton RP, Gecz J,
+MacLennan A, Kruer MC. <a
+href="https://www.nature.com/articles/s41588-020-0695-1">Mutations
+disrupting neuritogenesis genes confer risk for cerebral palsy</a>.
+<strong><em>Nature Genetics</em></strong>. #Co-first authors .<br />
+<strong>Press coverage:</strong> <a
+href="https://www.nih.gov/news-events/news-releases/about-14-cerebral-palsy-cases-may-be-tied-brain-wiring-genes">NIH</a>,
+<a
+href="https://medicine.wustl.edu/news/cerebral-palsy-also-has-genetic-underpinnings/">WashU
+News</a>, <a
+href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ajmg.a.61646">AJMG
+News</a></p>
+<p>37 Dong W#, <strong>Jin SC#</strong>, Allocco A#, Zeng X#, Sheth A,
+Panchagnula S, Castonguay A, Lorenzo L, Islam B, Brindle G, Bachand K,
+Hu J, Sularz A, Gaillard J, Choi J, Dunbar A, Nelson-Williams C,
+Kiziltug E, Furey C, Conine S, Duy P, Kundishora AJ, Loring E, Li B, Lu
+Q, Zhou G, Liu W, Li X, Sierant MC, Mane S, Castaldi C, Lopez-Giraldez
+F, Knight JR, Sekula R, Simard M, Eskandar E, Gottschalk C, Moliterno J,
+Gunel M, Gerrard J, Dib-Hajj S, Waxman S, Barker F, Alper S, Chahine M,
+Haider S, De Koninck Y, Lifton RP, Kahle KT. <a
+href="https://www.sciencedirect.com/science/article/pii/S2589004220307446">Exome
+sequencing implicates impaired GABA signaling and neuronal ion transport
+in trigeminal neuralgia</a>. <strong><em>iScience</em></strong>.
+#Co-first authors</p>
+<p>36 Morton SU, Shimamura A, Newburger PE, Opotowsky AR, Quiat D,
+Pereira AC, <strong>Jin SC</strong>, Gurvitz M, Brueckner M, Chung WK,
+Shen Y, Bernstein D, Gelb BD, Giardini A, Goldmuntz E, Kim RW, Lifton
+RP, Porter GA, Srivastava D, Tristani-Firouzi M, Newburger JW, Seidman
+JG, Seidman CE. <a
+href="https://jamanetwork.com/journals/jamacardiology/fullarticle/2772083?guestAccessKey=8f7539c8-dd74-4220-bfe2-5eeb72d2fd75&amp;utm_source=fbpage&amp;utm_medium=social_jamacard&amp;utm_term=3961651915&amp;utm_campaign=article_alert&amp;linkId=102524490&amp;fbclid=IwAR0wn_cKe5ijO2l_0hjUdYUjrJ7xgCKdxsHut_dbGsaQg5viFiqfLNfZbJ0">Damaging
+variants in genes associated with increased cancer risk among congenital
+heart disease patients</a>. <strong><em>JAMA
+Cardiology</em></strong>.</p>
+<p>35 Sullivan W, Reeves BC, Duy PQ, Nelson-Williams C, Dong W,
+<strong>Jin SC</strong>, Kahle KT. <a
+href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2772999">Exome
+sequencing as a potential diagnostic adjunct in sporadic congenital
+hydrocephalus</a>. <strong><em>JAMA Pediatrics</em></strong>.</p>
 </div>
 <div id="peters-work-pre-dating-the-lab" class="section level3">
 <h3>Peter’s work pre-dating the lab:</h3>
-<p>34 Wagner M, Lévy J, Jung-Klawitter S, Bakhtiari S, Monteiro F, Maroofian R, Bierhals T, Hempel M, Elmaleh M, Kitajima JP, Kim CA, Salomao JG, Amor DJ, Cooper MS, Perrin L, Pipiras E, Neu A, Doosti M, Karimiani EG, Toosi MB, Houlden H, <strong>Jin SC</strong>, Si Y, Rodan LH, Venselaar H, Kruer M, Kok F, Hoffmann GF, Strom TM, Wortmann SB, Tabet A-C, Opladen T. <a href="https://www.nature.com/articles/s41436-020-0768-7">Loss of TNR causes a non-progressive neurodevelopmental disorder with spasticity and transient opisthotonus</a>. <strong><em>Genetics in Medicine</em></strong>.</p>
+<p>34 Wagner M, Lévy J, Jung-Klawitter S, Bakhtiari S, Monteiro F,
+Maroofian R, Bierhals T, Hempel M, Elmaleh M, Kitajima JP, Kim CA,
+Salomao JG, Amor DJ, Cooper MS, Perrin L, Pipiras E, Neu A, Doosti M,
+Karimiani EG, Toosi MB, Houlden H, <strong>Jin SC</strong>, Si Y, Rodan
+LH, Venselaar H, Kruer M, Kok F, Hoffmann GF, Strom TM, Wortmann SB,
+Tabet A-C, Opladen T. <a
+href="https://www.nature.com/articles/s41436-020-0768-7">Loss of TNR
+causes a non-progressive neurodevelopmental disorder with spasticity and
+transient opisthotonus</a>. <strong><em>Genetics in
+Medicine</em></strong>.</p>
 </div>
 <div id="section-3" class="section level3">
 <h3>2019</h3>
-<p>33 Allocco AA#, <strong>Jin SC#</strong>, Duy PQ#, Furey CG, Zeng X, Dong W, Nelson-Williams C, Karimy JK, DeSpenza T, Hao LT, Reeves B, Haider S, Gunel M, Lifton RP, Kahle KT. <a href="https://www.frontiersin.org/articles/10.3389/fncel.2019.00425/full">Recessive inheritance of congenital hydrocephalus with other structural brain abnormalities caused by compound heterozygous mutations in ATP1A3. Frontiers Cellular Neuroscience</a>. <strong><em>Frontiers in Cellular Neuroscience</em></strong>. #Co-first authors</p>
-<p>32 <strong>Jin SC#</strong>, Furey CG#, Zeng X, Allocco A, Nelson-Williams C, Dong W, Karimy JK, Wang K, Ma S, Delpire E, Kahle KT. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.892">SLC12A ion transporter mutations in sporadic and familial human congenital hydrocephalus</a>. <strong><em>Molecular Genetics &amp; Genomic Medicine</em></strong>. #Co-first authors</p>
-<p>31 Timberlake AT, <strong>Jin SC</strong>, Nelson-Williams C, Wu R, Furey CG, Islam B, Haider S, Loring E, Galm A; Yale Center for Genome Analysis, Steinbacher DM, Larysz D, Staffenberg DA, Flores RL, Rodriguez ED, Boggon TJ, Persing JA, Lifton RP. <a href="https://www.pnas.org/content/116/30/15116.long">Mutations in TFAP2B and previously unimplicated genes of the BMP, Wnt, and Hedgehog pathways in syndromic craniosynostosis</a>. <strong><em>PNAS</em></strong>.</p>
-<p>30 Robson A, Makova SZ, Barish S, Zaidi S, Mehta S, Drozd J, <strong>Jin SC</strong>, Gelb BD, Seidman CE, Chung WK, Lifton RP, Khokha MK, Brueckner M. <a href="https://www.pnas.org/content/116/28/14049.long">Histone H2B monoubiquitination regulates heart development via epigenetic control of cilia motility</a>. <strong><em>PNAS</em></strong>.</p>
-<p>29 Chang SJ, <strong>Jin SC</strong>, Jiao X, Galán JE.<a href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007704">Unique features in the intracellular transport of typhoid toxin revealed by a genome-wide screen</a>. <strong><em>PLoS Pathogens</em></strong>.</p>
-<p>28 Helbig KL, Lauerer RJ, Bahr JC, Souza IA, Myers CT, Uysal B, Schwarz N, Gandini MA, Huang S, Keren B, Mignot C, Afenjar A, Billette de Villemeur T, Héron D, Nava C, Valence S, Buratti J, Fagerberg CR, Soerensen KP, Kibaek M, Kamsteeg EJ, Koolen DA, Gunning B, Schelhaas HJ, Kruer MC, Fox J, Bakhtiari S, Jarrar R, Padilla-Lopez S, Lindstrom K, <strong>Jin SC</strong>, Zeng X, Bilguvar K, Papavasileiou A, Xing Q, Zhu C, Boysen K, Vairo F, Lanpher BC, Klee EW, Tillema JM, Payne ET, Cousin MA, Kruisselbrink TM, Wick MJ, Baker J, Haan E, Smith N, Sadeghpour A, Davis EE, Katsanis N; Task Force for Neonatal Genomics, Corbett MA, MacLennan AH, Gecz J, Biskup S, Goldmann E, Rodan LH, Kichula E, Segal E, Jackson KE, Asamoah A, Dimmock D, McCarrier J, Botto LD, Filloux F, Tvrdik T, Cascino GD, Klingerman S, Neumann C, Wang R, Jacobsen JC, Nolan MA, Snell RG, Lehnert K, Sadleir LG, Anderlid BM, Kvarnung M, Guerrini R, Friez MJ, Lyons MJ, Leonhard J, Kringlen G, Casas K, El Achkar CM, Smith LA, Rotenberg A, Poduri A, Sanchis-Juan A, Carss KJ, Rankin J, Zeman A, Raymond FL, Blyth M, Kerr B, Ruiz K, Urquhart J, Hughes I, Banka S; Deciphering Developmental Disorders Study, Hedrich UBS, Scheffer IE, Helbig I, Zamponi GW, Lerche H, Mefford HC. <a href="https://www.sciencedirect.com/science/article/pii/S0002929719300606?via%3Dihub">De novo pathogenic variants in CACNA1E cause developmental and epileptic encephalopathy with contractures, macrocephaly, and dyskinesias</a>. <strong><em>American Journal of Human Genetics</em></strong>.</p>
-<p>27 Zeng X, Hunt A, <strong>Jin SC</strong>, Duran D, Gaillard J, Kahle KT. <a href="https://www.sciencedirect.com/science/article/pii/S1471491419300206?via%3Dihub">EphrinB2-EphB4-RASA1 signaling in human cerebrovascular development and disease</a>. <strong><em>Trends in Molecular Medicine</em></strong>.</p>
-<p>26 Duran D#, Zeng X#, <strong>Jin SC#</strong>, Choi J, Nelson-Williams C, Yatsula B, Gaillard J, Furey CG, Lu Q, Timberlake AT, Dong W, Sorscher MA, Loring E, Klein J, Allocco A, Hunt A, Conine S, Karimy JK, Youngblood MW, Zhang J, DiLuna ML, Matouk CC, Mane S, Tikhonova IR, Castaldi C, López-Giráldez F, Knight J, Haider S, Soban M, Alper SL, Komiyama M, Ducruet AF, Zabramski JM, Dardik A, Walcott BP, Stapleton CJ, Aagaard-Kienitz B, Rodesch G, Jackson E, Smith ER, Orbach DB, Berenstein A, Bilguvar K, Vikkula M, Gunel M, Lifton RP, Kahle KT. <a href="https://www.sciencedirect.com/science/article/pii/S089662731831050X?via%3Dihub">Mutations in chromatin modifier and Ephrin signaling genes in Vein of Galen malformation</a>. <strong><em>Neuron</em></strong>. #Co-first authors .<br />
-<strong>Press coverage:</strong> <a href="https://yaledailynews.com/blog/2019/01/15/study-identifies-mutation-for-rare-infant-brain-disease/">Yale News</a></p>
+<p>33 Allocco AA#, <strong>Jin SC#</strong>, Duy PQ#, Furey CG, Zeng X,
+Dong W, Nelson-Williams C, Karimy JK, DeSpenza T, Hao LT, Reeves B,
+Haider S, Gunel M, Lifton RP, Kahle KT. <a
+href="https://www.frontiersin.org/articles/10.3389/fncel.2019.00425/full">Recessive
+inheritance of congenital hydrocephalus with other structural brain
+abnormalities caused by compound heterozygous mutations in ATP1A3.
+Frontiers Cellular Neuroscience</a>. <strong><em>Frontiers in Cellular
+Neuroscience</em></strong>. #Co-first authors</p>
+<p>32 <strong>Jin SC#</strong>, Furey CG#, Zeng X, Allocco A,
+Nelson-Williams C, Dong W, Karimy JK, Wang K, Ma S, Delpire E, Kahle KT.
+<a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.892">SLC12A
+ion transporter mutations in sporadic and familial human congenital
+hydrocephalus</a>. <strong><em>Molecular Genetics &amp; Genomic
+Medicine</em></strong>. #Co-first authors</p>
+<p>31 Timberlake AT, <strong>Jin SC</strong>, Nelson-Williams C, Wu R,
+Furey CG, Islam B, Haider S, Loring E, Galm A; Yale Center for Genome
+Analysis, Steinbacher DM, Larysz D, Staffenberg DA, Flores RL, Rodriguez
+ED, Boggon TJ, Persing JA, Lifton RP. <a
+href="https://www.pnas.org/content/116/30/15116.long">Mutations in
+TFAP2B and previously unimplicated genes of the BMP, Wnt, and Hedgehog
+pathways in syndromic craniosynostosis</a>.
+<strong><em>PNAS</em></strong>.</p>
+<p>30 Robson A, Makova SZ, Barish S, Zaidi S, Mehta S, Drozd J,
+<strong>Jin SC</strong>, Gelb BD, Seidman CE, Chung WK, Lifton RP,
+Khokha MK, Brueckner M. <a
+href="https://www.pnas.org/content/116/28/14049.long">Histone H2B
+monoubiquitination regulates heart development via epigenetic control of
+cilia motility</a>. <strong><em>PNAS</em></strong>.</p>
+<p>29 Chang SJ, <strong>Jin SC</strong>, Jiao X, Galán JE.<a
+href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007704">Unique
+features in the intracellular transport of typhoid toxin revealed by a
+genome-wide screen</a>. <strong><em>PLoS Pathogens</em></strong>.</p>
+<p>28 Helbig KL, Lauerer RJ, Bahr JC, Souza IA, Myers CT, Uysal B,
+Schwarz N, Gandini MA, Huang S, Keren B, Mignot C, Afenjar A, Billette
+de Villemeur T, Héron D, Nava C, Valence S, Buratti J, Fagerberg CR,
+Soerensen KP, Kibaek M, Kamsteeg EJ, Koolen DA, Gunning B, Schelhaas HJ,
+Kruer MC, Fox J, Bakhtiari S, Jarrar R, Padilla-Lopez S, Lindstrom K,
+<strong>Jin SC</strong>, Zeng X, Bilguvar K, Papavasileiou A, Xing Q,
+Zhu C, Boysen K, Vairo F, Lanpher BC, Klee EW, Tillema JM, Payne ET,
+Cousin MA, Kruisselbrink TM, Wick MJ, Baker J, Haan E, Smith N,
+Sadeghpour A, Davis EE, Katsanis N; Task Force for Neonatal Genomics,
+Corbett MA, MacLennan AH, Gecz J, Biskup S, Goldmann E, Rodan LH,
+Kichula E, Segal E, Jackson KE, Asamoah A, Dimmock D, McCarrier J, Botto
+LD, Filloux F, Tvrdik T, Cascino GD, Klingerman S, Neumann C, Wang R,
+Jacobsen JC, Nolan MA, Snell RG, Lehnert K, Sadleir LG, Anderlid BM,
+Kvarnung M, Guerrini R, Friez MJ, Lyons MJ, Leonhard J, Kringlen G,
+Casas K, El Achkar CM, Smith LA, Rotenberg A, Poduri A, Sanchis-Juan A,
+Carss KJ, Rankin J, Zeman A, Raymond FL, Blyth M, Kerr B, Ruiz K,
+Urquhart J, Hughes I, Banka S; Deciphering Developmental Disorders
+Study, Hedrich UBS, Scheffer IE, Helbig I, Zamponi GW, Lerche H, Mefford
+HC. <a
+href="https://www.sciencedirect.com/science/article/pii/S0002929719300606?via%3Dihub">De
+novo pathogenic variants in CACNA1E cause developmental and epileptic
+encephalopathy with contractures, macrocephaly, and dyskinesias</a>.
+<strong><em>American Journal of Human Genetics</em></strong>.</p>
+<p>27 Zeng X, Hunt A, <strong>Jin SC</strong>, Duran D, Gaillard J,
+Kahle KT. <a
+href="https://www.sciencedirect.com/science/article/pii/S1471491419300206?via%3Dihub">EphrinB2-EphB4-RASA1
+signaling in human cerebrovascular development and disease</a>.
+<strong><em>Trends in Molecular Medicine</em></strong>.</p>
+<p>26 Duran D#, Zeng X#, <strong>Jin SC#</strong>, Choi J,
+Nelson-Williams C, Yatsula B, Gaillard J, Furey CG, Lu Q, Timberlake AT,
+Dong W, Sorscher MA, Loring E, Klein J, Allocco A, Hunt A, Conine S,
+Karimy JK, Youngblood MW, Zhang J, DiLuna ML, Matouk CC, Mane S,
+Tikhonova IR, Castaldi C, López-Giráldez F, Knight J, Haider S, Soban M,
+Alper SL, Komiyama M, Ducruet AF, Zabramski JM, Dardik A, Walcott BP,
+Stapleton CJ, Aagaard-Kienitz B, Rodesch G, Jackson E, Smith ER, Orbach
+DB, Berenstein A, Bilguvar K, Vikkula M, Gunel M, Lifton RP, Kahle KT.
+<a
+href="https://www.sciencedirect.com/science/article/pii/S089662731831050X?via%3Dihub">Mutations
+in chromatin modifier and Ephrin signaling genes in Vein of Galen
+malformation</a>. <strong><em>Neuron</em></strong>. #Co-first authors
+.<br />
+<strong>Press coverage:</strong> <a
+href="https://yaledailynews.com/blog/2019/01/15/study-identifies-mutation-for-rare-infant-brain-disease/">Yale
+News</a></p>
 </div>
 <div id="section-4" class="section level3">
 <h3>2018</h3>
-<p>25 Furey CG, Zeng X, Dong W, <strong>Jin SC</strong>, Choi J, Timberlake AT, Dunbar AM, Allocco AA, Günel M, Lifton RP, Kahle KT. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1878875018320618?via%3Dihub">Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus</a>. <strong><em>World Neurosurgery</em></strong>.</p>
-<p>24 Furey CG#, Choi J#, <strong>Jin SC</strong>, Zeng X, Timberlake AT, Nelson-Williams C, Mansuri MS, Lu Q, Duran D, Panchagnula S, Allocco A, Karimy JK, Khanna A, Gaillard JR, DeSpenza T, Antwi P, Loring E, Butler WE, Smith ER, Warf BC, Strahle JM, Limbrick DD, Storm PB, Heuer G, Jackson EM, Iskandar BJ, Johnston JM, Tikhonova I, Castaldi C, López-Giráldez F, Bjornson RD, Knight JR, Bilguvar K, Mane S, Alper SL, Haider S, Guclu B, Bayri Y, Sahin Y, Apuzzo MLJ, Duncan CC, DiLuna ML, Günel M, Lifton RP, Kahle KT. <a href="https://www.sciencedirect.com/science/article/pii/S0896627318304872?via%3Dihub">De novo mutation in genes regulating neural stem cell fate in human congenital hydrocephalus</a>. <strong><em>Neuron</em></strong>. #Co-first authors</p>
-<p>23 Fomchenko EI, Duran D, <strong>Jin SC</strong>, Dong W, Erson-Omay EZ, Antwi P, Allocco A, Gaillard JR, Huttner A, Gunel M, DiLuna ML, Kahle KT. <a href="http://molecularcasestudies.cshlp.org/content/4/4/a002998.long">De novo MYH9 mutation in congenital scalp hemangioma</a>. <strong><em>Cold Spring Harbor Molecular Case Studies</em></strong>.</p>
-<p>22 Antwi P, Hong CS, Duran D, <strong>Jin SC</strong>, Dong W, DiLuna M, Kahle KT. <a href="http://molecularcasestudies.cshlp.org/content/4/3/a002766.long">A novel association of campomelic dysplasia and hydrocephalus with an unbalanced chromosomal translocation upstream of SOX9</a>. <strong><em>Cold Spring Harbor Molecular Case Studies</em></strong>.</p>
-<p>21 Scholl UI, Stölting G, Schewe J, Thiel A, Tan H, Nelson-Williams C, Vichot AA, <strong>Jin SC</strong>, Loring E, Untiet V, Yoo T, Choi J, Xu S, Wu A, Kirchner M, Mertins P, Rump LC, Onder AM, Gamble C, McKenney D, Lash RW, Jones DP, Chune G, Gagliardi P, Choi M, Gordon R, Stowasser M, Fahlke C, Lifton RP. <a href="https://www.nature.com/articles/s41588-018-0048-5">CLCN2 chloride channel mutations in familial hyperaldosteronism type II</a>. <strong><em>Nature Genetics</em></strong>.</p>
+<p>25 Furey CG, Zeng X, Dong W, <strong>Jin SC</strong>, Choi J,
+Timberlake AT, Dunbar AM, Allocco AA, Günel M, Lifton RP, Kahle KT. <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S1878875018320618?via%3Dihub">Human
+Genetics and Molecular Mechanisms of Congenital Hydrocephalus</a>.
+<strong><em>World Neurosurgery</em></strong>.</p>
+<p>24 Furey CG#, Choi J#, <strong>Jin SC</strong>, Zeng X, Timberlake
+AT, Nelson-Williams C, Mansuri MS, Lu Q, Duran D, Panchagnula S, Allocco
+A, Karimy JK, Khanna A, Gaillard JR, DeSpenza T, Antwi P, Loring E,
+Butler WE, Smith ER, Warf BC, Strahle JM, Limbrick DD, Storm PB, Heuer
+G, Jackson EM, Iskandar BJ, Johnston JM, Tikhonova I, Castaldi C,
+López-Giráldez F, Bjornson RD, Knight JR, Bilguvar K, Mane S, Alper SL,
+Haider S, Guclu B, Bayri Y, Sahin Y, Apuzzo MLJ, Duncan CC, DiLuna ML,
+Günel M, Lifton RP, Kahle KT. <a
+href="https://www.sciencedirect.com/science/article/pii/S0896627318304872?via%3Dihub">De
+novo mutation in genes regulating neural stem cell fate in human
+congenital hydrocephalus</a>. <strong><em>Neuron</em></strong>.
+#Co-first authors</p>
+<p>23 Fomchenko EI, Duran D, <strong>Jin SC</strong>, Dong W, Erson-Omay
+EZ, Antwi P, Allocco A, Gaillard JR, Huttner A, Gunel M, DiLuna ML,
+Kahle KT. <a
+href="http://molecularcasestudies.cshlp.org/content/4/4/a002998.long">De
+novo MYH9 mutation in congenital scalp hemangioma</a>. <strong><em>Cold
+Spring Harbor Molecular Case Studies</em></strong>.</p>
+<p>22 Antwi P, Hong CS, Duran D, <strong>Jin SC</strong>, Dong W, DiLuna
+M, Kahle KT. <a
+href="http://molecularcasestudies.cshlp.org/content/4/3/a002766.long">A
+novel association of campomelic dysplasia and hydrocephalus with an
+unbalanced chromosomal translocation upstream of SOX9</a>.
+<strong><em>Cold Spring Harbor Molecular Case Studies</em></strong>.</p>
+<p>21 Scholl UI, Stölting G, Schewe J, Thiel A, Tan H, Nelson-Williams
+C, Vichot AA, <strong>Jin SC</strong>, Loring E, Untiet V, Yoo T, Choi
+J, Xu S, Wu A, Kirchner M, Mertins P, Rump LC, Onder AM, Gamble C,
+McKenney D, Lash RW, Jones DP, Chune G, Gagliardi P, Choi M, Gordon R,
+Stowasser M, Fahlke C, Lifton RP. <a
+href="https://www.nature.com/articles/s41588-018-0048-5">CLCN2 chloride
+channel mutations in familial hyperaldosteronism type II</a>.
+<strong><em>Nature Genetics</em></strong>.</p>
 </div>
 <div id="section-5" class="section level3">
 <h3>2017</h3>
-<p>20 <strong>Jin SC#</strong>, Homsy J#, Zaidi S#, Lu Q, Morton S, DePalma SR, Zeng X, Qi H, Chang W, Sierant MC, Hung WC, Haider S, Zhang J, Knight J, Bjornson RD, Castaldi C, Tikhonoa IR, Bilguvar K, Mane SM, Sanders SJ, Mital S, Russell MW, Gaynor JW, Deanfield J, Giardini A, Porter GA Jr, Srivastava D, Lo CW, Shen Y, Watkins WS, Yandell M, Yost HJ, Tristani-Firouzi M, Newburger JW, Roberts AE, Kim R, Zhao H, Kaltman JR, Goldmuntz E, Chung WK, Seidman JG, Gelb BD, Seidman CE, Lifton RP, Brueckner M. <a href="https://www.nature.com/articles/ng.3970">Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands</a>. <strong><em>Nature Genetics</em></strong>. #Co-first authors. <strong>[&gt;400 cites]</strong></p>
-<p>19 Huang KL, Marcora E, Pimenova AA, Di Narzo AF, Kapoor M, <strong>Jin SC</strong>, Harari O, Bertelsen S, Fairfax BP, Czajkowski J, Chouraki V, Grenier-Boley B, Bellenguez C, Deming Y, McKenzie A, Raj T, Renton AE, Budde J, Smith A, Fitzpatrick A, Bis JC, DeStefano A, Adams HHH, Ikram MA, van der Lee S, Del-Aguila JL, Fernandez MV, Ibañez L; International Genomics of Alzheimer’s Project; Alzheimer’s Disease Neuroimaging Initiative, Sims R, Escott-Price V, Mayeux R, Haines JL, Farrer LA, Pericak-Vance MA, Lambert JC, van Duijn C, Launer L, Seshadri S, Williams J, Amouyel P, Schellenberg GD, Zhang B, Borecki I, Kauwe JSK, Cruchaga C, Hao K, Goate AM. <a href="https://www.nature.com/articles/nn.4587">A common haplotype lowers PU.1 expression in myeloid cells and delays onset of Alzheimer’s disease</a>. <strong><em>Nature Neuroscience</em></strong>.</p>
+<p>20 <strong>Jin SC#</strong>, Homsy J#, Zaidi S#, Lu Q, Morton S,
+DePalma SR, Zeng X, Qi H, Chang W, Sierant MC, Hung WC, Haider S, Zhang
+J, Knight J, Bjornson RD, Castaldi C, Tikhonoa IR, Bilguvar K, Mane SM,
+Sanders SJ, Mital S, Russell MW, Gaynor JW, Deanfield J, Giardini A,
+Porter GA Jr, Srivastava D, Lo CW, Shen Y, Watkins WS, Yandell M, Yost
+HJ, Tristani-Firouzi M, Newburger JW, Roberts AE, Kim R, Zhao H, Kaltman
+JR, Goldmuntz E, Chung WK, Seidman JG, Gelb BD, Seidman CE, Lifton RP,
+Brueckner M. <a
+href="https://www.nature.com/articles/ng.3970">Contribution of rare
+inherited and de novo variants in 2,871 congenital heart disease
+probands</a>. <strong><em>Nature Genetics</em></strong>. #Co-first
+authors. <strong>[&gt;400 cites]</strong></p>
+<p>19 Huang KL, Marcora E, Pimenova AA, Di Narzo AF, Kapoor M,
+<strong>Jin SC</strong>, Harari O, Bertelsen S, Fairfax BP, Czajkowski
+J, Chouraki V, Grenier-Boley B, Bellenguez C, Deming Y, McKenzie A, Raj
+T, Renton AE, Budde J, Smith A, Fitzpatrick A, Bis JC, DeStefano A,
+Adams HHH, Ikram MA, van der Lee S, Del-Aguila JL, Fernandez MV, Ibañez
+L; International Genomics of Alzheimer’s Project; Alzheimer’s Disease
+Neuroimaging Initiative, Sims R, Escott-Price V, Mayeux R, Haines JL,
+Farrer LA, Pericak-Vance MA, Lambert JC, van Duijn C, Launer L, Seshadri
+S, Williams J, Amouyel P, Schellenberg GD, Zhang B, Borecki I, Kauwe
+JSK, Cruchaga C, Hao K, Goate AM. <a
+href="https://www.nature.com/articles/nn.4587">A common haplotype lowers
+PU.1 expression in myeloid cells and delays onset of Alzheimer’s
+disease</a>. <strong><em>Nature Neuroscience</em></strong>.</p>
 </div>
 <div id="section-6" class="section level3">
 <h3>2016</h3>
-<p>18 Duran D#, <strong>Jin SC#</strong>, DeSpenza T Jr#, Nelson-Williams C, Cogal AG, Abrash EW, Harris PC, Lieske JC, Shimshak SJ, Mane S, Bilguvar K, DiLuna ML, Günel M, Lifton RP, Kahle KT. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143364/">Digenic mutations of human OCRL paralogs in Dent’s disease type 2 associated with Chiari I malformation</a>. <strong><em>Human Genome Variation</em></strong>. #Co-first authors</p>
-<p>17 Song W, Hooli B, Mullin K, <strong>Jin SC</strong>, Cella M, Ulland TK, Wang Y, Tanzi RE, Colonna M. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1552526016302035?via%3Dihub">Alzheimer’s disease-associated TREM2 variants exhibit either decreased or increased ligand-dependent activation</a>. <strong><em>Alzheimer’s &amp; Dementia</em></strong>.</p>
-<p>16 Benitez BA, Davis AA, <strong>Jin SC</strong>, Ibanez L, Ortega-Cubero S, Pastor P, Choi J, Cooper B, Perlmutter JS, Cruchaga C. <a href="https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-016-0097-0">Resequencing analysis of five Mendelian genes and the top genes from genome-wide association studies in Parkinson’s Disease</a>. <strong><em>Molecular Neurodegeneration</em></strong>.</p>
+<p>18 Duran D#, <strong>Jin SC#</strong>, DeSpenza T Jr#,
+Nelson-Williams C, Cogal AG, Abrash EW, Harris PC, Lieske JC, Shimshak
+SJ, Mane S, Bilguvar K, DiLuna ML, Günel M, Lifton RP, Kahle KT. <a
+href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143364/">Digenic
+mutations of human OCRL paralogs in Dent’s disease type 2 associated
+with Chiari I malformation</a>. <strong><em>Human Genome
+Variation</em></strong>. #Co-first authors</p>
+<p>17 Song W, Hooli B, Mullin K, <strong>Jin SC</strong>, Cella M,
+Ulland TK, Wang Y, Tanzi RE, Colonna M. <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S1552526016302035?via%3Dihub">Alzheimer’s
+disease-associated TREM2 variants exhibit either decreased or increased
+ligand-dependent activation</a>. <strong><em>Alzheimer’s &amp;
+Dementia</em></strong>.</p>
+<p>16 Benitez BA, Davis AA, <strong>Jin SC</strong>, Ibanez L,
+Ortega-Cubero S, Pastor P, Choi J, Cooper B, Perlmutter JS, Cruchaga C.
+<a
+href="https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-016-0097-0">Resequencing
+analysis of five Mendelian genes and the top genes from genome-wide
+association studies in Parkinson’s Disease</a>. <strong><em>Molecular
+Neurodegeneration</em></strong>.</p>
 </div>
 <div id="section-7" class="section level3">
 <h3>2015</h3>
-<p>15 Homsy J, Zaidi S, Shen Y, Ware JS, Samocha KE, Karczewski KJ, DePalma SR, McKean D, Wakimoto H, Gorham J, <strong>Jin SC</strong>, Deanfield J, Giardini A, Porter GA Jr, Kim R, Bilguvar K, López-Giráldez F, Tikhonova I, Mane S, Romano-Adesman A, Qi H, Vardarajan B, Ma L, Daly M, Roberts AE, Russell MW, Mital S, Newburger JW, Gaynor JW, Breitbart RE, Iossifov I, Ronemus M, Sanders SJ, Kaltman JR, Seidman JG, Brueckner M, Gelb BD, Goldmuntz E, Lifton RP, Seidman CE, Chung WK. <a href="https://science.sciencemag.org/content/350/6265/1262.long">De novo mutations in congenital heart disease with neurodevelopmental and other congenital anomalies</a>. <strong><em>Science</em></strong> .</p>
-<p>14 <strong>Jin SC</strong>, Benitez BA, Deming Y, Cruchaga C. <a href="https://link.springer.com/protocol/10.1007%2F978-1-4939-2627-5_18">Pooled-DNA sequencing for elucidating new genomic risk factors, rare variants underlying Alzheimer’s disease</a>. <strong><em>Methods in Molecular Biology</em></strong>.</p>
-<p>13 <strong>Jin SC</strong>, Carrasquillo MM, Benitez BA, Skorupa T, Carrell D, Patel D, Lincoln S, Krishnan S, Kachadoorian M, Reitz C, Mayeux R, Wingo TS, Lah JJ, Levey AI, Murrell J, Hendrie H, Foroud T, Graff-Radford NR, Goate AM, Cruchaga C, Ertekin-Taner N. <a href="https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-015-0016-9">TREM2 is associated with increased risk for Alzheimer’s disease in African Americans</a>. <strong><em>Molecular Neurodegeneration</em></strong>. <strong>[&gt;110 cites]</strong></p>
+<p>15 Homsy J, Zaidi S, Shen Y, Ware JS, Samocha KE, Karczewski KJ,
+DePalma SR, McKean D, Wakimoto H, Gorham J, <strong>Jin SC</strong>,
+Deanfield J, Giardini A, Porter GA Jr, Kim R, Bilguvar K, López-Giráldez
+F, Tikhonova I, Mane S, Romano-Adesman A, Qi H, Vardarajan B, Ma L, Daly
+M, Roberts AE, Russell MW, Mital S, Newburger JW, Gaynor JW, Breitbart
+RE, Iossifov I, Ronemus M, Sanders SJ, Kaltman JR, Seidman JG, Brueckner
+M, Gelb BD, Goldmuntz E, Lifton RP, Seidman CE, Chung WK. <a
+href="https://science.sciencemag.org/content/350/6265/1262.long">De novo
+mutations in congenital heart disease with neurodevelopmental and other
+congenital anomalies</a>. <strong><em>Science</em></strong> .</p>
+<p>14 <strong>Jin SC</strong>, Benitez BA, Deming Y, Cruchaga C. <a
+href="https://link.springer.com/protocol/10.1007%2F978-1-4939-2627-5_18">Pooled-DNA
+sequencing for elucidating new genomic risk factors, rare variants
+underlying Alzheimer’s disease</a>. <strong><em>Methods in Molecular
+Biology</em></strong>.</p>
+<p>13 <strong>Jin SC</strong>, Carrasquillo MM, Benitez BA, Skorupa T,
+Carrell D, Patel D, Lincoln S, Krishnan S, Kachadoorian M, Reitz C,
+Mayeux R, Wingo TS, Lah JJ, Levey AI, Murrell J, Hendrie H, Foroud T,
+Graff-Radford NR, Goate AM, Cruchaga C, Ertekin-Taner N. <a
+href="https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-015-0016-9">TREM2
+is associated with increased risk for Alzheimer’s disease in African
+Americans</a>. <strong><em>Molecular Neurodegeneration</em></strong>.
+<strong>[&gt;110 cites]</strong></p>
 </div>
 <div id="section-8" class="section level3">
 <h3>2014</h3>
-<p>12 <strong>Jin SC</strong>, Benitez BA, Karch CM, Cooper B, Skorupa T, Carrell D, Norton JB, Hsu S, Harari O, Cai Y, Bertelsen S, Goate AM, Cruchaga C. <a href="https://academic.oup.com/hmg/article/23/21/5838/2900998">Coding variants in TREM2 increase risk for Alzheimer’s disease</a>. <strong><em>Human Molecular Genetics</em></strong>. <strong>[&gt;220 cites]</strong></p>
-<p>11 Benitez BA#, <strong>Jin SC#</strong>, Guerreiro R, Graham R, Lord J, Harold D, Sims R, Lambert JC, Gibbs JR, Bras J, Sassi C, Harari O, Bertelsen S, Lupton MK, Powell J, Bellenguez C, Brown K, Medway C, Haddick PC, van der Brug MP, Bhangale T, Ortmann W, Behrens T, Mayeux R, Pericak-Vance MA, Farrer LA, Schellenberg GD, Haines JL, Turton J, Braae A, Barber I, Fagan AM, Holtzman DM, Morris JC; 3C Study Group; EADI consortium; Alzheimer’s Disease Genetic Consortium (ADGC); Alzheimer’s Disease Neuroimaging Initiative (ADNI); GERAD Consortium, Williams J, Kauwe JS, Amouyel P, Morgan K, Singleton A, Hardy J, Goate AM, Cruchaga C. <a href="https://www.sciencedirect.com/science/article/pii/S0197458013006490?via%3Dihub">Missense variant in TREML2 protects against Alzheimer’s disease</a>. <strong><em>Neurobiology of Aging</em></strong>. #Co-first authors.</p>
-<p>10 Cruchaga C, Karch CM#, <strong>Jin SC#</strong>, Benitez BA, Cai Y, Guerreiro R, Harari O, Norton J, Budde J, Bertelsen S, Jeng AT, Cooper B, Skorupa T, Carrell D, Levitch D, Hsu S, Choi J, Ryten M, Sassi C, Bras J, Gibbs RJ, Hernandez DG, Lupton MK, Powell J, Forabosco P, Ridge PG, Corcoran CD, Tschanz JT, Norton MC, Munger RG, Schmutz C, Leary M, Demirci FY, Bamne MN, Wang X, Lopez OL, Ganguli M, Medway C, Turton J, Lord J, Braae A, Barber I, Brown K; Alzheimer’s Research UK (ARUK) Consortium, Pastor P, Lorenzo-Betancor O, Brkanac Z, Scott E, Topol E, Morgan K, Rogaeva E, Singleton A, Hardy J, Kamboh MI, George-Hyslop PS, Cairns N, Morris JC, Kauwe JSK, Goate AM. <a href="https://www.nature.com/articles/nature12825">Rare coding variants in the phospholipase D3 gene confer risk for Alzheimer’s disease</a>. <strong><em>Nature</em></strong>. #Co-second authors.</p>
+<p>12 <strong>Jin SC</strong>, Benitez BA, Karch CM, Cooper B, Skorupa
+T, Carrell D, Norton JB, Hsu S, Harari O, Cai Y, Bertelsen S, Goate AM,
+Cruchaga C. <a
+href="https://academic.oup.com/hmg/article/23/21/5838/2900998">Coding
+variants in TREM2 increase risk for Alzheimer’s disease</a>.
+<strong><em>Human Molecular Genetics</em></strong>. <strong>[&gt;220
+cites]</strong></p>
+<p>11 Benitez BA#, <strong>Jin SC#</strong>, Guerreiro R, Graham R, Lord
+J, Harold D, Sims R, Lambert JC, Gibbs JR, Bras J, Sassi C, Harari O,
+Bertelsen S, Lupton MK, Powell J, Bellenguez C, Brown K, Medway C,
+Haddick PC, van der Brug MP, Bhangale T, Ortmann W, Behrens T, Mayeux R,
+Pericak-Vance MA, Farrer LA, Schellenberg GD, Haines JL, Turton J, Braae
+A, Barber I, Fagan AM, Holtzman DM, Morris JC; 3C Study Group; EADI
+consortium; Alzheimer’s Disease Genetic Consortium (ADGC); Alzheimer’s
+Disease Neuroimaging Initiative (ADNI); GERAD Consortium, Williams J,
+Kauwe JS, Amouyel P, Morgan K, Singleton A, Hardy J, Goate AM, Cruchaga
+C. <a
+href="https://www.sciencedirect.com/science/article/pii/S0197458013006490?via%3Dihub">Missense
+variant in TREML2 protects against Alzheimer’s disease</a>.
+<strong><em>Neurobiology of Aging</em></strong>. #Co-first authors.</p>
+<p>10 Cruchaga C, Karch CM#, <strong>Jin SC#</strong>, Benitez BA, Cai
+Y, Guerreiro R, Harari O, Norton J, Budde J, Bertelsen S, Jeng AT,
+Cooper B, Skorupa T, Carrell D, Levitch D, Hsu S, Choi J, Ryten M, Sassi
+C, Bras J, Gibbs RJ, Hernandez DG, Lupton MK, Powell J, Forabosco P,
+Ridge PG, Corcoran CD, Tschanz JT, Norton MC, Munger RG, Schmutz C,
+Leary M, Demirci FY, Bamne MN, Wang X, Lopez OL, Ganguli M, Medway C,
+Turton J, Lord J, Braae A, Barber I, Brown K; Alzheimer’s Research UK
+(ARUK) Consortium, Pastor P, Lorenzo-Betancor O, Brkanac Z, Scott E,
+Topol E, Morgan K, Rogaeva E, Singleton A, Hardy J, Kamboh MI,
+George-Hyslop PS, Cairns N, Morris JC, Kauwe JSK, Goate AM. <a
+href="https://www.nature.com/articles/nature12825">Rare coding variants
+in the phospholipase D3 gene confer risk for Alzheimer’s disease</a>.
+<strong><em>Nature</em></strong>. #Co-second authors.</p>
 </div>
 <div id="section-9" class="section level3">
 <h3>2013</h3>
-<p>9 Benitez BA, Karch CM, Cai Y, <strong>Jin SC</strong>, Cooper B, Carrell D, Bertelsen S, Chibnik L, Schneider JA, Bennett DA; Alzheimer’s Disease Neuroimaging Initiative; Genetic and Environmental Risk for Alzheimer’s Disease Consortium GERAD, Fagan AM, Holtzman D, Morris JC, Goate AM, Cruchaga C. <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003685">The PSEN1, p.E318G variant increases the risk of Alzheimer’s disease in APOE-ε4 carriers</a>. <strong><em>PLoS Genetics</em></strong>.</p>
-<p>8 Cruchaga C, Kauwe JS, Harari O, <strong>Jin SC</strong>, Cai Y, Karch CM, Benitez BA, Jeng AT, Skorupa T, Carrell D, Bertelsen S, Bailey M, McKean D, Shulman JM, De Jager PL, Chibnik L, Bennett DA, Arnold SE, Harold D, Sims R, Gerrish A, Williams J, Van Deerlin VM, Lee VM, Shaw LM, Trojanowski JQ, Haines JL, Mayeux R, Pericak-Vance MA, Farrer LA, Schellenberg GD, Peskind ER, Galasko D, Fagan AM, Holtzman DM, Morris JC; GERAD Consortium; Alzheimer’s Disease Neuroimaging Initiative (ADNI); Alzheimer Disease Genetic Consortium (ADGC), Goate AM. <a href="https://www.sciencedirect.com/science/article/pii/S0896627313001840?via%3Dihub">GWAS of cerebrospinal fluid tau levels identifies risk variants for Alzheimer’s disease</a>. <strong><em>Neuron</em></strong>.</p>
-<p>7 Benitez BA, Cooper B, Pastor P, <strong>Jin SC</strong>, Lorenzo E, Cervantes S, Cruchaga C. <a href="https://www.sciencedirect.com/science/article/pii/S0197458012006495?via%3Dihub">TREM2 is associated with the risk of Alzheimer’s disease in Spanish population</a>. <strong><em>Neurobiology of Aging</em></strong>.</p>
-<p>6 Patel PJ, Beaty TH, Ruczinski I, Murray JC, Marazita ML, Munger RG, Hetmanski JB, Wu T, Murray T, Rose M, Redett RJ, <strong>Jin SC</strong>, Lie RT, Su-Chou YH, Wang H, Ye X, Yeow V, Chong S, Jee SH, Shi B, Scott AF. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/eos.12025">X-linked markers in the Duchenne muscular dystrophy gene associated with oral clefts</a>. <strong><em>European Journal of Oral Sciences</em></strong>.</p>
+<p>9 Benitez BA, Karch CM, Cai Y, <strong>Jin SC</strong>, Cooper B,
+Carrell D, Bertelsen S, Chibnik L, Schneider JA, Bennett DA; Alzheimer’s
+Disease Neuroimaging Initiative; Genetic and Environmental Risk for
+Alzheimer’s Disease Consortium GERAD, Fagan AM, Holtzman D, Morris JC,
+Goate AM, Cruchaga C. <a
+href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003685">The
+PSEN1, p.E318G variant increases the risk of Alzheimer’s disease in
+APOE-ε4 carriers</a>. <strong><em>PLoS Genetics</em></strong>.</p>
+<p>8 Cruchaga C, Kauwe JS, Harari O, <strong>Jin SC</strong>, Cai Y,
+Karch CM, Benitez BA, Jeng AT, Skorupa T, Carrell D, Bertelsen S, Bailey
+M, McKean D, Shulman JM, De Jager PL, Chibnik L, Bennett DA, Arnold SE,
+Harold D, Sims R, Gerrish A, Williams J, Van Deerlin VM, Lee VM, Shaw
+LM, Trojanowski JQ, Haines JL, Mayeux R, Pericak-Vance MA, Farrer LA,
+Schellenberg GD, Peskind ER, Galasko D, Fagan AM, Holtzman DM, Morris
+JC; GERAD Consortium; Alzheimer’s Disease Neuroimaging Initiative
+(ADNI); Alzheimer Disease Genetic Consortium (ADGC), Goate AM. <a
+href="https://www.sciencedirect.com/science/article/pii/S0896627313001840?via%3Dihub">GWAS
+of cerebrospinal fluid tau levels identifies risk variants for
+Alzheimer’s disease</a>. <strong><em>Neuron</em></strong>.</p>
+<p>7 Benitez BA, Cooper B, Pastor P, <strong>Jin SC</strong>, Lorenzo E,
+Cervantes S, Cruchaga C. <a
+href="https://www.sciencedirect.com/science/article/pii/S0197458012006495?via%3Dihub">TREM2
+is associated with the risk of Alzheimer’s disease in Spanish
+population</a>. <strong><em>Neurobiology of Aging</em></strong>.</p>
+<p>6 Patel PJ, Beaty TH, Ruczinski I, Murray JC, Marazita ML, Munger RG,
+Hetmanski JB, Wu T, Murray T, Rose M, Redett RJ, <strong>Jin
+SC</strong>, Lie RT, Su-Chou YH, Wang H, Ye X, Yeow V, Chong S, Jee SH,
+Shi B, Scott AF. <a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/eos.12025">X-linked
+markers in the Duchenne muscular dystrophy gene associated with oral
+clefts</a>. <strong><em>European Journal of Oral
+Sciences</em></strong>.</p>
 </div>
 <div id="section-10" class="section level3">
 <h3>2012</h3>
-<p>5 <strong>Jin SC</strong>, Pastor P, Cooper B, Cervantes S, Benitez BA, Razquin C, Goate A; Ibero-American Alzheimer Disease Genetics Group Researchers, Cruchaga C. <a href="https://alzres.biomedcentral.com/articles/10.1186/alzrt137">Pooled-DNA sequencing identifies novel causative variants in PSEN1, GRN and MAPT in a clinical early-onset and familial Alzheimer’s disease Ibero-American cohort</a>. <strong><em>Alzheimer’s Research &amp; Therapy</em></strong>.</p>
-<p>4 Wang H, Zhang T, Wu T, Hetmanski JB, Ruczinski I, Schwender H, Liang KY, Murray T, Fallin MD, Redett RJ, Raymond GV, <strong>Jin SC</strong>, Chou YH, Chen PK, Yeow V, Chong SS, Cheah FS, Jee SH, Jabs EW, Scott AF, Beaty TH. <a href="https://journals.sagepub.com/doi/full/10.1597/11-132?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%3dpubmed">The FGF and FGFR Gene Family and Risk of Cleft Lip With or Without Cleft Palate</a>. <strong><em>The Cleft Palate-Craniofacial Journal</em></strong>.</p>
+<p>5 <strong>Jin SC</strong>, Pastor P, Cooper B, Cervantes S, Benitez
+BA, Razquin C, Goate A; Ibero-American Alzheimer Disease Genetics Group
+Researchers, Cruchaga C. <a
+href="https://alzres.biomedcentral.com/articles/10.1186/alzrt137">Pooled-DNA
+sequencing identifies novel causative variants in PSEN1, GRN and MAPT in
+a clinical early-onset and familial Alzheimer’s disease Ibero-American
+cohort</a>. <strong><em>Alzheimer’s Research &amp;
+Therapy</em></strong>.</p>
+<p>4 Wang H, Zhang T, Wu T, Hetmanski JB, Ruczinski I, Schwender H,
+Liang KY, Murray T, Fallin MD, Redett RJ, Raymond GV, <strong>Jin
+SC</strong>, Chou YH, Chen PK, Yeow V, Chong SS, Cheah FS, Jee SH, Jabs
+EW, Scott AF, Beaty TH. <a
+href="https://journals.sagepub.com/doi/full/10.1597/11-132?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%3dpubmed">The
+FGF and FGFR Gene Family and Risk of Cleft Lip With or Without Cleft
+Palate</a>. <strong><em>The Cleft Palate-Craniofacial
+Journal</em></strong>.</p>
 </div>
 <div id="section-11" class="section level3">
 <h3>2011</h3>
-<p>3 Beaty TH, Ruczinski I, Murray JC, Marazita ML, Munger RG, Hetmanski JB, Murray T, Redett RJ, Fallin MD, Liang KY, Wu T, Patel PJ, <strong>Jin SC</strong>, Zhang TX, Schwender H, Wu-Chou YH, Chen PK, Chong SS, Cheah F, Yeow V, Ye X, Wang H, Huang S, Jabs EW, Shi B, Wilcox AJ, Lie RT, Jee SH, Christensen K, Doheny KF, Pugh EW, Ling H, Scott AF. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.20595">Evidence for gene-environment interaction in a genome wide study of nonsyndromic cleft palate</a>. <strong><em>Genetic Epidemiology</em></strong>.</p>
+<p>3 Beaty TH, Ruczinski I, Murray JC, Marazita ML, Munger RG, Hetmanski
+JB, Murray T, Redett RJ, Fallin MD, Liang KY, Wu T, Patel PJ,
+<strong>Jin SC</strong>, Zhang TX, Schwender H, Wu-Chou YH, Chen PK,
+Chong SS, Cheah F, Yeow V, Ye X, Wang H, Huang S, Jabs EW, Shi B, Wilcox
+AJ, Lie RT, Jee SH, Christensen K, Doheny KF, Pugh EW, Ling H, Scott AF.
+<a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.20595">Evidence
+for gene-environment interaction in a genome wide study of nonsyndromic
+cleft palate</a>. <strong><em>Genetic Epidemiology</em></strong>.</p>
 </div>
 <div id="section-12" class="section level3">
 <h3>2010</h3>
-<p>2 Beaty TH, Murray JC, Marazita ML, Munger RG, Ruczinski I, Hetmanski JB, Liang KY, Wu T, Murray T, Fallin MD, Redett RA, Raymond G, Schwender H, <strong>Jin SC</strong>, Cooper ME, Dunnwald M, Mansilla MA, Leslie E, Bullard S, Lidral AC, Moreno LM, Menezes R, Vieira AR, Petrin A, Wilcox AJ, Lie RT, Jabs EW, Wu-Chou YH, Chen PK, Wang H, Ye X, Huang S, Yeow V, Chong SS, Jee SH, Shi B, Christensen K, Melbye M, Doheny KF, Pugh EW, Ling H, Castilla EE, Czeizel AE, Ma L, Field LL, Brody L, Pangilinan F, Mills JL, Molloy AM, Kirke PN, Scott JM, Arcos-Burgos M, Scott AF. <a href="https://www.nature.com/articles/ng.580">A genome-wide association study of cleft lip with and without cleft palate identifies risk variants near MAFB and ABCA4</a>. <strong><em>Nature Genetics</em></strong>.</p>
+<p>2 Beaty TH, Murray JC, Marazita ML, Munger RG, Ruczinski I, Hetmanski
+JB, Liang KY, Wu T, Murray T, Fallin MD, Redett RA, Raymond G, Schwender
+H, <strong>Jin SC</strong>, Cooper ME, Dunnwald M, Mansilla MA, Leslie
+E, Bullard S, Lidral AC, Moreno LM, Menezes R, Vieira AR, Petrin A,
+Wilcox AJ, Lie RT, Jabs EW, Wu-Chou YH, Chen PK, Wang H, Ye X, Huang S,
+Yeow V, Chong SS, Jee SH, Shi B, Christensen K, Melbye M, Doheny KF,
+Pugh EW, Ling H, Castilla EE, Czeizel AE, Ma L, Field LL, Brody L,
+Pangilinan F, Mills JL, Molloy AM, Kirke PN, Scott JM, Arcos-Burgos M,
+Scott AF. <a href="https://www.nature.com/articles/ng.580">A genome-wide
+association study of cleft lip with and without cleft palate identifies
+risk variants near MAFB and ABCA4</a>. <strong><em>Nature
+Genetics</em></strong>.</p>
 </div>
 <div id="section-13" class="section level3">
 <h3>2009</h3>
-<p>1 Caporaso N, Gu F, Chatterjee N, <strong>Jin SC</strong>, Yu K, Yeager M, Chen C, Jacobs K, Wheeler W, Landi MT, Ziegler RG, Hunter DJ, Chanock S, Hankinson S, Kraft P, Bergen AW. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004653">Genome-wide and candidate gene association study of cigarette smoking behaviors</a>. <strong><em>PLoS ONE</em></strong>.</p>
+<p>1 Caporaso N, Gu F, Chatterjee N, <strong>Jin SC</strong>, Yu K,
+Yeager M, Chen C, Jacobs K, Wheeler W, Landi MT, Ziegler RG, Hunter DJ,
+Chanock S, Hankinson S, Kraft P, Bergen AW. <a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004653">Genome-wide
+and candidate gene association study of cigarette smoking behaviors</a>.
+<strong><em>PLoS ONE</em></strong>.</p>
 </div>
 
 
@@ -463,7 +1087,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -481,7 +1105,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
