@@ -2,6 +2,9 @@
 title: "News"
 output: html_document
 ---
+
+[May 18, 2022] **Shujuan Zhao got admitted into the prestigious Lucille P. Markey Special Emphasis Pathway in Human Pathobiology!Congratulations Shujuan!**
+
 [May 12, 2022] **Lab outing to welcome WUSTL MSTP rotation students Yuxiao Xu and Wendy Dong at Brasserie by Niche!**
 
 <img src="images/LabOuting05122022.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
@@ -12,7 +15,7 @@ output: html_document
 
 [April 22, 2022] **Dr. Jin hass been awarded the 2021 Cerebral Palsy Alliance Research Foundation Project Grant from the Cerebral Palsy Alliance Research Foundation for the projecct "Discovery of novel genetic variations in cerebral palsy by whole genome sequencing."**
 
-[March 21, 2022] **Nahyun Kong joins the lab for her thesis study.**
+[March 21, 2022] **Nahyun Kong joins the lab for her thesis study. Welcome to the Jin lab!**
 
 [February 9, 2022] **Lab outing to celebrate our recent publication and the Hydrocephalus Association Innovator Award!**
 
