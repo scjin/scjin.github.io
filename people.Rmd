@@ -101,6 +101,14 @@ McDonnell Genome Institute OGR Student
 
 -----
 
+### Lab Pets
+
+__Ziggy__
+
+<img src="images/Ziggy.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+-----
+
 ### Alumni
 
 __Lei Lu__ - Rotation Student (Computer Science & Engineering), 2022/01 - 2022/02
