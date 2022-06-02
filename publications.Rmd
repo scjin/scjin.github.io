@@ -35,6 +35,8 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2022
 
+68 Guo H, Hou L, Shi Y, **Jin SC**, Zeng X, Li B, Lifton RP, Brueckner M, Zhao H, Lu Q. **Quantifying concordant genetic effects of de novo mutations on multiple disorders.** ***eLife***. In press.
+
 67 Xie Y, Jiang W, Li H, **Jin SC**, Brueckner M, Zhao H. **Network assisted nalysis of de novo variants using protein-protein interaction information identified 46
 candidate genes for congenital heart disease.** ***PLOS Genetics***. In press. 
 

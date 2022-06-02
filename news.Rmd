@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[June 1, 2022] **Athziri Marcial Rodriguez joins the lab as a McDonnell Genome Institute Opportunities in Genomics Research Summer Student! Welcome Athziri.**
+
 [May 30,2022] **We now have our lab mascot Ziggy! Guess what breed Ziggy is? Ragamuffin or Ragdoll? Take a guess!**
 
 <img src="images/Ziggy.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
