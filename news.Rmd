@@ -2,6 +2,9 @@
 title: "News"
 output: html_document
 ---
+[June 6, 2022] **Amazing #cupcake made by Wendy and Yuxiao for Shujuan Zhao's birthday. This birthday cupcake event is becoming a lab tradition. Also welcoming our summer students Cabria and Athziri! So fun!!!**
+
+<img src="images/Cupcake.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
 [June 6, 2022] **Cabria Shelton joins the lab as a McDonnell Genome Institute Opportunities in Genomics Research Summer Student! Welcome Cabria!**
 
