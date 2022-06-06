@@ -99,10 +99,14 @@ WUSTL MSTP Rotation Student (joint with Stacey Rentschler)
 __Max Wrubel__,
 McDonnell Genome Institute OGR Student
 
-
 <img src="images/Athziri.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Athziri Marcial Rodriguez__,
+McDonnell Genome Institute OGR Summer Student
+
+<img src="images/Cabria.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Cabria Shelton__,
 McDonnell Genome Institute OGR Summer Student
 
 
