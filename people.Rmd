@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-05-21-2022.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-06-08-2022.pdf).
 
 *NIH Grants*
 
@@ -38,7 +38,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 <img src="images/David.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Yung-Chun (David) Wang__,
-Center of Regenerative Medicine Postdoctoral Fellow, Washington University School of Medicine
+Center of Regenerative Medicine Postdoctoral Fellow
 
 David earned a B.S. in Agriculture Chemistry from the National Taiwan University. He did his Ph.D. with Dr. Shiyou Chen studying the mechanism underlying the regulation of JAK3 in abdominal aortic aneurysm at the University of Georgia. David has received a prestigious Center of Regenerative Medicine Postdoctoral Fellowship. He is focused on genetic analyses and functional genomics of congenital hydrocephalus and cerebral palsy projects.
 
@@ -50,21 +50,21 @@ David earned a B.S. in Agriculture Chemistry from the National Taiwan University
 <img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Shujuan Zhao__,
-Ph.D. Candidate (DBBS Molecular Genetics and Genomics), Washington University School of Medicine
+Ph.D. Candidate and Markey Pathway Fellow (DBBS Molecular Genetics and Genomics)
 
 Shujuan is a 3rd year Ph.D. student at Washington University in St. Louis. She completed her BS in Pharmaceutical Engineering at the Central South University. She is working with Dr. Jin and Dr. Kahle at Massachusetts General Hospital to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.
 
 <img src="images/Julie.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Julie Choi__,
-Ph.D. Student (DBBS Human & Statistical Genetics), Washington University School of Medicine
+Ph.D. Student (DBBS Human & Statistical Genetics)
 
 Julie is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biology and Public Health at the University of Texas at Austin. She is working with Dr. Jin and Dr. Jeff Milbrandt to figure out the genetic etiology and molecular mechanisms of hereditary neuropathy. 
 
 <img src="images/Nahyun.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Nahyun Kong__,
-Ph.D. student (DBBS Human & Statistical Genetics), Washington University School of Medicine
+Ph.D. student (DBBS Human & Statistical Genetics)
 
 Nahyun is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of rare movement disorders.
 
@@ -76,7 +76,7 @@ Nahyun is a 1st year Ph.D. student at Washington University in St. Louis. She co
 <img src="images/Po-Ying-Fu.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Po-Ying Fu__,
-Bioinformatics Research Analyst, Washington University in St. Louis 
+Bioinformatics Research Analyst 
 
 Po-Ying obtained her master's degree in microbiology specialized in bioinformatics from Soochow University. In her master's thesis, she performed genomics analysis and used cell biology approaches to reveal the anti-cancer ability of lipopolysaccharide binding peptides. To advance her programming skills, she completed several advanced computer science courses at 42 Silicon Valley (a software engineering school) and Ohlong College.  She loves cycling and traveling!
 
