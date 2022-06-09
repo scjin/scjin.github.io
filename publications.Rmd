@@ -37,10 +37,10 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 69 Qureshi HQ#, Mekbib KY#, Allington G#, Elsamadicy AA, Duy PQ, Kundishora AJ, **Jin SC**, Kahle KT. **Familial and syndromic forms of arachnoid cyst implicate genetic factors in disease pathogenesis.** ***Cerebral Cortex***. In press.  
 
-68 Guo H, Hou L, Shi Y, **Jin SC**, Zeng X, Li B, Lifton RP, Brueckner M, Zhao H, Lu Q. **Quantifying concordant genetic effects of de novo mutations on multiple disorders.** ***eLife***. In press.
+68 Guo H, Hou L, Shi Y, **Jin SC**, Zeng X, Li B, Lifton RP, Brueckner M, Zhao H, Lu Q. [Quantifying concordant genetic effects of de novo mutations on multiple disorders](https://elifesciences.org/articles/75551). ***eLife***.
 
-67 Xie Y, Jiang W, Li H, **Jin SC**, Brueckner M, Zhao H. **Network assisted nalysis of de novo variants using protein-protein interaction information identified 46
-candidate genes for congenital heart disease.** ***PLOS Genetics***. In press. 
+67 Xie Y, Jiang W, Li H, **Jin SC**, Brueckner M, Zhao H. [Network assisted analysis of de novo variants using protein-protein interaction information identified 46
+candidate genes for congenital heart disease](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010252). ***PLoS Genetics***. 
 
 66 Dong W#, Wong KHY#, Liu Y#, Levy-Sakin M#, Hung W-C#, Li M, Li B, **Jin SC**, Choi J, Lopez-Giraldez F, Vaka D, Poon A, Chu C, Lao R, Balamir M, Movsesyan I, Malloy MJ, Zhao H, Kwok P-Y, Kane JP, Lifton RP, Pullinger CR. [Whole exome sequencing reveals damaging gene variants associated with hypoalphalipoproteinemia](https://www.jlr.org/article/S0022-2275(22)00042-6/fulltext). ***Journal of Lipid Research***. #Co-first author.
 
