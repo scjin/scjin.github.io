@@ -84,15 +84,10 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
-<img src="images/Xu_Yuxiao_profile.png" style="width:25%; border:0; margin-right: 20px" align="top">
+<img src="images/DevinQiu.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
-__Yuxiao Xu__,
-WUSTL MSTP Rotation Student
-
-<img src="images/Dong_Wendy_profile.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Wendy Dong__,
-WUSTL MSTP Rotation Student (joint with Stacey Rentschler)
+__Devin Qui__,
+Research Assistant
 
 <img src="images/Max_Wrubel.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
@@ -122,15 +117,19 @@ __Ziggy__
 
 ### Alumni
 
+__Yuxiao Xu__ Rotation Student (WashU MSTP), 2022/05 - 2022/06
+
+__Wendy Dong__ Rotation Student (WashU MSTP), 2022/05 - 2022/06
+
 __Lei Lu__ - Rotation Student (Computer Science & Engineering), 2022/01 - 2022/02
 
 __Mariam Khanfar__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12
 
-__Kuangying Yang__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12
+__Kuangying Yang__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12; currently graduate student in Angela Hirbe's lab.
 
 __Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11; currently Master's student at WashU.
 
-__Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11
+__Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11; currently graduate student in Ting Wang's lab. 
 
 __Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09; currently a senior at Mount Holyoke College.
 
