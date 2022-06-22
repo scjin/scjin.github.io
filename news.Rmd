@@ -2,6 +2,9 @@
 title: "News"
 output: html_document
 ---
+
+[June 22, 2022] **Congratulations to grad students Nahyun Kong and Julie Choi on being selected into the prestigious Precision Medicine Pathway. We are so proud of you both.**
+
 [June 17, 2022] **Congratulations to Julie (grad student in the Jin lab and Milbrandt lab) for passing her qualifying exam. Now officially a PhD candidate. Woot! Woot! Woot!**
 
 <img src="images/Julie_QE.jpg" style="width:30%; border:0; margin-right: 20px" align="top">

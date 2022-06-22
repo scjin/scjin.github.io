@@ -57,14 +57,14 @@ Shujuan is a 3rd year Ph.D. student at Washington University in St. Louis. She c
 <img src="images/Julie.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Julie Choi__,
-Ph.D. Candidate (DBBS Human & Statistical Genetics)
+Ph.D. Candidate and Precision Medicine Pathway Fellow (DBBS Human & Statistical Genetics)
 
 Julie is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biology and Public Health at the University of Texas at Austin. She is working with Dr. Jin and Dr. Jeff Milbrandt to figure out the genetic etiology and molecular mechanisms of hereditary neuropathy. 
 
 <img src="images/Nahyun.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Nahyun Kong__,
-Ph.D. student (DBBS Human & Statistical Genetics)
+Ph.D. student and Precision Medicine Pathway Fellow (DBBS Human & Statistical Genetics)
 
 Nahyun is a 1st year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of rare movement disorders.
 
