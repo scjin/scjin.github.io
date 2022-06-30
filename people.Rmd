@@ -84,6 +84,11 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
+<img src="images/Vincent.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Vincent Gillespie__,
+Rotation Student (Molecular Genetics and Genomics)
+
 <img src="images/Max_Wrubel.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Max Wrubel__,
