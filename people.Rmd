@@ -89,11 +89,6 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 __Vincent Gillespie__,
 Rotation Student (Molecular Genetics and Genomics)
 
-<img src="images/Max_Wrubel.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Max Wrubel__,
-McDonnell Genome Institute OGR Student
-
 <img src="images/Athziri.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Athziri Marcial Rodriguez__,
@@ -116,6 +111,8 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student
 
 __Yuxiao Xu__ - Rotation Student (WashU MSTP), 2022/05 - 2022/06
 
