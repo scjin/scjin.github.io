@@ -96,17 +96,6 @@ Devin obtained his first master's degree in Plant Biotechnology from Cornell Uni
 __Vincent Gillespie__,
 Rotation Student (Molecular Genetics and Genomics)
 
-<img src="images/Athziri.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Athziri Marcial Rodriguez__,
-McDonnell Genome Institute OGR Summer Student
-
-<img src="images/Cabria.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Cabria Shelton__,
-McDonnell Genome Institute OGR Summer Student
-
-
 -----
 
 ### Lab Pets
@@ -118,6 +107,10 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a rising junior at St. Olaf College.
+
+__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a senior Health Equity major at Rhodes College.
 
 __Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07
 
