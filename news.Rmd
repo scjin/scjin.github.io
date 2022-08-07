@@ -4,7 +4,7 @@ output: html_document
 ---
 [Aug 4, 2022] **Farewell to our OGR summer students Athziri and Carib! Thank you for everything that you’ve accomplished so far, and good luck with everything you will do in the future.**
 
-<img src="images/LabOuting08042022.png" style="width:30%; border:0; margin-right: 20px" align="top"> 
+<img src="images/LabOuting08042022.png" style="width:40%; border:0; margin-right: 20px" align="top"> 
 
 [July 21, 2022] **Devin Qiu joins the lab as a research assistant! Welcome Devin!**
 
