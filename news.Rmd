@@ -20,7 +20,7 @@ output: html_document
 
 <img src="images/LabOuting20220609.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
-[June 6, 2022] **Amazing #cupcake made by Wendy and Yuxiao for Shujuan Zhao's birthday. This birthday cupcake event is becoming a lab tradition. Also welcoming our summer students Cabria and Athziri! So fun!!!**
+[June 6, 2022] **Amazing cupcake made by Wendy and Yuxiao for Shujuan Zhao's birthday. This birthday cupcake event is becoming a lab tradition. Also welcoming our summer students Cabria and Athziri! So fun!!!**
 
 <img src="images/Cupcake.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
@@ -72,7 +72,7 @@ output: html_document
 
 [October 1, 2021] **Dr. Jin has been awarded the 2021 Children's Discovery Institute Faculty Scholar Award from WashU CDI for the project "Human genetics and molecular mechanisms of cerebral palsy."**
 
-[Septem 22, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
+[September 22, 2021] **Kuangying Yang joins the lab as a rotation student! Welcome Kuangying!**
 
 [September 10, 2021] **Mariam Khanfar joins the lab as a rotation student! Welcome Mariam!**
 
@@ -92,7 +92,7 @@ output: html_document
 
 [April 14, 2021] **Kesava Viswanadha joins the lab as a summer intern! Welcome Kesava!**
 
-[April 7, 2021] **Dr. Jin's co-corresponding authored paper on Moyamoya genomics was acceptde in JAMA Neurology. Sam is a co-1st author and Shujuan is an author!**
+[April 7, 2021] **Dr. Jin's co-corresponding authored paper on Moyamoya genomics was accepted in JAMA Neurology. Sam is a co-1st author and Shujuan is an author!**
 
 [March 26, 2021] **Amar Sheth, a medical student at Yale, has been admitted to the Clinical Research Training Center’s TL1 One-Year Predoctoral Program. He will be working with Dr. Jin and Dr. Milbrandt to perform integrative genomic analysis of cerebral palsy and rare pediatric movement disorder! Welcome on board Amar!**
 
