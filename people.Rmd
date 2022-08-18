@@ -91,10 +91,21 @@ Devin obtained his first master's degree in Plant Biotechnology from Cornell Uni
 
 ### Rotation Students and Interns
 
+<img src="images/Jenna_Ulibarri.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Jenna Ulibarri__,
+Rotation Student (Molecular Genetics and Genomics)
+
 <img src="images/Vincent.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Vincent Gillespie__,
 Rotation Student (Molecular Genetics and Genomics)
+
+
+<img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Tugce Iyiyol__,
+Undergraduate studen (WashU PreMed)
 
 -----
 

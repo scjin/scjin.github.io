@@ -2,6 +2,10 @@
 title: "News"
 output: html_document
 ---
+[Aug 17, 2022] **Jenna Ulibarri joins the lab as a rotation student! Welcome Jenna!**
+
+[Aug 17, 2022] **Tugce Iyiyol joins the lab as a undergraduate researcher! Welcome Tugce!**
+
 [Aug 4, 2022] **Farewell to our OGR summer students Athziri and Carib! Thank you for everything that you’ve accomplished so far, and good luck with everything you will do in the future.**
 
 <img src="images/LabOuting08042022.png" style="width:40%; border:0; margin-right: 20px" align="top"> 
