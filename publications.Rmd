@@ -35,6 +35,8 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2022
 
+71 Duy PQ, Rakic P, Alper SL, Robert SM, Kundishora AJ, Butler WE, Walsh CA, Sestan N, Geschwind DH, **Jin SC**, Kahle KT. [A neural stem cell paradigm of pediatric hydrocephalus](https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhac341/6696466?searchresult=1). ***Cerebral Cortex***.
+
 70 Timberlake AT, Kiziltug E, **Jin SC**, Nelson-Williams C, Loring E, Yale Center for Genome Analysis, Allocco AA, Marlier A, Banka S, Stuart H, Passos-Buenos MR, Rosa R, Rogatto SR, Tonne E, Stiegler AL, Boggon TJ, Alperovich M, Steinbacher D, Flores RL, Persing JA, Kahle KT, Lifton RP. [De novo mutations in the BMP signaling pathway in lambdoid craniosynostosis](https://link.springer.com/article/10.1007/s00439-022-02477-2). ***Human Genetics***.
 
 69 Qureshi HQ#, Mekbib KY#, Allington G#, Elsamadicy AA, Duy PQ, Kundishora AJ, **Jin SC**, Kahle KT. [Familial and syndromic forms of arachnoid cyst implicate genetic factors in disease pathogenesis](https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhac257/6645819?login=true). ***Cerebral Cortex***.  
