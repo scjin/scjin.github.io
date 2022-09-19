@@ -29,7 +29,7 @@ Idiopathic peripheral neuropathy (IPN), a result of damage to the peripheral ner
 
 ***Human Genetics and Molecular Mechanisms of Human Neurological Diseases*** 
 
-In collaboration with Drs. [Kristopher Kahle](https://medicine.yale.edu/lab/kahle/), [Kristen Kroll](https://sites.wustl.edu/krolllab/research/), [Joe Dougherty](http://genetics.wustl.edu/jdlab/), and the [WashU Undiagnosed Diseases Network](https://sites.wustl.edu/undiagnosed/), we are focusing on studying the genetic underpinnings of rare Mendelian forms of human neurological diseases, including congenital hydrocephalus, Vein of Galen malformation, Arachnoid cysts, and Moyamoya disease, using whole-genome sequencing, quantitative phenotyping, transcriptomic profiling, massively parallel reporter assyas, and in vitro/in vivo models.
+In collaboration with Drs. [Kristopher Kahle](https://medicine.yale.edu/lab/kahle/), [Kristen Kroll](https://sites.wustl.edu/krolllab/research/), [Joe Dougherty](http://genetics.wustl.edu/jdlab/), and the [WashU Undiagnosed Diseases Network](https://sites.wustl.edu/undiagnosed/), we are focusing on studying the genetic underpinnings of rare Mendelian forms of human neurological diseases, including congenital hydrocephalus, Vein of Galen malformation, Arachnoid cysts, and Moyamoya disease, using whole-genome sequencing, quantitative phenotyping, transcriptomic profiling, massively parallel reporter assays, and in vitro/in vivo models.
 
 ***Genomic Research of Cerebral Palsy***
 
