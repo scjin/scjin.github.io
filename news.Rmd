@@ -3,11 +3,13 @@ title: "News"
 output: html_document
 ---
 
+[Sept 21, 2022] **Andrew Ruttenberg joins the lab as an undergraduate researcher for his senior thesis! Welcome Andrew!**
+
 [Sept 14, 2022] **Ai Zhang joins the lab as a rotation student! Welcome Ai!**
 
 [Aug 17, 2022] **Jenna Ulibarri joins the lab as a rotation student! Welcome Jenna!**
 
-[Aug 17, 2022] **Tugce Iyiyol joins the lab as a undergraduate researcher! Welcome Tugce!**
+[Aug 17, 2022] **Tugce Iyiyol joins the lab as an undergraduate researcher! Welcome Tugce!**
 
 [Aug 4, 2022] **Farewell to our OGR summer students Athziri and Carib! Thank you for everything that you’ve accomplished so far, and good luck with everything you will do in the future.**
 

@@ -106,11 +106,16 @@ Rotation Student (Molecular Genetics and Genomics)
 __Vincent Gillespie__,
 Rotation Student (Molecular Genetics and Genomics)
 
-
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Tugce Iyiyol__,
 Undergraduate Student (WashU PreMed)
+
+
+<img src="images/AndrewRuttenberg.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Andrew Ruttenberg__,
+Undergraduate Student (WashU Computer Science and Math Major)
 
 -----
 
