@@ -13,6 +13,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 
 *NIH Grants*
 
+* U19NS130607: INTERCEPT: Integrated Research Center for human Pain Tissues (Role: Project 1 Co-PI and Data Core co-PI)
 * R00HL143036: Integrative Genomic Analysis of Congenital Heart Disease (Role: PI) (Active)
 * R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: Co-Investigator) (Active)
 * R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role: Co-Investigator) (Active)
@@ -115,7 +116,7 @@ Undergraduate Student (WashU PreMed)
 <img src="images/AndrewRuttenberg.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Andrew Ruttenberg__,
-Undergraduate Student (WashU Computer Science and Math Major)
+Undergraduate Student (WashU PreMed)
 
 -----
 
