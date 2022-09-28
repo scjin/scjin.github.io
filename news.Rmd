@@ -2,7 +2,7 @@
 title: "News"
 output: html_document
 ---
-[Sept 27, 2022] **Incredible experience and privilege to work with Jeff Milbrant, Rob Gereau, Aaron DiAntonio, Valeria Cavalli, Guoyan Zhao, Bryan Copits and many other collaborators. We are proud of our WashU U19 Center has been selected for funding!**
+[Sept 27, 2022] **Incredible experience and privilege to work with Jeff Milbrandt, Rob Gereau, Aaron DiAntonio, Valeria Cavalli, Guoyan Zhao, Bryan Copits and many other collaborators. We are proud of our WashU U19 Center has been selected for funding!**
 
 [INTERCEPT: Integrated Research Center for human Pain Tissues](https://reporter.nih.gov/search/qS4SPGBPCUCdw9aW-6gm9g/project-details/10593843)
 
