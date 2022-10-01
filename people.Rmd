@@ -13,7 +13,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 
 *NIH Grants*
 
-* U19NS130607: INTERCEPT: Integrated Research Center for human Pain Tissues (Role: Project 1 Co-PI and Data Core Co-PI) (Active)
+* U19NS130607: INTERCEPT: Integrated Research Center for Human Pain Tissues (Role: Project 1 Co-PI and Data Core Co-PI) (Active)
 * R00HL143036: Integrative Genomic Analysis of Congenital Heart Disease (Role: PI) (Active)
 * R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: Co-Investigator) (Active)
 * R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role: Co-Investigator) (Active)
@@ -102,16 +102,10 @@ Rotation Student (Human & Statistical Genetics)
 __Jenna Ulibarri__,
 Rotation Student (Molecular Genetics and Genomics)
 
-<img src="images/Vincent.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Vincent Gillespie__,
-Rotation Student (Molecular Genetics and Genomics)
-
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Tugce Iyiyol__,
 Undergraduate Student (WashU PreMed)
-
 
 <img src="images/AndrewRuttenberg.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
@@ -130,11 +124,13 @@ __Ziggy__
 
 ### Alumni
 
+__Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022/06 - 2022/10 
+
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a rising junior at St. Olaf College.
 
 __Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a senior Health Equity major at Rhodes College.
 
-__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07
+__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate lab at Mount Sinai.
 
 __Yuxiao Xu__ - Rotation Student (WashU MSTP), 2022/05 - 2022/06
 
