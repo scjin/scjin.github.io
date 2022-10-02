@@ -2,7 +2,7 @@
 title: "News"
 output: html_document
 ---
-[Sept 30, 2022] **Former and current lab affiliates went to Pappy's for its famous ribs and then haaded to the City Museum. We all had a blast!**
+[Sept 30, 2022] **Former and current lab affiliates went to Pappy's for its famous ribs and then headed to the City Museum. We all had a blast!**
 
 <img src="images/Outing-10-01-2022.jpg" style="width:40%; border:0; margin-right: 20px" align="top">
 
