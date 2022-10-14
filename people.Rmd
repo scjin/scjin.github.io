@@ -51,14 +51,14 @@ David earned a B.S. in Agriculture Chemistry from the National Taiwan University
 <img src="images/Zhao_S.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Shujuan Zhao__,
-Ph.D. Candidate and Markey Pathway Fellow (Molecular Genetics and Genomics)
+Ph.D. Candidate and Markey Pathway Fellow (Molecular Genetics and Genomics)(Joint with Kris Kahle at MGH)
 
 Shujuan is a 4th year Ph.D. student at Washington University in St. Louis. She completed her BS in Pharmaceutical Engineering at the Central South University. She is working with Dr. Jin and Dr. Kahle at Massachusetts General Hospital to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.
 
 <img src="images/Julie.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Julie Choi__,
-Ph.D. Candidate and Precision Medicine Pathway Fellow (Human & Statistical Genetics)
+Ph.D. Candidate and T32 GATP/Precision Medicine Pathway Fellow (Human & Statistical Genetics)(Joint with Jeff Milbrandt)
 
 Julie is a 2nd year Ph.D. student at Washington University in St. Louis. She completed her BS in Biology and Public Health at the University of Texas at Austin. She is working with Dr. Jin and Dr. Jeff Milbrandt to figure out the genetic etiology and molecular mechanisms of hereditary neuropathy. 
 
