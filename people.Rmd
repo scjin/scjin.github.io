@@ -92,15 +92,15 @@ Devin obtained his first master's degree in Plant Biotechnology from Cornell Uni
 
 ### Rotation Students and Interns
 
+<img src="images/ZitianTang.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Zitian Tang__,
+Rotation Student (Biomedical Informatics & Data Science)
+
 <img src="images/Zhang.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Ai Zhang__,
 Rotation Student (Human & Statistical Genetics)
-
-<img src="images/Jenna_Ulibarri.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Jenna Ulibarri__,
-Rotation Student (Molecular Genetics and Genomics)
 
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
@@ -124,7 +124,9 @@ __Ziggy__
 
 ### Alumni
 
-__Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022/07 - 2022/10 
+__Jenna Ulibarri__ - Rotation Student (Molecular Genetics and Genomics), 2022/09 - 2022/11
+
+__Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022/07 - 2022/09 
 
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a rising junior at St. Olaf College.
 
