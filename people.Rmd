@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-10-31-2022.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-11-13-2022.pdf).
 
 *NIH Grants*
 
@@ -96,11 +96,6 @@ Devin obtained his first master's degree in Plant Biotechnology from Cornell Uni
 
 __Zitian Tang__,
 Rotation Student (Biomedical Informatics & Data Science)
-
-<img src="images/Zhang.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Ai Zhang__,
-Rotation Student (Human & Statistical Genetics)
 
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 

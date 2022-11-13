@@ -2,6 +2,8 @@
 title: "News"
 output: html_document
 ---
+[November 7, 2022] **Zitian Tang joins the lab as a rotation student! Welcome Zitian!**
+
 [Oct 28, 2022] **We had a blast at First Watch (Central West End) for our lab lunch event.**
 
 <img src="images/IMG_7894.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
