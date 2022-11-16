@@ -11,7 +11,7 @@ Lab members in **bold**.
 
 ### Featured publications
 
-**Kundishora AJ#**, **Allington G#**, **McGee S#**, **Mekbib KY#**,Gainullin V, Timberlake AT, Nelson-Williams C, Kiziltug E, Smith H, Ocken J, Shohfi J, Allocco AA, Duy PQ, Elsamadicy A, Dong W, **Zhao S**,**Wang Y-C**, Qureshi H, Diluna ML, Mane S, Tikhonova IR, **Fu P-Y**, Castaldi C, López-Giráldez F, Knight JR, Furey CG, Carter BS, Haider S, Moreno-De-Luca A, Alper SL, Gunel M, Millan F, Lifton RP, Torene RI^, **Jin SC^**, Kahle KT^&. **Systems-level elucidation of the pathogenesis of cerebral arachnoid cysts**. ***Nature Medicine (in press)***. #Co-first authors; ^Co-senior authros; &Corresponding author 
+Kundishora AJ#, Allington G#, McGee S#, Mekbib KY#,Gainullin V, Timberlake AT, Nelson-Williams C, Kiziltug E, Smith H, Ocken J, Shohfi J, Allocco AA, Duy PQ, Elsamadicy A, Dong W, **Zhao S**, **Wang Y-C**, Qureshi H, Diluna ML, Mane S, Tikhonova IR, **Fu P-Y**, Castaldi C, López-Giráldez F, Knight JR, Furey CG, Carter BS, Haider S, Moreno-De-Luca A, Alper SL, Gunel M, Millan F, Lifton RP, Torene RI^, **Jin SC^**, Kahle KT^&. **Systems-level elucidation of the pathogenesis of cerebral arachnoid cysts**. ***Nature Medicine (in press)***. #Co-first authors; ^Co-senior authros; &Corresponding author 
 
 **Wang Y-C#**, Wu Y#, **Choi J#**, Allington G#, **Zhao S#**, **Khanfar M#**, **Yang K#**, **Fu P-Y**, **Wrubel M**, **Yu X**, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&, **Jin SC&**. 2022. [Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy](https://www.mdpi.com/2075-4426/12/2/175).  ***Journal of Personalized Medicine***. #Co-first authors; &Co-corresponding authors. [**Feature paper**]
 
@@ -37,7 +37,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2022
 
-72 **Kundishora AJ#**, **Allington G#**, **McGee S#**, **Mekbib KY#**,Gainullin V, Timberlake AT, Nelson-Williams C, Kiziltug E, Smith H, Ocken J, Shohfi J, Allocco AA, Duy PQ, Elsamadicy A, Dong W, **Zhao S**,**Wang Y-C**, Qureshi H, Diluna ML, Mane S, Tikhonova IR, **Fu P-Y**, Castaldi C, López-Giráldez F, Knight JR, Furey CG, Carter BS, Haider S, Moreno-De-Luca A, Alper SL, Gunel M, Millan F, Lifton RP, Torene RI^, **Jin SC^**, Kahle KT^&. **Systems-level elucidation of the pathogenesis of cerebral arachnoid cysts**. ***Nature Medicine (in press)***. #Co-first authors; ^Co-senior authros; &Corresponding author 
+72 Kundishora AJ#, Allington G#, McGee S#, Mekbib KY#,Gainullin V, Timberlake AT, Nelson-Williams C, Kiziltug E, Smith H, Ocken J, Shohfi J, Allocco AA, Duy PQ, Elsamadicy A, Dong W, **Zhao S**,**Wang Y-C**, Qureshi H, Diluna ML, Mane S, Tikhonova IR, **Fu P-Y**, Castaldi C, López-Giráldez F, Knight JR, Furey CG, Carter BS, Haider S, Moreno-De-Luca A, Alper SL, Gunel M, Millan F, Lifton RP, Torene RI^, **Jin SC^**, Kahle KT^&. **Systems-level elucidation of the pathogenesis of cerebral arachnoid cysts**. ***Nature Medicine (in press)***. #Co-first authors; ^Co-senior authros; &Corresponding author 
 
 71 Duy PQ, Rakic P, Alper SL, Robert SM, Kundishora AJ, Butler WE, Walsh CA, Sestan N, Geschwind DH, **Jin SC**, Kahle KT. [A neural stem cell paradigm of pediatric hydrocephalus](https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhac341/6696466?searchresult=1). ***Cerebral Cortex***.
 
