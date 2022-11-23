@@ -2,6 +2,8 @@
 title: "News"
 output: html_document
 ---
+[November 23, 2022] **Congrats to grad student Nahyun Kong for receiving the prestigious Study Abroad Scholarships from the Mogam Science Scholarship Foundation. We are very proud of you Nahyun!**
+
 [November 7, 2022] **Zitian Tang joins the lab as a rotation student! Welcome Zitian!**
 
 [Oct 28, 2022] **We had a blast at First Watch (Central West End) for our lab lunch event.**
