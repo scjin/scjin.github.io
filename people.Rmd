@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-11-13-2022.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-11-30-2022.pdf).
 
 *NIH Grants*
 
@@ -82,13 +82,6 @@ Bioinformatics Research Analyst
 
 Po-Ying obtained her master's degree in microbiology specialized in bioinformatics from Soochow University. In her master's thesis, she performed genomics analysis and used cell biology approaches to reveal the anti-cancer ability of lipopolysaccharide binding peptides. To advance her programming skills, she completed several advanced computer science courses at 42 Silicon Valley (a software engineering school) and Ohlong College.  She loves cycling and traveling!
 
-<img src="images/DevinQiu.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Devin Qiu__,
-Research Assistant
-
-Devin obtained his first master's degree in Plant Biotechnology from Cornell University and his second master's degree in Biomedical Informatics from Washington Univeristy in St. Louis. During his master's study at WashU, he performed single-cell RNA-sequencing genomic analysis to define genomic profile of lung stromal and immune cells in post-viral lung disease and build a risk evaluation model to predict the effect of chronic kidney disease history, comorbidities, and other demographic factos on the severity of COVID-19 patients. He loves playing video games.
-
 -----
 
 ### Rotation Students and Interns
@@ -119,6 +112,8 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Devin Qiu__ - Research Assistant, 2022/07 - 2022/12
 
 __Ai Zhang__ - Rotation Student (Human & Statistical Genetics), 2022/09 - 2022/11
 
