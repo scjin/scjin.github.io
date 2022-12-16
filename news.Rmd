@@ -2,6 +2,11 @@
 title: "News"
 output: html_document
 ---
+
+[December 15, 2022] **Our challenge solution has been chosen as a winder of the 2022 PCGC and CDDRC Challenge Prize!**
+
+[December 15, 2022] **Congratulations to Nahyun for passing her qualifying exam. Now officially a PhD candidate. Woot! Woot! Woot!**
+
 [November 23, 2022] **Congrats to grad student Nahyun Kong for receiving the prestigious Study Abroad Scholarships from the Mogam Science Scholarship Foundation. We are very proud of you Nahyun!**
 
 [November 7, 2022] **Zitian Tang joins the lab as a rotation student! Welcome Zitian!**
