@@ -3,7 +3,7 @@ title: "News"
 output: html_document
 ---
 
-[December 15, 2022] **Our challenge solution has been chosen as a winder of the 2022 PCGC and CDDRC Challenge Prize!**
+[December 15, 2022] **Our challenge solution has been chosen as a winner of the 2022 PCGC and CDDRC Challenge Prize!**
 
 [December 15, 2022] **Congratulations to Nahyun for passing her qualifying exam. Now officially a PhD candidate. Woot! Woot! Woot!**
 
