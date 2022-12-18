@@ -73,7 +73,7 @@ Nahyun is a 2nd year Ph.D. student at Washington University in St. Louis. She co
 <img src="images/Wendy_Dong.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Wendy Dong__,
-MSTP Candidate (Computational and Systems Biology)(Primary lab Jeffrey Milbrandt)
+MSTP Candidate (Computational and Systems Biology)(Primary Lab Jeffrey Milbrandt)
 
 Wendy is a 2nd year MD/PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering at the Duke University. She is co-mentored by Dr. Jeffery Milbrandt and Dr. Jin to elucidate comprehensive molecular/cellular phenotypes that underlie human pain transduction, transmission, and processing. 
 

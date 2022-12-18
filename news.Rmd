@@ -4,7 +4,7 @@ output: html_document
 ---
 [December 16, 2022] **Wendy Dong, a MD/Ph.D. student, joins both Milbrandt's and Jin's labs for her thesis study. Welcome aboard Wendy!**
 
-[December 16, 2022] **We celebrated Shujuan's passing her thesis update and Nahyun's passing her qualifying exam** Congratulations Shujuan and Nahyun!!**
+[December 16, 2022] **We celebrated Shujuan's passing her thesis update and Nahyun's passing her qualifying exam!! Congratulations Shujuan and Nahyun!!**
 
 <img src="images/Celebration12162022.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
