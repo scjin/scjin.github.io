@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-12-05-2022.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-12-18-2022.pdf).
 
 *NIH Grants*
 
@@ -69,6 +69,13 @@ __Nahyun Kong__,
 Ph.D. Candidate and Mogam Science Scholar/Precision Medicine Pathway Fellow (Human & Statistical Genetics)
 
 Nahyun is a 2nd year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of rare movement disorders.
+
+<img src="images/Wendy_Dong.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Wendy Dong__,
+MSTP Candidate (Computational and Systems Biology)(Primary lab Jeffrey Milbrandt)
+
+Wendy is a 2nd year MD/PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering at the Duke University. She is co-mentored by Dr. Jeffery Milbrandt and Dr. Jin to elucidate comprehensive molecular/cellular phenotypes that underlie human pain transduction, transmission, and processing. 
 
 
 -----
