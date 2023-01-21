@@ -2,6 +2,8 @@
 title: "News"
 output: html_document
 ---
+[January 20, 2023] **Yu-Liang Yeh joins the lab as a rotation student! Welcome Yu-Liang!**
+
 [December 16, 2022] **Wendy Dong, a MD/Ph.D. student, joins both Milbrandt's and Jin's labs for her thesis study. Welcome aboard Wendy!**
 
 [December 16, 2022] **We celebrated Shujuan's passing her thesis update and Nahyun's passing her qualifying exam!! Congratulations Shujuan and Nahyun!!**

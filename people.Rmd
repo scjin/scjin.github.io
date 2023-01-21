@@ -95,9 +95,9 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
-<img src="images/ZitianTang.png" style="width:25%; border:0; margin-right: 20px" align="top">
+<img src="images/Yu-Liang-Yeh.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
-__Zitian Tang__,
+__Yu-Liang Yeh__,
 Rotation Student (Biomedical Informatics & Data Science)
 
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
@@ -121,6 +121,8 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Zitian Tang__ Rotation Student (Biomedical Informatics & Data Science), 2022/11 - 2023/01
 
 __Devin Qiu__ - Research Assistant, 2022/07 - 2022/12
 
