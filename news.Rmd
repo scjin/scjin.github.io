@@ -2,6 +2,11 @@
 title: "News"
 output: html_document
 ---
+
+[January 27, 2023] **Fun Jin lab outing to celebrate Lunar New Year, new grant, and new paper at Chilispot!**
+
+<img src="images/chillspot.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [January 20, 2023] **Yu-Liang Yeh joins the lab as a rotation student! Welcome Yu-Liang!**
 
 [December 16, 2022] **Wendy Dong, a MD/Ph.D. student, joins both Milbrandt's and Jin's labs for her thesis study. Welcome aboard Wendy!**
