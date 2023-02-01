@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 31, 2023] **Big congrats to grad student Wendy Dong (joint with Jeff Milbrandt) for being selected into Washington University’s T32 Genome Analysis Training Program. We are so very proud of you!**
+
 [January 27, 2023] **Fun Jin lab outing to celebrate Lunar New Year, new grant, and new paper at Chilispot!**
 
 <img src="images/chillspot.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
