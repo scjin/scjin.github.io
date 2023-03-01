@@ -11,7 +11,7 @@ Lab members in **bold**.
 
 ### Featured publications
 
-Kundishora AJ#, Allington G#, McGee S#, Mekbib KY#,Gainullin V, Timberlake AT, Nelson-Williams C, Kiziltug E, Smith H, Ocken J, Shohfi J, Allocco AA, Duy PQ, Elsamadicy A, Dong W, **Zhao S**, **Wang Y-C**, Qureshi H, Diluna ML, Mane S, Tikhonova IR, **Fu P-Y**, Castaldi C, López-Giráldez F, Knight JR, Furey CG, Carter BS, Haider S, Moreno-De-Luca A, Alper SL, Gunel M, Millan F, Lifton RP, Torene RI^, **Jin SC^**, Kahle KT^&. **Multi-omic analyses implicate a neurodevelopmental program in the pathogenesis of cerebral arachnoid cysts**. ***Nature Medicine (in press)***. #Co-first authors; ^Co-senior authros; &Corresponding author 
+Kundishora AJ#, Allington G#, McGee S#, Mekbib KY#,Gainullin V, Timberlake AT, Nelson-Williams C, Kiziltug E, Smith H, Ocken J, Shohfi J, Allocco AA, Duy PQ, Elsamadicy A, Dong W, **Zhao S**, **Wang Y-C**, Qureshi H, Diluna ML, Mane S, Tikhonova IR, **Fu P-Y**, Castaldi C, López-Giráldez F, Knight JR, Furey CG, Carter BS, Haider S, Moreno-De-Luca A, Alper SL, Gunel M, Millan F, Lifton RP, Torene RI#, **Jin SC#**, Kahle KT#&. **Multi-omic analyses implicate a neurodevelopmental program in the pathogenesis of cerebral arachnoid cysts**. ***Nature Medicine (in press)***. #Equal contribution; &Corresponding author 
 
 **Wang Y-C#**, Wu Y#, **Choi J#**, Allington G#, **Zhao S#**, **Khanfar M#**, **Yang K#**, **Fu P-Y**, **Wrubel M**, **Yu X**, Mekbib KY, Ocken J, Smith H, Shohfi J, Kahle KT, Lu Q&, **Jin SC&**. 2022. [Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy](https://www.mdpi.com/2075-4426/12/2/175).  ***Journal of Personalized Medicine***. #Co-first authors; &Co-corresponding authors. [**Feature paper**]
 
@@ -34,6 +34,12 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 **Jin SC#**, Homsy J#, Zaidi S#, Lu Q, Morton S, DePalma SR, Zeng X, Qi H, Chang W, Sierant MC, Hung WC, Haider S, Zhang J, Knight J, Bjornson RD, Castaldi C, Tikhonoa IR, Bilguvar K, Mane SM, Sanders SJ, Mital S, Russell MW, Gaynor JW, Deanfield J, Giardini A, Porter GA Jr, Srivastava D, Lo CW, Shen Y, Watkins WS, Yandell M, Yost HJ, Tristani-Firouzi M, Newburger JW, Roberts AE, Kim R, Zhao H, Kaltman JR, Goldmuntz E, Chung WK, Seidman JG, Gelb BD, Seidman CE, Lifton RP, Brueckner M. 2017. [Contribution of rare inherited and de novo variants in 2,871 congenital heart disease probands](https://www.nature.com/articles/ng.3970). ***Nature Genetics***. #Co-first authors. **[>400 cites]** .\
 **Press coverage:** [New Haven Register](https://www.nhregister.com/news/article/Study-revealing-links-between-heart-disease-and-12264612.php), [MedicineNet](https://www.medicinenet.com/script/main/art.asp?articlekey=207467) 
+
+### 2023
+
+74 Mishra-Gorur K, Barak T, Kaulen L, Henegariu O, **Jin SC**, Aguilera SM, Goles G, Yalbir E, Nishimura S, Miyagishima D, Djenoune L, Altinok S, Rai DK, Viviano S, Prendergast A, Zerillo C, Ozcan K, Baran B, Sencar L, Goc N, Yarman Y, Ercan-Sencicek AG, Bilguvar K, Lifton RP, Moliterno J, Louvi A, Yuan S, Deniz E, Brueckner B, Gunel M. **Pleiotropic role of TRAF7 in skull-base meningiomas and congenital heart disease**. ***PNAS (in press)***
+
+73 Kundishora AJ#, Allington G#, McGee S#, Mekbib KY#,Gainullin V, Timberlake AT, Nelson-Williams C, Kiziltug E, Smith H, Ocken J, Shohfi J, Allocco AA, Duy PQ, Elsamadicy A, Dong W, **Zhao S**,**Wang Y-C**, Qureshi H, Diluna ML, Mane S, Tikhonova IR, **Fu P-Y**, Castaldi C, López-Giráldez F, Knight JR, Furey CG, Carter BS, Haider S, Moreno-De-Luca A, Alper SL, Gunel M, Millan F, Lifton RP, Torene RI#, **Jin SC#**, Kahle KT#&. **Multi-omic analyses implicate a neurodevelopmental program in the pathogenesis of cerebral arachnoid cysts**. ***Nature Medicine (in press)***. #Equal contribution;  &Corresponding author
 
 ### 2022
 
