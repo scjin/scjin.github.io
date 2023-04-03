@@ -9,12 +9,11 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-03-01-2023.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-04-03-2023.pdf).
 
 *NIH Grants*
 
 * U19NS130607: INTERCEPT: Integrated Research Center for Human Pain Tissues (Role: Project 1 Co-PI and Data Core Co-PI) (Active)
-* R00HL143036: Integrative Genomic Analysis of Congenital Heart Disease (Role: PI) (Active)
 * R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: Co-Investigator) (Active)
 * R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role: Co-Investigator) (Active)
 * R01NS117609: Human Genetics and Molecular Mechanisms of Vein of Galen Aneurysmal Malformation (Role: Co-Investigator) (Active)   
@@ -76,7 +75,7 @@ Nahyun is a 2nd year Ph.D. student at Washington University in St. Louis. She co
 <img src="images/Wendy_Dong.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Wendy Dong__,
-MSTP Candidate and T32 GATP Fellow (Computational and Systems Biology)(Joint with Jeff Milbrandt)
+MSTP Candidate and T32 Fellow (Computational and Systems Biology)(Joint with Jeff Milbrandt)
 
 Wendy is a 2nd year MD/PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering at the Duke University. She is co-mentored by Dr. Jeffery Milbrandt and Dr. Jin to elucidate comprehensive molecular/cellular phenotypes that underlie human pain transduction, transmission, and processing. 
 
@@ -95,11 +94,6 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 -----
 
 ### Rotation Students and Interns
-
-<img src="images/Yu-Liang-Yeh.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Yu-Liang Yeh__,
-Rotation Student (Biomedical Informatics & Data Science)
 
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
@@ -122,6 +116,8 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04
 
 __Zitian Tang__ - Rotation Student (Biomedical Informatics & Data Science), 2022/11 - 2023/01
 
@@ -153,7 +149,7 @@ __Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology
 
 __Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09; currently a software engineer at Capgemini.
 
-__Changfeng Chen__ - Rotation Student (Molecular Cell Biology), 2021/02 - 2021/04; currently graduate student in Brian Laidlaw's lab.
+__Changfeng Chen__ - Rotation Student (Molecular Cell Biology), 2021/02 - 2021/04; currently graduate student in Benjamin Humphreys's lab.
 
 __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/02; currently graduate student in Gautam Dantas's lab.
 
