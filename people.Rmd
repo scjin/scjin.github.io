@@ -95,6 +95,11 @@ Po-Ying obtained her master's degree in microbiology specialized in bioinformati
 
 ### Rotation Students and Interns
 
+<img src="images/JustinChen.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Justin Chen__,
+Rotation Student (Computational and Systems Biology)
+
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Tugce Iyiyol__,

@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[April 7, 2023] **Justin Chen joins the lab as a rotation student! Welcome Justin!**
+
 [January 31, 2023] **Big congrats to grad student Wendy Dong (joint with Jeff Milbrandt) for being selected into Washington University’s T32 Genome Analysis Training Program. We are so very proud of you!**
 
 [January 27, 2023] **Fun Jin lab outing to celebrate Lunar New Year, new grant, and new paper at Chilispot!**
