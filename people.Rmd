@@ -137,7 +137,7 @@ __Zitian Tang__ - Rotation Student (Biomedical Informatics & Data Science), 2022
 
 __Devin Qiu__ - Research Assistant, 2022/07 - 2022/12
 
-__Ai Zhang__ - Rotation Student (Human & Statistical Genetics), 2022/09 - 2022/11
+__Ai Zhang__ - Rotation Student (Human & Statistical Genetics), 2022/09 - 2022/11; currently graduate student in Gautam Dantas's lab.
 
 __Jenna Ulibarri__ - Rotation Student (Molecular Genetics and Genomics), 2022/09 - 2022/11
 
@@ -149,7 +149,7 @@ __Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 20
 
 __Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate lab at Mount Sinai.
 
-__Yuxiao Xu__ - Rotation Student (WashU MSTP), 2022/05 - 2022/06
+__Yuxiao Xu__ - Rotation Student (WashU MSTP), 2022/05 - 2022/06; currently graduate student in Mayssa Mokalled's lab.
 
 __Lei Lu__ - Rotation Student (Computer Science & Engineering), 2022/01 - 2022/02; currently graduate student at Northeastern University.
 
