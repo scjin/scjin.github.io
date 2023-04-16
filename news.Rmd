@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[April 14, 2023] **"Parting is such sweet sorrow," but celebrating with a warm party at the beautiful Botanical Garden makes it a bit easier. We want to extend our heartfelt appreciation to Po-Ying for her invaluable contribution to the Jin Lab during the past three years. You will be greatly missed! We wish you all the best in your future endeavors.!**
+
+<img src="images/2023-04-14-FarewellParty.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+  
 [April 13, 2023] **Elvisa Mehinovic joins the lab as a bioinformaticist! Welcome Elle!**
 
 [April 7, 2023] **Justin Chen joins the lab as a rotation student! Welcome Justin!**
