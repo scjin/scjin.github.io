@@ -84,14 +84,6 @@ Wendy is a 2nd year MD/PhD student at Washington University in St. Louis. She co
 
 ### Staff
 
-<img src="images/Po-Ying-Fu.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Po-Ying Fu__,
-Bioinformaticist 
-
-Po-Ying obtained her master's degree in microbiology specialized in bioinformatics from Soochow University. In her master's thesis, she performed genomics analysis and used cell biology approaches to reveal the anti-cancer ability of lipopolysaccharide binding peptides. To advance her programming skills, she completed several advanced computer science courses at 42 Silicon Valley (a software engineering school) and Ohlong College.  She loves cycling and traveling!
-
-
 <img src="images/Elvisa.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Elvisa Mehinovic__,
@@ -130,6 +122,8 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04
 
 __Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04
 
