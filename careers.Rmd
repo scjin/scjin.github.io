@@ -5,6 +5,20 @@ output: html_document
 
 <br>
 
+### Graduate Students
+
+We welcome inquiries from Washington University Ph.D. students for rotation projects. We have a particular interest in students enrolled in any of our [12 Division of Biology and Biomedical Sciences Ph.D. programs](https://dbbs.wustl.edu/). Students from other graduate programs at Washington University who are interested in our lab should verify their eligibility with their program administrators before contacting us.
+
+According to Washington University regulations, we cannot accept any graduate trainees for direct admission into our lab. Therefore, you must first be accepted into one of the above programs before being considered for our lab. If you are interested, please send an email to jin810@wustl.edu. We strongly encourage interested students to reach out to current lab members to learn more about our research and lab environment.
+
+-----
+
+### Undergradudate Students
+
+We welcome inquiries for independent research and training opportunities throughout the academic year, including the summer. We primarily accept students through official Wash U. independent research courses such as [Bio 200/500](https://sites.wustl.edu/bio200500independentresearch/). However, there are also several programs available that provide paid summer research opportunities for both WashU and non-WashU undergraduates, including the [Division of Biology and Biomedical Sciences](https://dbbs.wustl.edu/admissions/summer-undergraduate-research-programs/), the [McDonnell Genome Institute](https://genome.wustl.edu/outreach/), and the [Office of Undergraduate Research](https://undergradresearch.wustl.edu/research-opportunities#anchor-group-10424). Additionally, the [Young Scientist Program](https://sites.wustl.edu/wustlysp/) is available for high school students in the St. Louis area.
+
+-----
+
 ### Postdoctoral Associate in Functional Genomics
 
 The Jin Lab is seeking a talented and enthusiastic postdoctoral fellow to join our growing team in the Department of Genetics at Washington University School of Medicine. To tackle central questions about the pathophysiology of neuropathy, congenital hydrocephalus, cerebral palsy, and/or congenital heart defects, the fellow will conduct functional genomics research under the guiding aims:
@@ -40,6 +54,3 @@ To be considered for this role, please email Dr. Jin at jin810@wustl.edu with th
 
 -----
 
-### Graduates, Undergraduates, and Summer Interns
-
-If you are a graduate/undergraduate/summer intern student and looking for a potential rotation/undergrad/summer research, please email your CV to Dr. Jin at jin810@wustl.edu for discussion.
