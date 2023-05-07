@@ -14,6 +14,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 *NIH Grants*
 
 * U19NS130607: INTERCEPT: Integrated Research Center for Human Pain Tissues (Role: Project 1 Co-PI and Data Core Co-PI) (Active)
+* UM1DA058219: WashU-VAI Somatic Mosaicism across Human Tissues (SMaHT) Program Genome Characterization Center (Role: Co-Investigator) (Active)
 * U24NS132103: WashU Somatic Mosaicism across Human Tissues (SMaHT) Program. Organizational Center (Role: Co-Investigator) (Active)
 * R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: Co-Investigator) (Active)
 * R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role: Co-Investigator) (Active)
