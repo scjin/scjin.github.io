@@ -2,6 +2,8 @@
 title: "News"
 output: html_document
 ---
+[May 27, 2023] **Congratulations to our graduate student Zitian Tang who has been awarded with a Scholarship to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
+
 [May 26, 2023] **Zitian Tang joins the lab for her thesis study. Welcome to the Jin lab!**
 
 [April 14, 2023] **"Parting is such sweet sorrow," but celebrating with a warm party at the beautiful Botanical Garden makes it a bit easier. We want to extend our heartfelt appreciation to Po-Ying for her invaluable contribution to the Jin Lab during the past three years. You will be greatly missed! We wish you all the best in your future endeavors.!**
