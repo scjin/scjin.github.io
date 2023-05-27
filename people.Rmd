@@ -84,7 +84,7 @@ Wendy is a 3rd year MD/PhD student at Washington University in St. Louis. She co
 <img src="images/ZitianTang.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Zitian Tang__,
-Ph.D. student (Biomedical Informatics & Data Science)
+Ph.D. Student (Biomedical Informatics & Data Science)
 
 Zitian is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering and Computer Science at the Georgia Institute of Technology. She is developing computational strategies and tools to elucidate the impact of short tandem repeats and contribute to the somatic variation catalog for the Somatic Mosaicism Across Human Tissues consortium.
 
