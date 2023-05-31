@@ -37,7 +37,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2023
 
-75 Pinard A, Ye W, Fraser SM, Rosenfeld JA, Pichurin P, Hickey SE, Guo D, Cecchi AC, Guey S, Aloui C, Lee K, Kraemer M, Alyemni SO, University of Washington Center for Mendelian Genomics, Bamshad MJ, Nickerson DA, Tournier-Lasserve E, Haider S, **Jin SC**, Smith ER, Kahle KT, Jan LY, He M, Boerio ML, Milewicz DM. **Rare variants in ANO1, encoding a Calcium-activated chloride channel, predispose to Moyamoya disease**. ***Brain (in press)***.  
+75 Pinard A, Ye W, Fraser SM, Rosenfeld JA, Pichurin P, Hickey SE, Guo D, Cecchi AC, Guey S, Aloui C, Lee K, Kraemer M, Alyemni SO, University of Washington Center for Mendelian Genomics, Bamshad MJ, Nickerson DA, Tournier-Lasserve E, Haider S, **Jin SC**, Smith ER, Kahle KT, Jan LY, He M, Boerio ML, Milewicz DM. [Rare variants in ANO1, encoding a Calcium-activated chloride channel, predispose to Moyamoya disease](https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awad172/7186631?login=false). ***Brain***.  
 
 74 Timberlake AT, McGee S, Allington G, Kiziltug E, Wolfe EM, Stiegler AL, Boggon TJ, Sanyoura M, Morrow M, Wenger TL, Fernandes EM, Caluseriu O, Persing JA, **Jin SC**, Lifton RP, Kahle KT, Kruszka P. [De novo variants implicate chromatin modification, transcriptional regulation, and retinoic acid signaling in syndromic craniosynostosis](https://www.sciencedirect.com/science/article/pii/S0002929723001015). ***American Journal of Human Genetics***.
 
