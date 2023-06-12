@@ -39,12 +39,12 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 
 -----
 
-### Postdoctoral Researchers and Fellows
+### Postdoctoral Researchers and Staff Scientists
 
 <img src="images/David.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Yung-Chun (David) Wang__,
-Center of Regenerative Medicine Postdoctoral Fellow
+Staff Scientist
 
 David earned a B.S. in Agriculture Chemistry from the National Taiwan University. He did his Ph.D. with Dr. Shiyou Chen studying the mechanism underlying the regulation of JAK3 in abdominal aortic aneurysm at the University of Georgia. David has received a prestigious Center of Regenerative Medicine Postdoctoral Fellowship. He is focused on genetic analyses and functional genomics of congenital hydrocephalus and cerebral palsy projects.
 
@@ -134,7 +134,7 @@ __Ziggy__
 
 __Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04
 
-__Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04
+__Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04, currently graduate student in Michael Meers' lab.
 
 __Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently graduate student at Van Andel Institute.
 
