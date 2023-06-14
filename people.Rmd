@@ -134,7 +134,7 @@ __Ziggy__
 
 __Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04
 
-__Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04, currently graduate student in Michael Meers' lab.
+__Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04, currently graduate student in Michael Meers's lab.
 
 __Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently graduate student at Van Andel Institute.
 
@@ -146,7 +146,7 @@ __Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022
 
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a junior at St. Olaf College.
 
-__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a senior Health Equity major at Rhodes College.
+__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Neuroprep Scholars at WashU.
 
 __Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate lab at Mount Sinai.
 
