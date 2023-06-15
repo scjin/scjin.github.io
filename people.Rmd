@@ -88,6 +88,14 @@ Ph.D. Student (Biomedical Informatics & Data Science)
 
 Zitian is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering and Computer Science at the Georgia Institute of Technology. She is developing computational strategies and tools to elucidate the impact of short tandem repeats and contribute to the somatic variation catalog for the Somatic Mosaicism Across Human Tissues consortium.
 
+<img src="images/Jenna_Ulibarri.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Jenna Ulibarri__,
+Ph.D. Student (Molecular Genetics and Genomics)
+
+Jenna is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is developing computational and functional genomic strategies to elucidate the impact of copy number variations and contribute to the somatic variation catalog for the Somatic Mosaicism Across Human Tissues consortium.
+
+
 
 -----
 
@@ -139,8 +147,6 @@ __Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 202
 __Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently graduate student at Van Andel Institute.
 
 __Ai Zhang__ - Rotation Student (Human & Statistical Genetics), 2022/09 - 2022/11; currently graduate student in Gautam Dantas's lab.
-
-__Jenna Ulibarri__ - Rotation Student (Molecular Genetics and Genomics), 2022/09 - 2022/11
 
 __Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022/07 - 2022/09 
 
