@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[July 6, 2023] **Congratulations to our grad student Zitian Tang on being selected into the prestigious Precision Medicine Pathway. We are so proud of you.**
+
 [June 15, 2023] **Jenna Ulibarri joins the lab for her thesis study. Welcome to the Jin lab!**
 
 [May 27, 2023] **Congratulations to our graduate student Zitian Tang who has been awarded with a Scholarship to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
