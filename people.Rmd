@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-07-01-2023.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-07-18-2023.pdf).
 
 *NIH Grants*
 
@@ -149,7 +149,7 @@ __Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022
 
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a junior at St. Olaf College.
 
-__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Neuroprep Scholars at WashU.
+__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Neuroprep Scholar at WashU.
 
 __Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate lab at Mount Sinai.
 
