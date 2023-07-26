@@ -108,6 +108,12 @@ Bioinformaticist
 
 Elle is a bioinformaticist and master's student at Washington University in St. Louis. She completed a BS degree in computational biology at Webster University. Her favorite hobbies include cuddling with her cat and drawing.  
 
+<img src="images/AndrewRuttenberg.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Andrew Ruttenberg__,
+Research Technician II
+
+Andrew is a research technician at Washington University in St. Louis after getting his BS in Computer Science and Mathematics there. He is studying the role de novo structural variants play in neurodevelopment movement disorders.
 
 -----
 
@@ -116,11 +122,6 @@ Elle is a bioinformaticist and master's student at Washington University in St. 
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Tugce Iyiyol__,
-Undergraduate Student (WashU PreMed)
-
-<img src="images/AndrewRuttenberg.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Andrew Ruttenberg__,
 Undergraduate Student (WashU PreMed)
 
 -----
