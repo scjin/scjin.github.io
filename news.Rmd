@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[August 18, 2023] **Had a blast at City Foundry STL for our lab outing, celebrating and welcoming our newest rotation student, Emma Casey, to the Jin lab!**
+
+<img src="images/IMG_8273.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+ 
 [July 26, 2023] **Andrew Ruttenberg joins the lab as a research technician II! Welcome Andrew!** 
 
 [July 6, 2023] **Congratulations to our grad student Zitian Tang on being selected into the prestigious Precision Medicine Pathway. We are so proud of you.**
