@@ -119,6 +119,12 @@ Andrew is a research technician at Washington University in St. Louis after gett
 
 ### Rotation Students and Interns
 
+<img src="images/Emma_Casey.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Emma Casey__,
+Rotation Student (Molecular Genetics and Genomics)
+
+
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Tugce Iyiyol__,
