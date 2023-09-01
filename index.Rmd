@@ -35,7 +35,7 @@ Idiopathic peripheral neuropathy (IPN), a result of damage to the peripheral ner
 
 ***Genomic Research of Cerebral Palsy and Dystonia***
 
-In collaboration with Drs. [Michael Kruer](https://www.kruerlab.org/), [Bhooma Aravamuthan](https://aravamuthanlab.wustl.edu/), [Carlos Cruchaga](https://cruchagalab.wustl.edu/), [Chris Gurnett](https://gurnettlab.wustl.edu/), [Joe Dougherty](http://genetics.wustl.edu/jdlab/), the [Dystonia Coalition](https://dc.rarediseasesnetwork.org/), and the [Cerebral Palsy Research Network](https://cprn.org/), we are applying an integrative, multidimensional omics approach to a large, well-phenotyped cerebral palsy/dystonia cohort to catalyze gene discovery, provide mechanistic insights into newly identified genetic causes, make genotype-phenotype correlations, and create a metadata ecosystem freely available to the cerebral palsy/dystonia community.
+In collaboration with Drs. [Michael Kruer](https://www.kruerlab.org/), [Carlos Cruchaga](https://cruchagalab.wustl.edu/), [Joe Dougherty](http://genetics.wustl.edu/jdlab/), the [Dystonia Coalition](https://dc.rarediseasesnetwork.org/), and the [Cerebral Palsy Research Network](https://cprn.org/), we are applying an integrative, multidimensional omics approach to a large, well-phenotyped cerebral palsy/dystonia cohort to catalyze gene discovery, provide mechanistic insights into newly identified genetic causes, make genotype-phenotype correlations, and create a metadata ecosystem freely available to the cerebral palsy/dystonia community.
 
 ***Human Genetics and Molecular Mechanisms of Human Neurological Diseases***
 
