@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[August 31, 2023] **Big congrats to grad student Wendy Dong (joint with Jeff Milbrandt) for being selected into Washington University’s T32 Genome Analysis Training Program. We are so very proud of you!**
+
 [August 23, 2023] **Emma Casey joins the lab as a rotation student! Welcome Emma!**
 
 [August 18, 2023] **Had a blast at City Foundry STL for our lab outing, celebrating and welcoming our newest rotation student, Emma Casey, to the Jin lab!**
