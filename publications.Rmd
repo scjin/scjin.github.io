@@ -37,6 +37,8 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2023
 
+76 Ahmad N, Fazeli W, Schließke S, Lesca G, Gokce-Samar Z, Mekbib KY, **Jin SC**, Burton J, Hoganson G, Petersen A, Gracie S, Granger L, Bartels, E, Oppermann H, Kundishora AJ, Till M, Milleret-Pignot C, Dangerfield S, Viskochil D, Anderson KJ, Palculict TB, Schnur RE, Wentzensen IM, Tiller GE, Kahle KT, Kunz WS, Burkart S, Simons M, Sticht H, Jamra RA, Neuser S. [De novo variants in RAB11B cause various degrees of global developmental delay and intellectual disability in children](https://www.sciencedirect.com/science/article/abs/pii/S0887899423002813). ***Pediatric Neurology***.
+
 75 Pinard A, Ye W, Fraser SM, Rosenfeld JA, Pichurin P, Hickey SE, Guo D, Cecchi AC, Guey S, Aloui C, Lee K, Kraemer M, Alyemni SO, University of Washington Center for Mendelian Genomics, Bamshad MJ, Nickerson DA, Tournier-Lasserve E, Haider S, **Jin SC**, Smith ER, Kahle KT, Jan LY, He M, Boerio ML, Milewicz DM. [Rare variants in ANO1, encoding a Calcium-activated chloride channel, predispose to Moyamoya disease](https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awad172/7186631?login=false). ***Brain***.  
 
 74 Timberlake AT, McGee S, Allington G, Kiziltug E, Wolfe EM, Stiegler AL, Boggon TJ, Sanyoura M, Morrow M, Wenger TL, Fernandes EM, Caluseriu O, Persing JA, **Jin SC**, Lifton RP, Kahle KT, Kruszka P. [De novo variants implicate chromatin modification, transcriptional regulation, and retinoic acid signaling in syndromic craniosynostosis](https://www.sciencedirect.com/science/article/pii/S0002929723001015). ***American Journal of Human Genetics***.
