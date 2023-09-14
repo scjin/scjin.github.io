@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-08-08-2023.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-09-14-2023.pdf).
 
 *NIH Grants*
 
@@ -93,9 +93,7 @@ Zitian is a 2nd year PhD student at Washington University in St. Louis. She comp
 __Jenna Ulibarri__,
 Ph.D. Student (Molecular Genetics and Genomics)
 
-Jenna is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is developing computational and functional genomic strategies to elucidate the impact of copy number variations and contribute to the somatic variation catalog for the Somatic Mosaicism Across Human Tissues consortium.
-
-
+Jenna is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is focusing on the development of computational and functional genomic strategies within the context of studying Proteogenomics in peripheral neuropathy.
 
 -----
 
