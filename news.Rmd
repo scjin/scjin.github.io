@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[September 26, 2023] **Congratulations to our postdoc Yung-Chun Wang who has been awarded with a Scholarship to attend Cold Spring Harbor Laboratory's Scientific Writing Retreat Course.**
+
+[September 25, 2023] **Jason Bedwinek joins the lab as a senior research technician! Welcome Jason!**
+
 [August 31, 2023] **Big congrats to grad student Wendy Dong (joint with Jeff Milbrandt) for being selected into Washington University’s T32 Genome Analysis Training Program. We are so very proud of you!**
 
 [August 23, 2023] **Emma Casey joins the lab as a rotation student! Welcome Emma!**
