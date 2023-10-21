@@ -125,10 +125,10 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 
 ### Rotation Students and Interns
 
-<img src="images/Emma_Casey.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+<img src="images/Purva.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
-__Emma Casey__,
-Rotation Student (Molecular Genetics and Genomics)
+__Purva Patel__,
+Rotation Student (Computational and Systems Biology)
 
 
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
@@ -147,6 +147,8 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Emma Casey__ Rotation Student (Molecular Genetics and Genomics), 2023/08 - 2023/10
 
 __Justin Chen__ - Rotation Student (Computational and Systems Biology), 2023/04 - 2023/07, currently graduate student in Ting Wang's lab.
 
