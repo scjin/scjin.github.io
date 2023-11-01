@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[November 1, 2023] **Qichen Fu joins the lab as a rotation student! Welcome Qichen!**
+
 [October 20, 2023] **Purva Patel joins the lab as a rotation student! Welcome Purva!**
 
 [October 16, 2023] **Boo at the Zoo, decked out in festive splendor, crafted an unforgettable and enchanting adventure for our lab outing. A fantastic way to kick off the Halloween**
