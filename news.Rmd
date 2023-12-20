@@ -3,6 +3,12 @@ title: "News"
 output: html_document
 ---
 
+[December 19, 2023] **Big congrats to grad student Jenna Ulibarri for being selected into Washington University’s T32 Cellular and Molecular Biology Program. We are so very proud of you!**
+
+[December 15, 2023] **Celebrating the end of 2023 with a fantastic Jin Lab party at Chase Club in St. Louis! Excited for the incredible scientific breakthroughs ahead with this exceptionally talented and kind group.**
+
+<img src="images/LabOuting12152023.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [November 17, 2023] **Fantastic collaborative paper led by grad student Shujuan Zhao is now online in [Nature Communications](https://www.nature.com/articles/s41467-023-43062-z)**
 
 [November 1, 2023] **Qichen Fu joins the lab as a rotation student! Welcome Qichen!**

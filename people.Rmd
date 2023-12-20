@@ -91,7 +91,7 @@ Zitian is a 2nd year PhD student at Washington University in St. Louis. She comp
 <img src="images/Jenna_Ulibarri.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Jenna Ulibarri__,
-Ph.D. Student (Molecular Genetics and Genomics)
+Ph.D. Student and T32 CMB Fellow (Molecular Genetics and Genomics)
 
 Jenna is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is focusing on the development of computational and functional genomic strategies within the context of studying Proteogenomics in peripheral neuropathy.
 
