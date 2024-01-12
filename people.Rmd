@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-12-22-2023.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-01-12-2024.pdf).
 
 *NIH Grants*
 
@@ -84,7 +84,7 @@ Wendy is a 3rd year MD/PhD student at Washington University in St. Louis. She co
 <img src="images/ZitianTang.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Zitian Tang__,
-Ph.D. Student and Precision Medicine Pathway Fellow (Biomedical Informatics & Data Science)
+Ph.D. Candidate and Precision Medicine Pathway Fellow (Biomedical Informatics & Data Science)
 
 Zitian is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering and Computer Science at the Georgia Institute of Technology. She is developing computational strategies and tools to elucidate the impact of short tandem repeats and contribute to the somatic variation catalog for the Somatic Mosaicism Across Human Tissues consortium.
 
@@ -141,6 +141,12 @@ Rotation Student (Molecular Genetics and Genomics)
 
 __Tugce Iyiyol__,
 Undergraduate Student (WashU PreMed)
+
+<img src="images/Brian.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Brian Yu__,
+Undergraduate Student (WashU Computer Science and Finance)
+
 
 -----
 

@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 8, 2024] **Brian Yu joins the lab as an undergraduate researcher! Welcome Brian!**
+
 [January 8, 2024] **Vivien Li joins the lab as a rotation student! Welcome Vivien!**
 
 [December 19, 2023] **Big congrats to grad student Jenna Ulibarri for being selected into Washington University’s T32 Cellular and Molecular Biology Program. We are so very proud of you!**
