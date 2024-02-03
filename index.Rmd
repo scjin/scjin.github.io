@@ -12,7 +12,7 @@ Welcome to the Jin group in the [Department of Genetics](http://genetics.wustl.e
 We collaborate with clinicians, the [Pediatric Cardiac Genomics Consortium](https://benchtobassinet.com/), the [Peripheral Neuropathy Research Registry](https://thepnrr.org/), the [Cerebral Palsy Research Network](https://cprn.org/), and the [WashU Undiagnosed Diseases Network](https://sites.wustl.edu/undiagnosed/) to assemble thoroughly phenotyped cohorts for gene discovery. We also collaborate with experimentalists to design scalable high-throughput assays to model effects of disease-associated mutations. If you think any of this sounds cool consider [joining us](./careers.html) in working to make the world a better place.
 
 
-<img src="images/LabOuting12222023.png" style="width:100%; border:0; margin-right: 20px" align="top">
+<img src="images/Lab02032024.png" style="width:100%; border:0; margin-right: 20px" align="top">
 
 
 -----
