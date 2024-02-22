@@ -125,11 +125,6 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 
 ### Rotation Students and Interns
 
-<img src="images/Vivien.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Vivien Li__,
-Rotation Student (Molecular Cell Biology)
-
 <img src="images/Tugce.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Tugce Iyiyol__,
@@ -153,6 +148,10 @@ __Ziggy__
 
 ### Alumni
 
+#### *Rotation Students:*
+
+__Vivien Li__ - Rotation Student (Molecular Cell Biology), 2024/01 - 2024/03 
+
 __Qichen Fu__ - Rotation Student (Molecular Genetics and Genomics), 2023/11 - 2024/01
 
 __Purva Patel__ - Rotation Student (Computational and Systems Biology), 2023/10 - 2023/12
@@ -161,21 +160,11 @@ __Emma Casey__ - Rotation Student (Molecular Genetics and Genomics), 2023/08 - 2
 
 __Justin Chen__ - Rotation Student (Computational and Systems Biology), 2023/04 - 2023/07, currently graduate student in Ting Wang's lab.
 
-__Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04, currently data engineer at the Cathay United Bank.
-
 __Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04, currently graduate student in Michael Meers's lab.
-
-__Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently graduate student at Van Andel Institute.
 
 __Ai Zhang__ - Rotation Student (Human & Statistical Genetics), 2022/09 - 2022/11; currently graduate student in Gautam Dantas's lab.
 
 __Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022/07 - 2022/09; currently graduate student in Gautam Dantas's lab.
-
-__Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a junior at St. Olaf College.
-
-__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Neuroprep Scholar at WashU.
-
-__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate lab at Mount Sinai.
 
 __Yuxiao Xu__ - Rotation Student (WashU MSTP), 2022/05 - 2022/06; currently graduate student in Mayssa Mokalled's lab.
 
@@ -185,15 +174,36 @@ __Mariam Khanfar__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 
 
 __Kuangying Yang__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12; currently graduate student in Angela Hirbe's lab.
 
-__Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11; currently graduate student in Aristeidis Sotiras's lab.
-
-__Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11; currently graduate student in Ting Wang's lab. 
-
-__Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09; currently a software engineer at Capgemini.
+__Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11; currently graduate student in Ting Wang's lab.
 
 __Changfeng Chen__ - Rotation Student (Molecular Cell Biology), 2021/02 - 2021/04; currently graduate student in Benjamin Humphreys's lab.
 
 __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/02; currently graduate student in Gautam Dantas's lab.
+
+
+#### *Summer Interns:*
+
+__Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a junior at St. Olaf College.
+
+__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Neuroprep Scholar at WashU.
+
+__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate lab at Mount Sinai.
+
+__Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09; currently a software engineer at Capgemini.
+
+
+#### *Staff:*
+
+__Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04, currently data engineer at the Cathay United Bank.
+
+__Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently graduate student at Van Andel Institute.
+
+
+#### *Master's Students:*
+
+__Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11; currently graduate student in Aristeidis Sotiras's lab.
+
+__Shohaib Shaffiey__ - Master's student (Computer Science & Engineering), 2021/02 - 2021/05; currently Master's student at WashU.
 
 __Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04; currently bioinformatician in Dustin Baldridge's lab.
 
