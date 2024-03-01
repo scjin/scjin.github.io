@@ -117,7 +117,7 @@ Andrew is a research technician at Washington University in St. Louis after gett
 <img src="images/Jason.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Jason Bedwinek__,
-Senior Research Technician
+Senior Research Technician (Lab Manager)
 
 Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. His main area of interest is nucleic acid chemistry, especially as it relates to sequencing technologies. His main focus is on using functional genomic assays to associate underlying genetic variants with neurological pathologies.
 
