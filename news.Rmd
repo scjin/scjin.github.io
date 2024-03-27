@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[March 27, 2024] **Incredible headshots capturing the essence of our current Jin lab members! Huge thanks to our exceptional genetic department marketing manager, Eliza, for her outstanding work!**
+
+<img src="images/JinLab_2024.png" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [February 2, 2024] **Jin lab conquers the Dracula and Jurassic Island escape rooms at St Louis Escape, experiencing exhilarating spooks and thrills. Such an incredible and fun adventure!**
 
 <img src="images/IMG_8397.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
