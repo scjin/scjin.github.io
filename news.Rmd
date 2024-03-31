@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[March 29, 2024] **We marked the Jin lab’s 4th birthday at ChiliSpot. It's been an amazing four years, and here's to many more years of fun and productivity ahead!**
+
+<img src="images/LabBirthday2024.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [March 27, 2024] **Incredible headshots capturing the essence of our current Jin lab members! Huge thanks to our exceptional genetic department marketing manager, Eliza, for her outstanding work!**
 
 <img src="images/JinLab_2024.png" style="width:50%; border:0; margin-right: 20px" align="top">
