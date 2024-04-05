@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[April 5, 2024] **Emma Casey joins the lab for her thesis study. Welcome to the Jin lab!**
+
 [March 29, 2024] **We marked the Jin lab’s 4th birthday at ChiliSpot. It's been an amazing four years, and here's to many more years of fun and productivity ahead!**
 
 <img src="images/LabBirthday2024.jpg" style="width:50%; border:0; margin-right: 20px" align="top">

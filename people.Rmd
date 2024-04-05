@@ -81,6 +81,13 @@ Ph.D. Student and T32 CMB/IMSD Fellow (Molecular Genetics and Genomics)
 
 Jenna is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is focusing on the development of computational and functional genomic strategies within the context of studying Proteogenomics in peripheral neuropathy.
 
+<img src="images/Emma_Casey.jpeg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Emma Casey__,
+Ph.D. Student (Molecular Genetics and Genomics)
+
+Emma is a 1st year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of neurodegenerative diseases.
+
 <img src="images/Julie.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Julie Choi__,
