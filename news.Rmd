@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[April 8, 2024] **Congratulations to our undergrad Brian Yu for being awarded the BioSURF award!**
+
 [April 8, 2024] **Purva Patel joins the lab for her thesis study. Welcome to the Jin lab!**
 
 [April 5, 2024] **Emma Casey joins the lab for her thesis study. Welcome to the Jin lab!**
