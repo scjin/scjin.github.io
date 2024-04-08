@@ -88,6 +88,14 @@ Ph.D. Student (Molecular Genetics and Genomics)
 
 Emma is a 1st year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of neurodegenerative diseases.
 
+<img src="images/Purva.png" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Purva Patel__,
+Ph.D. Student (Computational & Systems Biology)
+
+Purva is a 1st year PhD student at Washington University in St. Louis. She earned her BS in Biology from University of Missouri-Columbia, followed by a master's degree in Bioinformatics from University of Missouri-Kansas City. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of Alzheimer's disease.
+
+
 <img src="images/Julie.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Julie Choi__,
@@ -98,7 +106,7 @@ Julie is a 3rd year Ph.D. student at Washington University in St. Louis. She com
 <img src="images/Wendy-2.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Wendy Dong__,
-MSTP Candidate and T32 GATP Fellow (Computational and Systems Biology)(Joint with Jeff Milbrandt)
+MSTP Candidate and T32 GATP Fellow (Computational & Systems Biology)(Joint with Jeff Milbrandt)
 
 Wendy is a 3rd year MD/PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering at the Duke University. She is co-mentored by Dr. Jeffery Milbrandt and Dr. Jin to elucidate comprehensive molecular/cellular phenotypes that underlie human pain transduction, transmission, and processing. 
 
