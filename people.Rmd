@@ -77,7 +77,7 @@ Zitian is a 2nd year PhD student at Washington University in St. Louis. She comp
 <img src="images/Jenna.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Jenna Ulibarri__,
-Ph.D. Student and T32 CMB/IMSD Fellow (Molecular Genetics and Genomics)
+Ph.D. Candidate and T32 CMB/IMSD Fellow (Molecular Genetics and Genomics)
 
 Jenna is a 2nd year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is focusing on the development of computational and functional genomic strategies within the context of studying Proteogenomics in peripheral neuropathy.
 
@@ -194,11 +194,11 @@ __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/
 
 #### *Summer Interns:*
 
-__Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a junior at St. Olaf College.
+__Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Physician-Scientist Kornfeld Post-Bac Scholar at WashU.
 
 __Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Neuroprep Scholar at WashU.
 
-__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate lab at Mount Sinai.
+__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate's lab at Mount Sinai.
 
 __Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09; currently a software engineer at Capgemini.
 
