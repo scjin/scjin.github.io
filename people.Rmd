@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-04-14-2024.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-04-29-2024.pdf).
 
 *NIH Grants*
 
@@ -216,7 +216,7 @@ __Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021
 
 __Shohaib Shaffiey__ - Master's student (Computer Science & Engineering), 2021/02 - 2021/05; currently Master's student at WashU.
 
-__Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04; currently bioinformatician in Dustin Baldridge's lab.
+__Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04; currently research specialist at the McDonnell Genome Institute.
 
 __Spencer King__ - Master's student (Computer Science & Engineering), 2020/05 - 2021/05; currently data scientist at Geneoscopy.
 
