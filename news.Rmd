@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[May 20, 2024] **Zefan (Vivien) Li joins the lab for her thesis study. Welcome to the Jin lab!**
+
 [May 10, 2024] **Congratulations to our grad students Emma and Purva who have been awarded with scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
 
 [April 26, 2024] **Congratulations to our grad student Julie Choi for being awarded the Annual Hope Center Retreat Poster Award!**
