@@ -96,7 +96,7 @@ Ph.D. Student (Computational & Systems Biology)
 Purva is a 1st year PhD student at Washington University in St. Louis. She earned her BS in Biology from University of Missouri-Columbia, followed by a master's degree in Bioinformatics from University of Missouri-Kansas City. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of Alzheimer's disease.
 
 
-<img src="images/Vivien.png" style="width:25%; border:0; margin-right: 20px" align="top">
+<img src="images/Vivien2.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Zefan (Vivien) Li__,
 Ph.D. Student (Molecular Cell Biology)
