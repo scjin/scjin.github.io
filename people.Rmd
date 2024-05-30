@@ -158,6 +158,11 @@ __Brian Yu__,
 Undergraduate Student and BioSURF Fellow (WashU Computer Science and Finance)
 
 
+<img src="images/Aria.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Aria Ma__,
+McDonnell Genome Institute OGR Summer Student
+
 -----
 
 ### Lab Pets

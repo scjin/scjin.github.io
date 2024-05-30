@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[May 29, 2024] **Aria Ma joins the lab as s summer intern! Welcome Aria!**
+
+[May 24, 2024] **Congratulations to our grad student Vivien who has been awarded with scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
+
 [May 20, 2024] **Zefan (Vivien) Li joins the lab for her thesis study. Welcome to the Jin lab!**
 
 [May 10, 2024] **Congratulations to our grad students Emma and Purva who have been awarded with scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
