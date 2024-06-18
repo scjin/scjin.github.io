@@ -84,7 +84,7 @@ Jenna is a 2nd year PhD student at Washington University in St. Louis. She compl
 <img src="images/Emma.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Emma Casey__,
-Ph.D. Student (Molecular Genetics and Genomics)
+Ph.D. Student and IMSD Fellow (Molecular Genetics and Genomics)
 
 Emma is a 1st year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of neurodegenerative diseases.
 
