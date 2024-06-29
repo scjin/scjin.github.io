@@ -140,7 +140,7 @@ output: html_document
 
 [June 17, 2022] **Congratulations to Julie (grad student in the Jin lab and Milbrandt lab) for passing her qualifying exam. Now officially a PhD candidate. Woot! Woot! Woot!**
 
-<img src="images/Julie_QE.jpg" style="width:30%; border:0; margin-right: 20px" align="top">
+<img src="images/Julie.jpg" style="width:30%; border:0; margin-right: 20px" align="top">
 
 [June 9, 2022] **Boating in the Boathouse at Forest Park is fun! Enjoying the sun with the lab members!**
 
