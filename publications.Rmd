@@ -11,9 +11,9 @@ Lab members in **bold**.
 
 ### Featured publications
 
-Lewis SA#, **Ruttenberg A#**, **Iyiyol T**, **Kong N**, **Jin SC&**, Kruer MC&. **Potential clinical applications of advanced genomic analysis in cerebral palsy**. ***Lancet eBioMedicine. In Press*** #Equal contribution; &Corresponding author
+Lewis SA#, **Ruttenberg A#**, **Iyiyol T**, **Kong N**, **Jin SC&**, Kruer MC&. 2024. [Potential clinical applications of advanced genomic analysis in cerebral palsy](https://www.sciencedirect.com/science/article/pii/S2352396424002640). ***eBioMedicine***. #Equal contribution; &Corresponding author.
 
-Duy PQ#, Jux Bettina#, **Zhao S#**, Mekbib KY, Dennis E, Dong W, Nelson-Williams C, Mehta NH, Shohfi JP, Juusola J, Allington G, Smith H, Marlin S, Belhous K, Estrada-Veras JI, Keren B, Mignot C, Flore LA, Palafoll IV, Alper SL, Lifton RP, Haider S, Moreno-De-Luca A, **Jin SC&**, Kolanus W&, Kahle KT&. 2024. [TRIM71 mutations cause a neurodevelopmental syndrome featuring ventriculomegaly and hydrocephalus](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae175/7687707). ***Brain***.  #Co-first authors; &Co-corresponding authors.
+Duy PQ#, Jux Bettina#, **Zhao S#**, Mekbib KY, Dennis E, Dong W, Nelson-Williams C, Mehta NH, Shohfi JP, Juusola J, Allington G, Smith H, Marlin S, Belhous K, Estrada-Veras JI, Keren B, Mignot C, Flore LA, Palafoll IV, Alper SL, Lifton RP, Haider S, Moreno-De-Luca A, **Jin SC&**, Kolanus W&, Kahle KT&. 2024. [TRIM71 mutations cause a neurodevelopmental syndrome featuring ventriculomegaly and hydrocephalus](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae175/7687707). ***Brain***. #Equal contribution; &Co-corresponding authors.
 
 **Zhao S#**, Mekbib KY#, van der Ent MA#, Allington G#, Prendergast A, Chau JE, Smith H, Shohfi J, Ocken J, Duran D, Furey CG, Hao LT, Duy PQ, Reeves BC, Zhang J, Nelson-Williams C, Chen D, Li B, Nottoli T, Bai S, Rolle M, Zeng X, Dong W, **Fu P-Y**, **Wang Y-C**, Mane S, Piwowarczyk P, Fehnel KP, See AP, Iskandar BJ, Aagaard-Kienitz B, Moyer QJ, Dennis E, Kiziltug E, Kundishora AJ, DeSpenza T Jr, Greenberg ABW, Kidanemariam SM, Hale AT, Johnston JM, Jackson EM, Storm PB, Lang SS, Butler WE, Carter BS, Chapman P, Stapleton CJ, Patel AB, Rodesch G, Smajda S, Berenstein A, Barak T, Erson-Omay EZ, Zhao H, Moreno-De-Luca A, Proctor MR, Smith ER, Orbach DB, Alper SL, Nicoli S, Boggon TJ, Lifton RP, Gunel M, King PD&, **Jin SC&**, Kahle KT&. 2023. [Mutation of key signaling regulators of cerebrovascular development in vein of Galen malformations](https://www.nature.com/articles/s41467-023-43062-z). ***Nature Communications***. #Equal contribution; &Corresponding author
 
@@ -43,7 +43,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2024
 
-86 Lewis SA#, **Ruttenberg A#**, **Iyiyol T**, **Kong N**, **Jin SC&**, Kruer MC&. **Potential clinical applications of advanced genomic analysis in cerebral palsy**. ***Lancet eBioMedicine. In Press***
+86 Lewis SA#, **Ruttenberg A#**, **Iyiyol T**, **Kong N**, **Jin SC&**, Kruer MC&. [Potential clinical applications of advanced genomic analysis in cerebral palsy](https://www.sciencedirect.com/science/article/pii/S2352396424002640). ***eBioMedicine***. #Co-first authors; &Co-corresponding authors.
 
 85 DeSpenza T Jr#, Singh A#, Allington G#, **Zhao S#**, Lee J#, Kizlitug E#, Prina ML, Desmet N, Dang HQ, Fields J, Nelson-Williams C, Zhang J, Mekbib KY, Dennis E, Mehta NH, Duy PQ, Shimelis H, Walsh LK, Marlier A, Deniz E, Lake EMR, Constable RT, Hoffman EJ, Lifton RP, Gulledge A, Fiering S, Moreno-De-Luca A, Haider S, Alper SL, **Jin SC**, Kahle K&, Luikart BW&. [Pathogenic variants in autism gene KATNAL2 cause hydrocephalus and disrupt neuronal connectivity by impairing ciliary microtubule dynamics](https://www.pnas.org/doi/10.1073/pnas.2314702121). ***PNAS***.  #Co-first authors; &Co-corresponding authors.
 
