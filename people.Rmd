@@ -150,13 +150,7 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 <img src="images/Brian.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Brian Yu__,
-Undergraduate Student and BioSURF Fellow (WashU Computer Science and Finance)
-
-
-<img src="images/Aria.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Aria Ma__,
-McDonnell Genome Institute OGR Summer Student
+Undergraduate Student (U of Chicago Computer Science)
 
 -----
 
@@ -201,6 +195,8 @@ __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/
 __Tugce Iyiyol__ - Undergraduate Student (WashU PreMed), 2022/08 - 2024/05
 
 #### *Summer Interns:*
+
+__Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08; currently a senior at Tufts University
 
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Physician-Scientist Kornfeld Post-Bac Scholar at WashU.
 
