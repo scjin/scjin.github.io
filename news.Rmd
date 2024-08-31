@@ -3,7 +3,7 @@ title: "News"
 output: html_document
 ---
 
-[August 30, 2024] **The lab received R01 funding (PI: Jin) from the National Institute of Neurological Disorders and Stroke for the project "Molecular and cellular characterization of congenital hydrocephalus"**
+[August 30, 2024] **The lab received R01 funding (PI: Jin) from the National Institute of Neurological Disorders and Stroke for the project "Molecular and cellular characterization of congenital hydrocephalus."**
 
 <img src="images/NOA.jpeg" style="width:50%; border:0; margin-right: 20px" align="top">
 
@@ -258,14 +258,14 @@ output: html_document
 
 [April 1, 2020] **Po-Ying Fu joins the lab as a Bioinformatics Research Analyst! Welcome Po-Ying!**
 
-[April 1, 2020] **The lab received R01 subaward funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project "Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus"**
+[April 1, 2020] **The lab received R01 subaward funding (PI: Kahle) from the National Institute of Neurological Disorders and Stroke for the project "Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus."**
 
-[April 1, 2020] **The lab received R00 funding (PI: Jin) from the National Heart, Lung, and Blood Institute for the project "Integrative Genomic Analysis of Congenital Heart Disease"**
+[April 1, 2020] **The lab received R00 funding (PI: Jin) from the National Heart, Lung, and Blood Institute for the project "Integrative Genomic Analysis of Congenital Heart Disease."**
 
-[April 1, 2020] **Jin Lab opens**		
+[April 1, 2020] **Jin Lab opens.**		
 
 [February 27, 2020] **Sam Peters joins the lab as a summmer intern! Welcome Sam!**
 
 [February 5, 2020] **Spencer King joins the lab as a summmer intern! Welcome Spencer! You are our first lab member!**  
 
-[January 1, 2020] **Postdoc Wanted: Computational Genomics in Congenital Disorders**
+[January 1, 2020] **Postdoc Wanted: Computational Genomics in Congenital Disorders.**
