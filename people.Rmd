@@ -9,14 +9,15 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-08-15-2024.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-08-30-2024.pdf).
 
 *NIH Grants*
 
+* R01NS131610: Molecular and Cellular Characterization of Congenital Hydrocephalus (Role: PI)(Active)
+* R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: Co-PI) (Active)
 * U19NS130607: INTERCEPT: Integrated Research Center for Human Pain Tissues (Role: Project 1 Co-PI and Data Core Co-PI) (Active)
 * UM1DA058219: WashU-VAI Somatic Mosaicism across Human Tissues (SMaHT) Program Genome Characterization Center (Role: Co-Investigator) (Active)
 * U24NS132103: WashU Somatic Mosaicism across Human Tissues (SMaHT) Program. Organizational Center (Role: Co-Investigator) (Active)
-* R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: MPI) (Active)
 * R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role: Co-Investigator) (Active)
 * R01NS117609: Human Genetics and Molecular Mechanisms of Vein of Galen Aneurysmal Malformation (Role: Co-Investigator) (Active)   
 * R01NS106298: Genomic Insights into the Neurobiology of Cerebral Palsy (Role: Co-Investigator) (Active)
@@ -93,7 +94,7 @@ Emma is a second year PhD student at Washington University in St. Louis. She ear
 __Purva Patel__,
 Ph.D. Student and Precision Medicine Pathway Fellow (Computational & Systems Biology)
 
-Purva is a second year PhD student at Washington University in St. Louis. She earned her BS in Biology from University of Missouri-Columbia, followed by a master's degree in Bioinformatics from University of Missouri-Kansas City. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of Alzheimer's disease.
+Purva is a second year PhD student at Washington University in St. Louis. She earned her BS in Biology from University of Missouri-Columbia, followed by a master's degree in Bioinformatics from University of Missouri-Kansas City. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of congenital hydrocephalus.
 
 
 <img src="images/Vivien2.jpg" style="width:25%; border:0; margin-right: 20px" align="top">

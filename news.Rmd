@@ -2,6 +2,11 @@
 title: "News"
 output: html_document
 ---
+
+[August 30, 2024] **The lab received R01 funding (PI: Jin) from the National Institute of Neurological Disorders and Stroke for the project "Molecular and cellular characterization of congenital hydrocephalus"**
+
+<img src="images/NOA.jpeg" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [August 14, 2024] **Congratulations to our grad student Nahyun Kong who has been selected as a predoctoral semifinalist for the Trainee Research Excellence Awards for the 2024 Annual Meeting of the American Society of Human Genetics!**
 
 [August 1, 2024] **Amazing presentation by our OGR Summer intern, Aria Ma! We've been so lucky to have you with us this summer. Let's keep in touch—we're sure our paths will cross again soon! 🌟**
