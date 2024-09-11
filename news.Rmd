@@ -43,7 +43,7 @@ output: html_document
 
 [February 2, 2024] **Jin lab conquers the Dracula and Jurassic Island escape rooms at St Louis Escape, experiencing exhilarating spooks and thrills. Such an incredible and fun adventure!**
 
-<img src="images/IMG_8397.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+<img src="images/EscapeRoom.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
 [January 8, 2024] **Brian Yu joins the lab as an undergraduate researcher! Welcome Brian!**
 
@@ -75,7 +75,7 @@ output: html_document
 
 [August 18, 2023] **Had a blast at City Foundry STL for our lab outing, celebrating and welcoming our newest rotation student, Emma Casey, to the Jin lab!**
 
-<img src="images/IMG_8273.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+<img src="images/LabOuting08182023.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
  
 [July 26, 2023] **Andrew Ruttenberg joins the lab as a research technician II! Welcome Andrew!** 
 
