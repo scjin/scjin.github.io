@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[Sept 9, 2024] **Owen Limbrick joins the lab as an undergraduate researcher! Welcome Owen!**
+
 [August 30, 2024] **The lab received R01 funding (PI: Jin) from the National Institute of Neurological Disorders and Stroke for the project "Molecular and cellular characterization of congenital hydrocephalus."**
 
 <img src="images/NOA.jpeg" style="width:50%; border:0; margin-right: 20px" align="top">
