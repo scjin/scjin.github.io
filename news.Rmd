@@ -3,7 +3,13 @@ title: "News"
 output: html_document
 ---
 
-[Sept 9, 2024] **Owen Limbrick joins the lab as an undergraduate researcher! Welcome Owen!**
+[October 4, 2024] **Just had an awesome lab outing at 360 St. Louis to celebrate our achievements and welcome new members! Great views and even better company!**
+
+<img src="images/LabOuting10042024.jpeg" style="width:50%; border:0; margin-right: 20px" align="top">
+
+[September 30, 2024] **Tingkuan Chu joins the lab as a rotation student! Welcome Tingkuan!**
+
+[September 9, 2024] **Owen Limbrick joins the lab as an undergraduate researcher! Welcome Owen!**
 
 [August 30, 2024] **The lab received R01 funding (PI: Jin) from the National Institute of Neurological Disorders and Stroke for the project "Molecular and cellular characterization of congenital hydrocephalus."**
 
