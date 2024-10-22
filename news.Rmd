@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[October 21, 2024] **Yu Liu joins the lab as a rotation student! Welcome Yu!**
+
 [October 4, 2024] **Just had an awesome lab outing at 360 St. Louis to celebrate our achievements and welcome new members! Great views and even better company!**
 
 <img src="images/LabOuting10042024.jpeg" style="width:50%; border:0; margin-right: 20px" align="top">
