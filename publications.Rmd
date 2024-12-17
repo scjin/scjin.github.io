@@ -11,6 +11,9 @@ Lab members in **bold**.
 
 ### Featured publications
 
+Allington G#, Mehta NH#, Dennis E#, Mekbib KY#, Reeves B, Kiziltug E, Chen S, **Zhao S**, Duy PQ, Saleh M, Ang LC, Fan B, Nelson-Williams C, Moreno-de-Luca A, Haider S, Lifton RP, Alper SL, McGee S&, **Jin SC&**, Kahle KT&. 2024. [De novo variants disrupt an LDB1-regulated transcriptional network in congenital ventriculomegaly](https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae395/7925765?redirectedFrom=PDF). ***Brain***. #Equal contribution; &Co-corresponding authors.
+
+
 Lewis SA#, **Ruttenberg A#**, **Iyiyol T**, **Kong N**, **Jin SC&**, Kruer MC&. 2024. [Potential clinical applications of advanced genomic analysis in cerebral palsy](https://www.sciencedirect.com/science/article/pii/S2352396424002640). ***eBioMedicine***. #Co-first authors; &Co-corresponding authors.
 
 Duy PQ#, Jux Bettina#, **Zhao S#**, Mekbib KY, Dennis E, Dong W, Nelson-Williams C, Mehta NH, Shohfi JP, Juusola J, Allington G, Smith H, Marlin S, Belhous K, Estrada-Veras JI, Keren B, Mignot C, Flore LA, Palafoll IV, Alper SL, Lifton RP, Haider S, Moreno-De-Luca A, **Jin SC&**, Kolanus W&, Kahle KT&. 2024. [TRIM71 mutations cause a neurodevelopmental syndrome featuring ventriculomegaly and hydrocephalus](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae175/7687707). ***Brain***. #Equal contribution; &Co-corresponding authors.
@@ -42,6 +45,8 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 **Press coverage:** [New Haven Register](https://www.nhregister.com/news/article/Study-revealing-links-between-heart-disease-and-12264612.php), [MedicineNet](https://www.medicinenet.com/script/main/art.asp?articlekey=207467) 
 
 ### 2024
+
+86 Allington G#, Mehta NH#, Dennis E#, Mekbib KY#, Reeves B, Kiziltug E, Chen S, **Zhao S**, Duy PQ, Saleh M, Ang LC, Fan B, Nelson-Williams C, Moreno-de-Luca A, Haider S, Lifton RP, Alper SL, McGee S&, **Jin SC&**, Kahle KT&. [De novo variants disrupt an LDB1-regulated transcriptional network in congenital ventriculomegaly](https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae395/7925765?redirectedFrom=PDF). ***Brain***. #Equal contribution; &Co-corresponding authors.
 
 85 Lewis SA#, **Ruttenberg A#**, **Iyiyol T**, **Kong N**, **Jin SC&**, Kruer MC&. [Potential clinical applications of advanced genomic analysis in cerebral palsy](https://www.sciencedirect.com/science/article/pii/S2352396424002640). ***eBioMedicine***. #Co-first authors; &Co-corresponding authors.
 
