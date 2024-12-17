@@ -35,7 +35,7 @@ Idiopathic peripheral neuropathy (IPN), a result of damage to the peripheral ner
 
 ***Investigating Complex Inheritance in Congenital Heart Disease***
 
-Congenital heart disease (CHD) affects approximately 1% of live births and remains the leading cause of mortality from birth defects. Despite extensive research efforts, the etiology of ~55% of CHD cases remains unexplained by environmental triggers, chromosomal abnormalities, or monogenic factors. Increasing evidence suggests that simple genetic models do not fully account for all CHD cases, necessitating more nuanced approaches and advanced genomic technologies. Our work focuses on leveraging short-read and long-read sequencing technologies, combined with zebrafish functional experiments, to investigate complex genetic variations and deviations from Mendelian inheritance patterns that underlie congenital heart disease.
+Congenital heart disease affects approximately 1% of live births and remains the leading cause of mortality from birth defects. Despite extensive research efforts, the etiology of ~55% of cases remains unexplained by environmental triggers, chromosomal abnormalities, or monogenic factors. Increasing evidence suggests that simple genetic models do not fully account for all cases with congenital heart disease, necessitating more nuanced approaches and advanced genomic technologies. Our work focuses on leveraging short-read and long-read sequencing technologies, combined with zebrafish functional experiments, to investigate complex genetic variations and deviations from Mendelian inheritance patterns that underlie congenital heart disease.
 
 ***Human Genetics and Molecular Mechanisms of Human Neurological Diseases***
 
