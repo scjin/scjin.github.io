@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 6, 2025] **Sam Greenberg joins the lab as a rotation student! Welcome Sam!**
+
 [December 20, 2024] **Huge congratulations to Emma Casey on receiving her NINDS diversity supplement grant award! What an amazing Christmas gift!**
 
 [December 17, 2024] **Big congrats to Yung-Chun Wang for receiving the Human Cells, Tissues, and Organoids Core Microgrant! This will support generating neural progenitor cells for the uniparental disomy patient. Great work, Yung-Chun!**

@@ -148,6 +148,11 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 
 ### Rotation Students and Interns
 
+<img src="images/SamGreenberg.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Sam Greenberg__,
+Rotation Student (Molecular Genetics and Genomics)
+
 <img src="images/Yu_Liu.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Yu Liu__,
