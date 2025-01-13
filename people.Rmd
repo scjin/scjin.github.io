@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-12-22-2024.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-1-12-2025.pdf).
 
 *NIH Grants*
 
@@ -85,14 +85,14 @@ Jenna is a third year PhD student at Washington University in St. Louis. She com
 <img src="images/Emma.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Emma Casey__,
-Ph.D. Student and IMSD/Precision Medicine Pathway Fellow (Molecular Genetics and Genomics)
+Ph.D. Student and IMSD/NINDS Diversity Supplement/Precision Medicine Pathway Fellow (Molecular Genetics and Genomics)
 
-Emma is a second year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of neurodegenerative diseases.
+Emma is a second year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to understand how mitochondrial and nuclear genomes influence the pathomechanisms of peripheral neuropathy and congenital hydrocephalus.
 
 <img src="images/Purva.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Purva Patel__,
-Ph.D. Student and Precision Medicine Pathway Fellow (Computational & Systems Biology)
+Ph.D. Student (Computational & Systems Biology)
 
 Purva is a second year PhD student at Washington University in St. Louis. She earned her BS in Biology from University of Missouri-Columbia, followed by a master's degree in Bioinformatics from University of Missouri-Kansas City. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of congenital hydrocephalus.
 
