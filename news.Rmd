@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 13, 2025] **Wilber Palma joins the lab as a rotation student! Welcome Wilber!**
+
 [January 6, 2025] **Sam Greenberg joins the lab as a rotation student! Welcome Sam!**
 
 [December 20, 2024] **Huge congratulations to Emma Casey on receiving her NINDS diversity supplement grant award! What an amazing Christmas gift!**
