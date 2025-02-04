@@ -11,7 +11,7 @@ Lab members in **bold**.
 
 ### Featured publications
 
-**Choi J#**, **Tang Z#**, **Dong W**, **Ulibarri J**, **Mehinovic E**, Thomas S, Höke A, **Jin SC**. 2025. **Unleashing the Power of Multi-Omics: Unraveling the Molecular Landscape of Peripheral Neuropathy**. ***Annals of Clinical and Translational Neurology***. #Equal contribution
+**Choi J#**, **Tang Z#**, **Dong W**, **Ulibarri J**, **Mehinovic E**, Thomas S, Höke A, **Jin SC**. 2025. **Unleashing the power of multi-omics: unraveling the molecular landscape of peripheral neuropathy**. ***Annals of Clinical and Translational Neurology***. #Equal contribution
 
 Allington G#, Mehta NH#, Dennis E#, Mekbib KY#, Reeves B, Kiziltug E, Chen S, **Zhao S**, Duy PQ, Saleh M, Ang LC, Fan B, Nelson-Williams C, Moreno-de-Luca A, Haider S, Lifton RP, Alper SL, McGee S&, **Jin SC&**, Kahle KT&. 2024. [De novo variants disrupt an LDB1-regulated transcriptional network in congenital ventriculomegaly](https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae395/7925765?redirectedFrom=PDF). ***Brain***. #Equal contribution; &Co-corresponding authors.
 
@@ -50,7 +50,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 88 Dong W, **Jin SC**, Sierant MC, Lu Z, Li B, Lu Q, Morton SU, Zhang J, López-Giráldez F, Nelson-Williams C, Knight J, Zhao H, Cao J, Mane S, Gruber PJ, Lek M, Goldmuntz E, Deanfield J, Giardini A, Mital S, Russell M, Gaynor JW, Cnota JF, Wagner M, Srivastava D, Bernstein D, Porter, Jr GA, Newburger J, Roberts AE, Yandell M, Yost HJ, Tristani-Firouzi M, Kim R, Seidman J, Chung WK, Gelb BD, Seidman CE, Lifton RP#, Brueckner M#. **Recessive genetic contribution to congenital heart disease in 5,424 probands**. ***PNAS*** 
 
-87 **Choi J#**, **Tang Z#**, **Dong W**, **Ulibarri J**, **Mehinovic E**, Thomas S, Höke A, **Jin SC**. **Unleashing the Power of Multi-Omics: Unraveling the Molecular Landscape of Peripheral Neuropathy**. ***Annals of Clinical and Translational Neurology***. #Equal contribution
+87 **Choi J#**, **Tang Z#**, **Dong W**, **Ulibarri J**, **Mehinovic E**, Thomas S, Höke A, **Jin SC**. **Unleashing the power of multi-omics: unraveling the molecular landscape of peripheral neuropathy**. ***Annals of Clinical and Translational Neurology***. #Equal contribution
 
 
 ### 2024
