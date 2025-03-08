@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[March 5, 2025] **Big congrats to Zefan (Vivien) Li for receiving a full scholarship to attend the Bruce Weir Summer Institute in Statistical Genetics at Georgia Tech. Woot woot!**
+
 [January 13, 2025] **Wilber Palma joins the lab as a rotation student! Welcome Wilber!**
 
 [January 6, 2025] **Sam Greenberg joins the lab as a rotation student! Welcome Sam!**

@@ -153,12 +153,6 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 __Wilber Palma__,
 Rotation Student (Molecular Genetics and Genomics)
 
-
-<img src="images/SamGreenberg.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Sam Greenberg__,
-Rotation Student (Molecular Genetics and Genomics)
-
 <img src="images/Brian.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Brian Yu__,
@@ -183,7 +177,9 @@ __Ziggy__
 
 #### *Rotation Students:*
 
-__Yu Liu__ - Rotation Student (Molecular Cell Biology), 2024/10 - 2025/2
+__Sam Greenberg__ - Rotation Student (Molecular Genetics and Genomics), 2025/01 - 2025/03
+
+__Yu Liu__ - Rotation Student (Molecular Cell Biology), 2024/10 - 2025/02
 
 __Tingkuan Chu__ - Rotation Student (Molecular Genetics and Genomics), 2024/09 - 2024/11
 
