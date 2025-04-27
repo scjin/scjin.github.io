@@ -11,6 +11,8 @@ Lab members in **bold**.
 
 ### Featured publications
 
+**Tang Z#**, Ovunc SS#, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. [Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v2). ***medRxiv***. #Equal contribution; &Co-corresponding authors. 
+
 **Choi J#**, **Tang Z#**, **Dong W**, **Ulibarri J**, **Mehinovic E**, Thomas S, Höke A, **Jin SC**. 2025. [Unleashing the power of multi-omics: unraveling the molecular landscape of peripheral neuropathy](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.70019). ***Annals of Clinical and Translational Neurology***. #Equal contribution
 
 Allington G#, Mehta NH#, Dennis E#, Mekbib KY#, Reeves B, Kiziltug E, Chen S, **Zhao S**, Duy PQ, Saleh M, Ang LC, Fan B, Nelson-Williams C, Moreno-de-Luca A, Haider S, Lifton RP, Alper SL, McGee S&, **Jin SC&**, Kahle KT&. 2024. [De novo variants disrupt an LDB1-regulated transcriptional network in congenital ventriculomegaly](https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae395/7925765?redirectedFrom=PDF). ***Brain***. #Equal contribution; &Co-corresponding authors.
