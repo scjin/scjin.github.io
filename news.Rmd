@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[May 9, 2025] **11 years ago I walked across the stage at the 560 Music Center to receive my PhD. Today I returned to the same hall to hood my first PhD student Shujuan Zhao. Full‑circle moment, and I’m so grateful to give back to the place that shaped me.**
+
+<img src="images/Shujuan_Hooding.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [March 5, 2025] **Big congrats to Zefan (Vivien) Li for receiving a full scholarship to attend the Bruce Weir Summer Institute in Statistical Genetics at Georgia Tech. Woot woot!**
 
 [January 13, 2025] **Wilber Palma joins the lab as a rotation student! Welcome Wilber!**
@@ -145,7 +149,6 @@ output: html_document
 
 <img src="images/Outing-10-01-2022.jpg" style="width:40%; border:0; margin-right: 20px" align="top">
 
-
 [Sept 27, 2022] **Incredible experience and privilege to work with Jeff Milbrandt, Rob Gereau, Aaron DiAntonio, Valeria Cavalli, Guoyan Zhao, Bryan Copits and many other collaborators. We are proud of our WashU U19 Center being selected for funding!**
 
 [INTERCEPT: Integrated Research Center for human Pain Tissues](https://reporter.nih.gov/search/qS4SPGBPCUCdw9aW-6gm9g/project-details/10593843)
@@ -167,10 +170,6 @@ output: html_document
 [June 30, 2022] **Vincent Gillespie joins the lab as a rotation student! Welcome Vincent!**
 
 [June 22, 2022] **Congratulations to grad students Nahyun Kong and Julie Choi on being selected into the prestigious Precision Medicine Pathway. We are so proud of you both.**
-
-[June 17, 2022] **Congratulations to Julie (grad student in the Jin lab and Milbrandt lab) for passing her qualifying exam. Now officially a PhD candidate. Woot! Woot! Woot!**
-
-<img src="images/Julie.jpg" style="width:30%; border:0; margin-right: 20px" align="top">
 
 [June 9, 2022] **Boating in the Boathouse at Forest Park is fun! Enjoying the sun with the lab members!**
 
@@ -205,8 +204,6 @@ output: html_document
 [February 9, 2022] **Lab outing to celebrate our recent publication and the Hydrocephalus Association Innovator Award!**
 
 <img src="images/02-09-2022.jpeg" style="width:75%; border:0; margin-right: 20px" align="top">
-
-[January 17, 2022] **Julie Choi joins the lab for her thesis study. Julie will be co-advised by Peter and Dr. Jeff Milbrandt. Welcome back Julie!**
 
 [January 17, 2022] **Nahyun Kong joins the lab as a rotation student! Welcome Nahyun!**
 
