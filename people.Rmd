@@ -54,13 +54,6 @@ David earned a B.S. in Agriculture Chemistry from the National Taiwan University
 
 ### Graduate Students
 
-<img src="images/Shujuan.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Shujuan Zhao__,
-Ph.D. Candidate and Markey Pathway Fellow (Molecular Genetics and Genomics)(Joint with Kris Kahle at MGH)
-
-Shujuan is a sixth year Ph.D. student at Washington University in St. Louis. She completed her BS in Pharmaceutical Engineering at the Central South University. She is working with Dr. Jin and Dr. Kahle at Massachusetts General Hospital to figure out the genetic etiology and molecular mechanisms of Vein of Galen aneurysmal malformation and Moyamoya disease.
-
 <img src="images/Nahyun.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Nahyun Kong__,
@@ -104,13 +97,6 @@ Ph.D. Student and Precision Medicine Pathway Fellow (Molecular Cell Biology)
 
 Vivien is a second year PhD student at Washington University in St. Louis. She earned her BS in Biological Science from Peking University. Her research interests lie in utilization of human genetics and multi-omics genomics to uncover the genetic underpinnings of idiopathic peripheral neuropathy.
 
-<img src="images/Julie.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Julie Choi__,
-Ph.D. Candidate and T32 GATP/Precision Medicine Pathway Fellow (Molecular Genetics and Genomics)(Joint with Jeff Milbrandt)
-
-Julie is a fourth year Ph.D. student at Washington University in St. Louis. She completed her BS in Biology and Public Health at the University of Texas at Austin. She is working with Dr. Jin and Dr. Jeff Milbrandt to figure out the genetic etiology and molecular mechanisms of hereditary neuropathy. 
-
 <img src="images/Wendy-2.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Wendy Dong__,
@@ -153,11 +139,6 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 __Brian Yu__,
 Undergraduate Student (U of Chicago Computer Science)
 
-<img src="images/Owen.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Owen Limbrick__,
-Undergraduate Student (WashU PreMed)
-
 -----
 
 ### Lab Pets
@@ -169,6 +150,10 @@ __Ziggy__
 -----
 
 ### Alumni
+
+__Shujuan Zhao__ - Graduate Student (Molecular Genetics and Genomics), 2020/09 - 2025/08
+
+__Owen Limbrick__ - WashU Undergraduate Student, 2024/09 - 2025/05
 
 #### *Rotation Students:*
 
