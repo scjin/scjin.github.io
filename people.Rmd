@@ -151,9 +151,9 @@ __Ziggy__
 
 ### Alumni
 
-__Shujuan Zhao__ - Graduate Student (Molecular Genetics and Genomics), 2020/09 - 2025/08
+#### *Graduate Students:*
 
-__Owen Limbrick__ - WashU Undergraduate Student, 2024/09 - 2025/05
+__Shujuan Zhao__ - Graduate Student (Molecular Genetics and Genomics), 2020/09 - 2025/08
 
 #### *Rotation Students:*
 
@@ -192,6 +192,8 @@ __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/
 #### *Undergraduate Students:*
 
 __Tugce Iyiyol__ - Undergraduate Student (WashU PreMed), 2022/08 - 2024/05
+
+__Owen Limbrick__ - Undergraduate Student (WashU PreMed), 2024/09 - 2025/05
 
 #### *Summer Interns:*
 
