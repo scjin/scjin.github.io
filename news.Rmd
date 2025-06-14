@@ -51,8 +51,6 @@ output: html_document
 
 [May 10, 2024] **Congratulations to our grad students Emma and Purva who have been awarded with scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
 
-[April 26, 2024] **Congratulations to our grad student Julie Choi for being awarded the Annual Hope Center Retreat Poster Award!**
-
 [April 8, 2024] **Congratulations to our undergrad Brian Yu for being awarded the BioSURF award!**
 
 [April 8, 2024] **Purva Patel joins the lab for her thesis study. Welcome to the Jin lab!**
@@ -147,8 +145,6 @@ output: html_document
 
 <img src="images/IMG_7894.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
-[Oct 13, 2022] **Big congrats to grad student Julie Choi for being selected into Washington University’s T32 Genome Analysis Training Program. We are so very proud of you!**
-
 [Sept 30, 2022] **Former and current lab affiliates went to Pappy's for its famous ribs and then headed to the City Museum. We all had a blast!**
 
 <img src="images/Outing-10-01-2022.jpg" style="width:40%; border:0; margin-right: 20px" align="top">
@@ -224,8 +220,6 @@ output: html_document
 [November 2, 2021] **Our first annual lab retreat was lots of fun at the Boathouse at Forest Park.**
 
 <img src="images/FirstLabRetreat.jpg" style="width:75%; border:0; margin-right: 20px" align="top">
-
-[October 28, 2021] **Julie Choi joins the lab as a rotation student! Welcome Julie!**
 
 [October 1, 2021] **Dr. Jin has been awarded the 2021 Children's Discovery Institute Faculty Scholar Award from WashU CDI for the project "Human genetics and molecular mechanisms of cerebral palsy."**
 
