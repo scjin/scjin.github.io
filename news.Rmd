@@ -41,7 +41,7 @@ output: html_document
 
 <img src="images/Aria_OGR.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
-[June 26, 2024] **Congratulations to our grad students Purva Patel, Emma Casey, and Vivien Li on being selected into the prestigious Precision Medicine Pathway, following in the footsteps of Nahyun, Zitian, and Julie. Congratulations to all!**
+[June 26, 2024] **Congratulations to our grad students Purva Patel, Emma Casey, and Vivien Li on being selected into the prestigious Precision Medicine Pathway, following in the footsteps of Nahyun and Zitian. Congratulations to all!**
 
 [May 29, 2024] **Aria Ma joins the lab as s summer intern! Welcome Aria!**
 
@@ -169,7 +169,7 @@ output: html_document
 
 [June 30, 2022] **Vincent Gillespie joins the lab as a rotation student! Welcome Vincent!**
 
-[June 22, 2022] **Congratulations to grad students Nahyun Kong and Julie Choi on being selected into the prestigious Precision Medicine Pathway. We are so proud of you both.**
+[June 22, 2022] **Congratulations to grad student Nahyun Kong on being selected into the prestigious Precision Medicine Pathway. We are so proud of you both.r*
 
 [June 9, 2022] **Boating in the Boathouse at Forest Park is fun! Enjoying the sun with the lab members!**
 
