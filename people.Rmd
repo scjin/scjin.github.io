@@ -113,14 +113,7 @@ Wendy is a fourth year MD/PhD student at Washington University in St. Louis. She
 __Elvisa Mehinovic__,
 Bioinformaticist 
 
-Elle is a bioinformaticist and master's student at Washington University in St. Louis. She completed a BS degree in computational biology at Webster University. Her favorite hobbies include cuddling with her cat and drawing.  
-
-<img src="images/Andrew.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Andrew Ruttenberg__,
-Bioinformatics Research Analyst
-
-Andrew is a Bioinformatics Research Analyst at Washington University in St. Louis after getting his BS in Computer Science and Mathematics there. He is studying the role de novo structural variants play in neurodevelopment movement disorders.
+Elle completed her M.S. in Biomedical Informatics & Data Science at Washington University. Her favorite hobbies include cuddling with her cat and drawing.  
 
 
 <img src="images/Jason.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
@@ -193,13 +186,15 @@ __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/
 
 #### *Undergraduate Students:*
 
+__Andrew Ruttenberg__ - Undergraduate Student (WashU PreMed), 2022/09 - 2025/06; currently graduate student at U of Toronto.
+
 __Tugce Iyiyol__ - Undergraduate Student (WashU PreMed), 2022/08 - 2024/05
 
 __Owen Limbrick__ - Undergraduate Student (WashU PreMed), 2024/09 - 2025/05
 
 #### *Summer Interns:*
 
-__Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08; currently a senior at Tufts University
+__Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08; currently a senior at Tufts University.
 
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Physician-Scientist Kornfeld Post-Bac Scholar at WashU.
 
