@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-5-27-2025.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-8-3-2025.pdf).
 
 *NIH Grants*
 
@@ -156,7 +156,7 @@ __Sam Greenberg__ - Rotation Student (Molecular Genetics and Genomics), 2025/01 
 
 __Yu Liu__ - Rotation Student (Molecular Cell Biology), 2024/10 - 2025/02, currently graduate student in Kelly Bolton's lab.
 
-__Tingkuan Chu__ - Rotation Student (Molecular Genetics and Genomics), 2024/09 - 2024/11
+__Tingkuan Chu__ - Rotation Student (Molecular Genetics and Genomics), 2024/09 - 2024/11, currently graduate student in Jeffrey Milbrandt's lab.
 
 __Qichen Fu__ - Rotation Student (Molecular Genetics and Genomics), 2023/11 - 2024/01, currently graduate student in Ting Wang's lab.
 
@@ -186,7 +186,7 @@ __Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/
 
 #### *Undergraduate Students:*
 
-__Andrew Ruttenberg__ - Undergraduate Student (WashU PreMed), 2022/09 - 2025/06; currently graduate student at U of Toronto.
+__Andrew Ruttenberg__ - Undergraduate Student (WashU PreMed), 2022/09 - 2025/06; currently a PhD student at U of Toronto.
 
 __Tugce Iyiyol__ - Undergraduate Student (WashU PreMed), 2022/08 - 2024/05
 
@@ -198,7 +198,7 @@ __Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08; 
 
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Physician-Scientist Kornfeld Post-Bac Scholar at WashU.
 
-__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Neuroprep Scholar at WashU.
+__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a master's student at Wake Forest U.
 
 __Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate's lab at Mount Sinai.
 
@@ -209,7 +209,7 @@ __Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09; 
 
 __Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04, currently data engineer at the Cathay United Bank.
 
-__Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently graduate student at Van Andel Institute.
+__Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently a PhD students at Van Andel Institute.
 
 
 #### *Master's Students:*
