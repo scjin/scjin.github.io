@@ -59,35 +59,35 @@ David earned a B.S. in Agriculture Chemistry from the National Taiwan University
 __Nahyun Kong__,
 Ph.D. Candidate and Mogam Science Scholar/Precision Medicine Pathway Fellow (Human & Statistical Genetics)
 
-Nahyun is a fourth year Ph.D. student at Washington University in St. Louis. She completed her BS in Biological Sciences at the Korea Advanced Institute of Science and Technology. She is developing genomic apporaches to figure out the genetic etiology and molecular mechanisms of rare movement disorders.
+Nahyun is a 5th-year Ph.D. student at Washington University in St. Louis. She earned her B.S. in Biological Sciences from the Korea Advanced Institute of Science and Technology. Her research focuses on developing novel methodologies to investigate the roles of uniparental disomy, mitochondrial genome variants, and somatic variants in both disease and normal states.
 
 <img src="images/Zitian.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Zitian Tang__,
 Ph.D. Candidate and Precision Medicine Pathway Fellow (Biomedical Informatics & Data Science)
 
-Zitian is a third year PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering and Computer Science at the Georgia Institute of Technology. She is developing computational strategies and tools to elucidate the impact of short tandem repeats and contribute to the somatic variation catalog for the Somatic Mosaicism Across Human Tissues consortium.
+Zitian is a 4th-year PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering and Computer Science at the Georgia Institute of Technology. She is developing computational strategies and tools to elucidate the impact of short tandem repeats and contribute to the somatic variation catalog for the Somatic Mosaicism Across Human Tissues consortium.
 
 <img src="images/Jenna.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Jenna Ulibarri__,
 Ph.D. Candidate and T32 CMB/IMSD Fellow (Molecular Genetics and Genomics)
 
-Jenna is a third year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is focusing on the development of computational and functional genomic strategies within the context of studying Proteogenomics in peripheral neuropathy.
+Jenna is a 4th-year PhD student at Washington University in St. Louis. She completed her BS in Biology at the University of New Mexico-Albuquerque. She is focusing on the development of computational and functional genomic strategies within the context of studying Proteogenomics in peripheral neuropathy.
 
 <img src="images/Emma.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Emma Casey__,
 Ph.D. Student and IMSD/NINDS Diversity Supplement/Precision Medicine Pathway Fellow (Molecular Genetics and Genomics)
 
-Emma is a second year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to understand how mitochondrial and nuclear genomes influence the pathomechanisms of peripheral neuropathy and congenital hydrocephalus.
+Emma is a 3rd-year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to understand how mitochondrial and nuclear genomes influence the pathomechanisms of peripheral neuropathy and congenital hydrocephalus.
 
 <img src="images/Purva.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Purva Patel__,
 Ph.D. Student and Precision Medicine Pathway Fellow (Computational & Systems Biology)
 
-Purva is a second year PhD student at Washington University in St. Louis. She earned her BS in Biology from University of Missouri-Columbia, followed by a master's degree in Bioinformatics from University of Missouri-Kansas City. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of congenital hydrocephalus.
+Purva is a 3rd-year PhD student at Washington University in St. Louis. She earned her BS in Biology from University of Missouri-Columbia, followed by a master's degree in Bioinformatics from University of Missouri-Kansas City. Her research interests lie in utilization of human genetics and functional genomics to uncover the genetic underpinnings of congenital hydrocephalus.
 
 
 <img src="images/Vivien2.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
@@ -95,14 +95,14 @@ Purva is a second year PhD student at Washington University in St. Louis. She ea
 __Zefan (Vivien) Li__,
 Ph.D. Student and Precision Medicine Pathway Fellow (Molecular Cell Biology)
 
-Vivien is a second year PhD student at Washington University in St. Louis. She earned her BS in Biological Science from Peking University. Her research interests lie in utilization of human genetics and multi-omics genomics to uncover the genetic underpinnings of idiopathic peripheral neuropathy.
+Vivien is a 3rd-year PhD student at Washington University in St. Louis. She earned her BS in Biological Science from Peking University. Her research interests lie in utilization of human genetics and multi-omics genomics to uncover the genetic underpinnings of idiopathic peripheral neuropathy.
 
 <img src="images/Wendy-2.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Wendy Dong__,
 MSTP Candidate and T32 GATP Fellow (Computational & Systems Biology)(Joint with Jeff Milbrandt)
 
-Wendy is a fourth year MD/PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering at the Duke University. She is co-mentored by Dr. Jeffery Milbrandt and Dr. Jin to elucidate comprehensive molecular/cellular phenotypes that underlie human pain transduction, transmission, and processing. 
+Wendy is a 3rd-year MD/PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering at the Duke University. She is co-mentored by Dr. Jeffery Milbrandt and Dr. Jin to elucidate comprehensive molecular/cellular phenotypes that underlie human pain transduction, transmission, and processing. 
 
 -----
 
