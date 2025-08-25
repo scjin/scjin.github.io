@@ -78,7 +78,7 @@ Jenna is a 4th-year PhD student at Washington University in St. Louis. She compl
 <img src="images/Emma.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Emma Casey__,
-Ph.D. Student and IMSD/NINDS Diversity Supplement/Precision Medicine Pathway Fellow (Molecular Genetics and Genomics)
+Ph.D. Student and T32 CMB/IMSD/NINDS Diversity Supplement/Precision Medicine Pathway Fellow (Molecular Genetics and Genomics)
 
 Emma is a 3rd-year PhD student at Washington University in St. Louis. She earned her BS in Environmental Science from DePaul University, followed by a master's degree in Public Health from Emory University. Her research interests lie in utilization of human genetics and functional genomics to understand how mitochondrial and nuclear genomes influence the pathomechanisms of peripheral neuropathy and congenital hydrocephalus.
 
