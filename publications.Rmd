@@ -11,9 +11,9 @@ output: html_document
 
 ### Featured publications
 
-**Kong N#**, **Tang Z#**, **Ruttenberg A#**, Macias-Velasco JF, **Li Z**, Zhang W, Miao B, Xin Z, Fu Q, Park H, Zhou X, **Mehinovic E**, Belter Jr E, Tomlinson C, Garza JE, Dong S, **Casey E**, Johnson B, Majewski MF, Palmer T, Cheng Y, Lindsay T, Schedl T, Li D, Shen H, Fulton R, SMaHT Network Assembly/Pangenome Working Group, Wang T&, **Jin SC&**. 2025. [A pangenomic method for establishing a somatic variant detection resources in HapMap mixtures](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v1). ***bioRxiv***. 
+**Kong N#**, **Tang Z#**, **Ruttenberg A#**, Macias-Velasco JF, **Li Z**, Zhang W, Miao B, Xin Z, Fu Q, Park H, Zhou X, **Mehinovic E**, Belter Jr E, Tomlinson C, Garza JE, Dong S, **Casey E**, Johnson B, Majewski MF, Palmer T, Cheng Y, Lindsay T, Schedl T, Li D, Shen H, Fulton R, SMaHT Network Assembly/Pangenome Working Group, Wang T&, **Jin SC&**. 2025. [A pangenomic method for establishing a somatic variant detection resource in HapMap mixtures](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v1). ***bioRxiv***. 
 
-**Tang Z#**, Ovunc SS#, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. 2025. [Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v2). ***medRxiv***.  
+**Tang Z#**, Ovunc SS#, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. 2025. [Heterozygous and homozygous RFC1 AAGGG repeat expansions are common in idiopathic peripheral neuropathy](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v2). ***medRxiv***.  
 
 **Choi J#**, **Tang Z#**, **Dong W**, **Ulibarri J**, **Mehinovic E**, Thomas S, Höke A, **Jin SC**. 2025. [Unleashing the power of multi-omics: unraveling the molecular landscape of peripheral neuropathy](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.70019). ***Annals of Clinical and Translational Neurology***.
 
@@ -55,7 +55,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 92 **Choi J**, Strickland A, Loo HQ, **Dong W**, Barbar L, Bloom AJ, Sasaki Y, **Jin SC**, DiAntonio A, Milbrandt J. [Diverse cell types establish a pathogenic immune environment in peripheral neuropathy](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-025-03459-7). ***Journal of Neuroinflammation***
 
-91 **Tang Z#**, Ovunc SS#, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. [Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v2). ***medRxiv***. 
+91 **Tang Z#**, Ovunc SS#, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. [Heterozygous and homozygous RFC1 AAGGG Repeat expansions are Common in idiopathic peripheral neuropathy](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v2). ***medRxiv***. 
 
 90 Sierant MC, **Jin SC**, Bilguvar K, Morton SU, Dong W, Jiang W, Lu Z, Li B, López-Giráldez F, Tikhonova I, Zeng X, Lu Q, Choi J, Zhang J, Nelson-Williams C, Knight JR, Zhao H, Cao J, Mane S, Sedore SC, Gruber PJ, Lek M, Goldmuntz E, Deanfield J, Giardini A, Mital S, Russell M, Gaynor JW, King E, Wagner M, Srivastava D, Shen Y, Bernstein D, Porter Jr GA, Newburger JW, Seidman JG, Roberts AE, Yandell M, Yost HJ, Tristani-Firouzi M, Kim R, Chun WK, Gelb BD, Seidman CE, Brueckner M, Lifton RP. [Genomic analysis of 11,555 probands identifies 60 dominant congenital heart disease genes](https://www.pnas.org/doi/10.1073/pnas.2420343122). ***PNAS***
 
