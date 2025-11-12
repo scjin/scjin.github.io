@@ -53,6 +53,10 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2025
 
+96 Tan J, Wu Y, Barve R, Lalmansingh J, Li F, Payne P, **Kong N**, **Jin SC**, Shan Y, Zhou R, Ge X, Li JJ, Head R, Sun Y. [SnakeAltPromoter Facilitates Differential Alternative Promoter Analysis](https://www.biorxiv.org/content/10.1101/2025.08.16.669128v1.abstract). ***bioRxiv***. 
+
+95 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based Toolkit for Mitochondrial Genome Analysis using Long Reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***bioRxiv***.
+
 94 **Kong N#**, **Tang Z#**, **Ruttenberg A#**, Macias-Velasco JF, **Li Z**, Zhang W, Miao B, Xin Z, Fu Q, Park H, Zhou X, **Mehinovic E**, Belter Jr E, Tomlinson C, Garza JE, Dong S, **Casey E**, Johnson B, Majewski MF, Palmer T, Cheng Y, Lindsay T, Schedl T, Li D, Shen H, Fulton R, SMaHT Network Assembly/Pangenome Working Group, Wang T&, **Jin SC&**. [A pangenomic method for establishing a somatic variant detection resources in HapMap mixtures](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v1). ***bioRxiv***. 
 
 93 Bisarad P#, **Wang Y-C#**, Skidmor PT, Galaz-Montoya CI, Lewis SA, Alhaddad B, **Kong N**, Julian D, Magee H, Kruer TN, Xie Y, Zheng W, Li B, Rajabpour FV, Liu J, Revanur A, Bakur K, Firouzabadi SG, Sharbatkhori S, Tafakhori  A, Taghiabadi E, Nezaminargabad E, Vosoogh  S, Jamshidi J, Arefnia S, Hosseini SA, Khajehmirzaei A, Jamali F, Ahmadifard A, Khodadadi H, Daneshmand P, Bohlega S, Maddirevula S, Nadeef SS, Hashem MO, Salih MA, Mohmed IN, Sticht H, Morias SP, Damásio J, Santos M, Loureiro JL, Rodrigues R, Stevanin G, Benkirane M, Dauriat B, Head N, Baptista J, Shahhosseini S, Mohammad F, Zhao H, Padilla-Lopez S, Alkuraya F, Bakhtiari S, Kruer MC&, **Jin SC&**, Darvish H&. [Recessive genomic and phenotypic variation in consanguineous families with cerebral palsy](https://www.medrxiv.org/content/10.1101/2025.11.04.25339178v1). ***medRxiv***.
