@@ -11,7 +11,7 @@ output: html_document
 
 [May 9, 2025] **11 years ago I walked across the stage at the 560 Music Center to receive my PhD. Today I returned to the same hall to hood my first PhD student Shujuan Zhao. Full‑circle moment, and I’m so grateful to give back to the place that shaped me.**
 
-<img src="images/Shujuan_Hooding.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+<img src="images/shujuan-graduation.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
 [March 5, 2025] **Big congrats to Zefan (Vivien) Li for receiving a full scholarship to attend the Bruce Weir Summer Institute in Statistical Genetics at Georgia Tech. Woot woot!**
 
@@ -41,7 +41,7 @@ output: html_document
 
 [August 1, 2024] **Amazing presentation by our OGR Summer intern, Aria Ma! We've been so lucky to have you with us this summer. Let's keep in touch—we're sure our paths will cross again soon! 🌟**
 
-<img src="images/Aria_OGR.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+<img src="images/Aria.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 
 [June 26, 2024] **Congratulations to our grad students Purva Patel, Emma Casey, and Vivien Li on being selected into the prestigious Precision Medicine Pathway, following in the footsteps of Nahyun and Zitian. Congratulations to all!**
 
