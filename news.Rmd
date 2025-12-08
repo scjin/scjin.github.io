@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[December 8, 2025] **Jack Yu joins the lab as an undergraduate researcher for his Bio 200 Study! Welcome Jack!**
+
 [August 25, 2025] **Huge congratulations to Emma Casey on being selected into Washington University’s T32 Cellular and Molecular Biology Program! My lab's fourth T32 fellow!**
 
 [May 30, 2025] **It’s a bittersweet but incredibly proud moment as we say goodbye to Andrew, who’s heading off to start his graduate studies at the University of Toronto. Andrew was our very first undergraduate student and has been with us ever since—spending the last two years as a bioinformatician. It’s hard to see such a wonderful person go, and he will be deeply missed. Wishing you all the best, Andrew!**

@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-11-18-2025.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-12-8-2025.pdf).
 
 *NIH Grants*
 
@@ -132,7 +132,15 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 __Brian Yu__,
 Undergraduate Student (U of Chicago Computer Science)
 
+
+<img src="images/Jack_Yu.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Brian Yu__,
+Undergraduate Student (Washington University Biology & Computer Science)
+
 -----
+
+
 
 ### Lab Pets
 
