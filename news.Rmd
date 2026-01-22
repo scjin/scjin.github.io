@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 16, 2026] **Huge congratulations to Zefan (Vivien) Li on being selected into WashU's Pivot 314 Fellowship program!**
+
 [January 5, 2026] **Cassia Williams-Rogers joins the lab as a rotation student! Welcome Cassia!**
 
 [December 16, 2025] **Big congrats to Purva Patel for receiving a full scholarship to attend the 2026 St. Jude National Graduate Student Symposium. Woot woot!**

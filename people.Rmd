@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-12-26-2025.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-1-22-2026.pdf).
 
 *NIH Grants*
 
@@ -93,7 +93,7 @@ Purva is a 3rd-year PhD student at Washington University in St. Louis. She earne
 <img src="images/Zefan2025.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Zefan (Vivien) Li__,
-Ph.D. Student and Precision Medicine Pathway Fellow (Molecular Cell Biology)
+Ph.D. Student and Pivot 314/Precision Medicine Pathway Fellow (Molecular Cell Biology)
 
 Vivien is a 3rd-year PhD student at Washington University in St. Louis. She earned her BS in Biological Science from Peking University. Her research interests lie in utilization of human genetics and multi-omics genomics to uncover the genetic underpinnings of idiopathic peripheral neuropathy.
 
