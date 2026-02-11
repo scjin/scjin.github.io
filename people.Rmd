@@ -127,11 +127,6 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 
 ### Rotation Students and Interns
 
-<img src="images/Cassia.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Cassia Williams-Rogers__,
-Rotation Student (WashU MSTP)
-
 <img src="images/Brian.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Brian Yu__,
@@ -162,6 +157,8 @@ __Ziggy__
 __Shujuan Zhao__ - Graduate Student (Molecular Genetics and Genomics), 2020/09 - 2025/08, currently research associate at Harvard Medical School
 
 #### *Rotation Students:*
+
+__Cassia Williams-Rogers__ - Rotation Student (WashU MSTP), 2026/01 - 2026/02; currently graduate student in Nate Stitziel's lab.
 
 __Wilber Palma__ - Rotation Student (Molecular Genetics and Genomics), 2025/01 - 2025/04, currently graduate student in Mike Meers's lab.
 
