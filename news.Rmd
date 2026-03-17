@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[January 5, 2026] **Yijia Wu joins the lab as a rotation student! Welcome Yijia!**
+
 [January 16, 2026] **Huge congratulations to Zefan (Vivien) Li on being selected into WashU's Pivot 314 Fellowship program!**
 
 [January 5, 2026] **Cassia Williams-Rogers joins the lab as a rotation student! Welcome Cassia!**
