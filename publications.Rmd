@@ -56,9 +56,9 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 96 **Tang Z#**, Ovunc SS#, Iwase R, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Liu M, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. [Homozygous RFC1 AAGGG Repeat expansions are Common in idiopathic peripheral neuropathy](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v2). ***Annals of Neurology (in press)***.
 
-### 2025
+95 Tan J, Wu Y, Barve R, Lalmansingh J, Li F, Payne P, **Kong N**, **Jin SC**, Shan Y, Zhou R, Ge X, Li JJ, Head R, Sun Y. [SnakeAltPromoter Facilitates Differential Alternative Promoter Analysis](https://spj.science.org/doi/abs/10.34133/csbj.0033). ***Computational and Structural Biotechnology Journal***
 
-95 Tan J, Wu Y, Barve R, Lalmansingh J, Li F, Payne P, **Kong N**, **Jin SC**, Shan Y, Zhou R, Ge X, Li JJ, Head R, Sun Y. [SnakeAltPromoter Facilitates Differential Alternative Promoter Analysis](https://www.biorxiv.org/content/10.1101/2025.08.16.669128v1.abstract). ***bioRxiv***. 
+### 2025
 
 94 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based Toolkit for Mitochondrial Genome Analysis using Long Reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***bioRxiv***.
 
