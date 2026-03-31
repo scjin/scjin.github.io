@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[March 30, 2026] **The Jin Lab celebrated its sixth anniversary at Topgolf! Thank you all for your dedication, hard work, and countless contributions. I’m so proud to be part of such a collaborative and amazing team!**
+
+<img src="images/Six-Anniversary.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [March 17, 2026] **Yijia Wu joins the lab as a rotation student! Welcome Yijia!**
 
 [January 16, 2026] **Huge congratulations to Zefan (Vivien) Li on being selected into WashU's Pivot 314 Fellowship program!**
