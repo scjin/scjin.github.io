@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[May 8, 2026] **Huge congratulations to Emma Casey on being selected into the Advanced Techniques in Molecular Neuroscience Course at CSHL, with scholarship support!**
+
 [April 1, 2026] **Huge congratulations to Jack Yu on being selected into WashU's Summer Undergraduate Research Guided Experience (SURGE) program!**
 
 [March 30, 2026] **The Jin Lab celebrated its sixth anniversary at Topgolf! Thank you all for your dedication, hard work, and countless contributions. I’m so proud to be part of such a collaborative and amazing team!**
