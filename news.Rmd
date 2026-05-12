@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[May 12, 2026] **A very proud mentor moment for me. So grateful to celebrate two more PhD graduates from the Jin lab at Washington University Department of Genetics — Nahyun Kong and Zitian Tang. It has been such a joy to watch you grow, and one of the most meaningful parts of this job is seeing your trainees become outstanding scientists in their own right. So proud of you both.**
+
+<img src="images/2026Commencement.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
+
 [May 8, 2026] **Huge congratulations to Emma Casey on being selected into the Advanced Techniques in Molecular Neuroscience Course at CSHL, with scholarship support!**
 
 [April 1, 2026] **Huge congratulations to Jack Yu on being selected into WashU's Summer Undergraduate Research Guided Experience (SURGE) program!**
