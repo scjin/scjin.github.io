@@ -9,7 +9,7 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-5-10-2026.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-6-3-2026.pdf).
 
 *NIH Grants*
 
@@ -104,6 +104,14 @@ MSTP Candidate and T32 GATP Fellow (Computational & Systems Biology)(Joint with 
 
 Wendy is a 3rd-year MD/PhD student at Washington University in St. Louis. She completed her BS in Biomedical Engineering at the Duke University. She is co-mentored by Dr. Jeffery Milbrandt and Dr. Jin to elucidate comprehensive molecular/cellular phenotypes that underlie human pain transduction, transmission, and processing. 
 
+
+<img src="images/Yijia.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
+
+__Yijia Wu__,
+Ph.D. Student (Molecular Genetics and Genomics)
+
+Yijia is a 1st-year PhD student at Washington University in St. Louis. She earned her BS in Chemistry from the Nanjing Unversity of Finance & Economics, followed by a master's degree in Biochemistry from Case Western Reserve University. Her research interests lie in utilization of human genetics and functional genomics to understand the role of short tandem repeats in peripheral neuropathy and amyotrophic lateral sclerosis. 
+
 -----
 
 ### Staff
@@ -126,11 +134,6 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 -----
 
 ### Rotation Students and Interns
-
-<img src="images/Yijia.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Yijia Wu__,
-Rotation Student (Molecular Genetics and Genomics)
 
 <img src="images/Brian.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
