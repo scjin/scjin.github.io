@@ -55,16 +55,18 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2026
 
-97 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral Nerve Injury Engages Transcript Isoform Remodeling to Coordinate Cellular and Extracellular Response. ***Under review**.
+98 **Casey E#**, Luc E#,**Li Z#**, **Ma A#**, **Yu B#**, **Patel P#**, Touma M&, Stratman AN&, **Jin SC&**. Somatic mosaicism in cardiovascular disease: integrating genomics, function, and clinical translation. ***Under review**. 
 
-96 **Tang Z#**, Ovunc SS#, Iwase R, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Liu M, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. [Homozygous RFC1 AAGGG Repeat expansions are Common in idiopathic peripheral neuropathy](https://onlinelibrary.wiley.com/doi/10.1002/ana.78226). ***Annals of Neurology***. \
+97 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral Nerve Injury Engages transcript isoform remodeling to coordinate cellular and extracellular response. ***Under review**.
+
+96 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based toolkit for mitochondrial genome analysis using long reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***Nature Communications***. in press
+
+95 **Tang Z#**, Ovunc SS#, Iwase R, **Mehinovic E**, Thomas S, **Ulibarri J**, **Li Z**, Baldridge D, Cruchaga C, Liu M, Johnson M, Milbrandt J, Callaghan B, PNRR Study Group, Höke A&, Todd PK&, **Jin SC&**. [Homozygous RFC1 AAGGG Repeat expansions are Common in idiopathic peripheral neuropathy](https://onlinelibrary.wiley.com/doi/10.1002/ana.78226). ***Annals of Neurology***. \
 **Press coverage:** [WashU Research Wire](https://source.washu.edu/2026/05/novel-tool-uncovers-a-common-genetic-cause-of-peripheral-neuropathy/)
 
-95 Tan J, Wu Y, Barve R, Lalmansingh J, Li F, Payne P, **Kong N**, **Jin SC**, Shan Y, Zhou R, Ge X, Li JJ, Head R, Sun Y. [SnakeAltPromoter Facilitates Differential Alternative Promoter Analysis](https://spj.science.org/doi/abs/10.34133/csbj.0033). ***Computational and Structural Biotechnology Journal***
+94 Tan J, Wu Y, Barve R, Lalmansingh J, Li F, Payne P, **Kong N**, **Jin SC**, Shan Y, Zhou R, Ge X, Li JJ, Head R, Sun Y. [SnakeAltPromoter facilitates differential alternative promoter analysis](https://spj.science.org/doi/abs/10.34133/csbj.0033). ***Computational and Structural Biotechnology Journal***
 
 ### 2025
-
-94 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based Toolkit for Mitochondrial Genome Analysis using Long Reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***bioRxiv***.
 
 93 **Kong N#**, **Tang Z#**, **Ruttenberg A#**, Macias-Velasco JF, **Li Z**, Zhang W, Miao B, Xin Z, Fu Q, Park H, Zhou X, **Mehinovic E**, Belter Jr E, Tomlinson C, Garza JE, Dong S, **Casey E**, Johnson B, Majewski MF, Palmer T, Cheng Y, Lindsay T, Schedl T, Li D, Shen H, Fulton R, SMaHT Network Assembly/Pangenome Working Group, Wang T&, **Jin SC&**. [A pangenomic method for establishing a somatic variant detection resources in HapMap mixtures](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v1). ***bioRxiv***. 
 
