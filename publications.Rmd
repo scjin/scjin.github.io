@@ -57,7 +57,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 98 **Casey E#**, Luc E#,**Li Z#**, **Ma A#**, **Yu B#**, **Patel P#**, Touma M&, Stratman AN&, **Jin SC&**. Somatic mosaicism in cardiovascular disease: integrating genomics, function, and clinical translation. ***Under review**. 
 
-97 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral Nerve Injury Engages transcript isoform remodeling to coordinate cellular and extracellular response. ***Under review**.
+97 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral nerve injury engages transcript isoform remodeling to coordinate cellular and extracellular response. ***Under review**.
 
 96 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based toolkit for mitochondrial genome analysis using long reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***Nature Communications***. in press
 
