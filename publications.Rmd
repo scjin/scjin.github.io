@@ -11,6 +11,12 @@ output: html_document
 
 ### Featured publications
 
+**Kong N#**, Abello J#, Yoon CJ#, **Ruttenberg A**, **Li Z**, Richee J, Colijn S, Bowling KM, Wilke MVMB, Dong W, Ng K, **Mehinovic E**, **Patel P**, DePalma SR, **Wang Y-C**, Wijerathne TD, Lacroix JJ, Zhao Y, Sah R, Nourse JL, Pathak M, Ensing J, Grainger S, Yost HJ, Tristani-Firouzi M, Wagner M, Ollberding NJ, Seidman J, Morton SU, Gelb BD, Chung WK, Lifton RP, Sun Y, Edwards JR, Dutcher S, Seidman CE, Griffith OL, Griffith M, Schedl T, Lek M, Bruecker M, Stratman AN&, **Jin SC&**. 2026. Uniparental disomy reveals hidden genetic causes of congenital heart disease. **Under review**. 
+
+**Casey E#**, Luc E#,**Li Z#**, **Ma A#**, **Yu B#**, **Patel P#**, Touma M&, Stratman AN&, **Jin SC&**. 2026. Somatic mosaicism in cardiovascular disease: integrating genomics, function, and clinical translation. **Under review**.
+
+**Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. 2026. Peripheral nerve injury engages transcript isoform remodeling to coordinate cellular and extracellular response. **Under review**.
+
 **Kong N#**, **Tang Z#**, **Ruttenberg A#**, Macias-Velasco JF, **Li Z**, Zhang W, Miao B, Xin Z, Fu Q, Park H, Zhou X, **Mehinovic E**, Belter Jr E, Tomlinson C, Garza JE, Dong S, **Casey E**, Johnson B, Majewski MF, Palmer T, Cheng Y, Lindsay T, Schedl T, Li D, Shen H, Fulton R, SMaHT Network Assembly/Pangenome Working Group, Wang T&, **Jin SC&**. 2025. [A pangenomic method for establishing a somatic variant detection resource in HapMap mixtures](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v1). ***bioRxiv***. 
 
 Bisarad P#, **Wang Y-C#**, Skidmor PT, Galaz-Montoya CI, Lewis SA, Alhaddad B, **Kong N**, Julian D, Magee H, Kruer TN, Xie Y, Zheng W, Li B, Rajabpour FV, Liu J, Revanur A, Bakur K, Firouzabadi SG, Sharbatkhori S, Tafakhori  A, Taghiabadi E, Nezaminargabad E, Vosoogh  S, Jamshidi J, Arefnia S, Hosseini SA, Khajehmirzaei A, Jamali F, Ahmadifard A, Khodadadi H, Daneshmand P, Bohlega S, Maddirevula S, Nadeef SS, Hashem MO, Salih MA, Mohmed IN, Sticht H, Morias SP, Damásio J, Santos M, Loureiro JL, Rodrigues R, Stevanin G, Benkirane M, Dauriat B, Head N, Baptista J, Shahhosseini S, Mohammad F, Zhao H, Padilla-Lopez S, Alkuraya F, Bakhtiari S, Kruer MC&, **Jin SC&**, Darvish H&. 2025. [Recessive genomic and phenotypic variation in consanguineous families with cerebral palsy](https://www.medrxiv.org/content/10.1101/2025.11.04.25339178v1). ***medRxiv***. 
@@ -55,9 +61,11 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2026
 
-98 **Casey E#**, Luc E#,**Li Z#**, **Ma A#**, **Yu B#**, **Patel P#**, Touma M&, Stratman AN&, **Jin SC&**. Somatic mosaicism in cardiovascular disease: integrating genomics, function, and clinical translation. ***Under review**. 
+99 **Kong N#**, Abello J#, Yoon CJ#, **Ruttenberg A**, **Li Z**, Richee J, Colijn S, Bowling KM, Wilke MVMB, Dong W, Ng K, **Mehinovic E**, **Patel P**, DePalma SR, **Wang Y-C**, Wijerathne TD, Lacroix JJ, Zhao Y, Sah R, Nourse JL, Pathak M, Ensing J, Grainger S, Yost HJ, Tristani-Firouzi M, Wagner M, Ollberding NJ, Seidman J, Morton SU, Gelb BD, Chung WK, Lifton RP, Sun Y, Edwards JR, Dutcher S, Seidman CE, Griffith OL, Griffith M, Schedl T, Lek M, Bruecker M, Stratman AN&, **Jin SC&**. Uniparental disomy reveals hidden genetic causes of congenital heart disease. **Under review**.
 
-97 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral nerve injury engages transcript isoform remodeling to coordinate cellular and extracellular response. ***Under review**.
+98 **Casey E#**, Luc E#,**Li Z#**, **Ma A#**, **Yu B#**, **Patel P#**, Touma M&, Stratman AN&, **Jin SC&**. Somatic mosaicism in cardiovascular disease: integrating genomics, function, and clinical translation. **Under review**. 
+
+97 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral nerve injury engages transcript isoform remodeling to coordinate cellular and extracellular response. **Under review**.
 
 96 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based toolkit for mitochondrial genome analysis using long reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***Nature Communications***. in press
 
