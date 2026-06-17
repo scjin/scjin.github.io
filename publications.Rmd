@@ -61,11 +61,13 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 ### 2026
 
-99 **Kong N#**, Abello J#, Yoon CJ#, **Ruttenberg A**, **Li Z**, Richee J, Colijn S, Bowling KM, Wilke MVMB, Dong W, Ng K, **Mehinovic E**, **Patel P**, DePalma SR, **Wang Y-C**, Wijerathne TD, Lacroix JJ, Zhao Y, Sah R, Nourse JL, Pathak M, Ensing J, Grainger S, Yost HJ, Tristani-Firouzi M, Wagner M, Ollberding NJ, Seidman J, Morton SU, Gelb BD, Chung WK, Lifton RP, Sun Y, Edwards JR, Dutcher S, Seidman CE, Griffith OL, Griffith M, Schedl T, Lek M, Bruecker M, Stratman AN&, **Jin SC&**. Uniparental disomy reveals hidden genetic causes of congenital heart disease. **Under review**.
+100 **Kong N#**, Abello J#, Yoon CJ#, **Ruttenberg A**, **Li Z**, Richee J, Colijn S, Bowling KM, Wilke MVMB, Dong W, Ng K, **Mehinovic E**, **Patel P**, DePalma SR, **Wang Y-C**, Wijerathne TD, Lacroix JJ, Zhao Y, Sah R, Nourse JL, Pathak M, Ensing J, Grainger S, Yost HJ, Tristani-Firouzi M, Wagner M, Ollberding NJ, Seidman J, Morton SU, Gelb BD, Chung WK, Lifton RP, Sun Y, Edwards JR, Dutcher S, Seidman CE, Griffith OL, Griffith M, Schedl T, Lek M, Bruecker M, Stratman AN&, **Jin SC&**. Uniparental disomy reveals hidden genetic causes of congenital heart disease. **Under review**.
 
-98 **Casey E#**, Luc E#,**Li Z#**, **Ma A#**, **Yu B#**, **Patel P#**, Touma M&, Stratman AN&, **Jin SC&**. Somatic mosaicism in cardiovascular disease: integrating genomics, function, and clinical translation. **Under review**. 
+99 **Casey E#**, Luc E#,**Li Z#**, **Ma A#**, **Yu B#**, **Patel P#**, Touma M&, Stratman AN&, **Jin SC&**. Somatic mosaicism in cardiovascular disease: integrating genomics, function, and clinical translation. **Under review**. 
 
-97 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral nerve injury engages transcript isoform remodeling to coordinate cellular and extracellular response. **Under review**.
+98 **Dong W**, Nichols JE, **Mehinovic E**, Strickland A, Khanbabaev A, Sasaki Y, **Jin SC&**, Milbrandt J&. Peripheral nerve injury engages transcript isoform remodeling to coordinate cellular and extracellular response. **Under review**.
+
+97 Stino AM, Muthukumar L, Reynolds EL, Todd PK, Ovunc S, **Jin SC**, **Tang Z**, Thomas S, PNRR Study Group, Höke A, Callaghan B. Bi- and mono-allelic RFC1 expansion in a North American cohort with idiopathic axonal neuropathy. ***Annals of Clinical and Translational Neurology***. in press
 
 96 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based toolkit for mitochondrial genome analysis using long reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***Nature Communications***. in press
 
