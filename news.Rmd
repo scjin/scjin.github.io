@@ -3,6 +3,10 @@ title: "News"
 output: html_document
 ---
 
+[June 24, 2026] **Congratulations to our grad student Yijia Wu on being selected into the prestigious Precision Medicine Pathway. Congratulations!**
+
+[June 21, 2026] **Congratulations to our grad student Yijia who has been awarded with scholarships to attend Jackson Laboratory's Human and Mammalian Genetics and Genomics: The McKusick Short Course.**
+
 [June 3, 2026] **Yijia Wu joins the lab for her thesis study. Welcome to the Jin lab!**
 
 [May 12, 2026] **A very proud mentor moment for me. So grateful to celebrate two more PhD graduates from the Jin lab at Washington University Department of Genetics — Nahyun Kong and Zitian Tang. It has been such a joy to watch you grow, and one of the most meaningful parts of this job is seeing your trainees become outstanding scientists in their own right. So proud of you both.**

@@ -108,7 +108,7 @@ Wendy is a 3rd-year MD/PhD student at Washington University in St. Louis. She co
 <img src="images/Yijia.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Yijia Wu__,
-Ph.D. Student (Molecular Genetics and Genomics)
+Ph.D. Student and Precision Medicine Pathway Fellow (Molecular Genetics and Genomics)
 
 Yijia is a 1st-year PhD student at Washington University in St. Louis. She earned her BS in Chemistry from the Nanjing Unversity of Finance & Economics, followed by a master's degree in Biochemistry from Case Western Reserve University. Her research interests lie in utilization of human genetics and functional genomics to understand the role of short tandem repeats in peripheral neuropathy and amyotrophic lateral sclerosis. 
 
