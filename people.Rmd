@@ -40,18 +40,6 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 
 -----
 
-### Faculty, Postdoctoral Researchers and Staff Scientists
-
-<img src="images/David.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Yung-Chun (David) Wang__,
-Instructor
-
-David earned a B.S. in Agriculture Chemistry from the National Taiwan University. He did his Ph.D. with Dr. Shiyou Chen studying the mechanism underlying the regulation of JAK3 in abdominal aortic aneurysm at the University of Georgia. David has received a prestigious Center of Regenerative Medicine Postdoctoral Fellowship. He is focused on genetic analyses and functional genomics of congenital hydrocephalus and cerebral palsy projects.
-
-
------
-
 ### Graduate Students
 
 <img src="images/Nahyun2025.png" style="width:25%; border:0; margin-right: 20px" align="top">
@@ -159,6 +147,10 @@ __Ziggy__
 -----
 
 ### Alumni
+
+#### Faculty, Postdoctoral Researchers and Staff Scientists
+
+__Yung-Chun (David) Wang__ - Instructor, 2021/07 - 2026/06
 
 #### *Graduate Students:*
 
