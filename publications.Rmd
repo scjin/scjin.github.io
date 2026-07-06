@@ -69,7 +69,7 @@ Duran D#, Zeng X#, **Jin SC#**, Choi J, Nelson-Williams C, Yatsula B, Gaillard J
 
 97 **Kong N#**, **Tang Z#**, **Ruttenberg A#**, Macias-Velasco JF, **Li Z**, **Casey E**, Zhang W, Miao B, Xin Z, Fu Q, Park H, Zhou X, **Mehinovic E**, Belter Jr E, Tomlinson C, Garza JE, Dong S, Johnson B, Majewski MF, Palmer T, Cheng Y, Lindsay T, Schedl T, Li D, Shen H, Fulton R, SMaHT Network Assembly/Pangenome Working Group, Wang T&, **Jin SC&**. [A pangenomic method for establishing a somatic variant detection resources in HapMap mixtures](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v1). ***Cell Genomics***. in press
 
-96 Stino AM, Muthukumar L, Reynolds EL, Todd PK, Ovunc S, **Jin SC**, **Tang Z**, Thomas S, PNRR Study Group, Höke A, Callaghan B. Bi- and mono-allelic RFC1 expansion in a North American cohort with idiopathic axonal neuropathy. ***Annals of Clinical and Translational Neurology***. in press
+96 Stino AM, Muthukumar L, Reynolds EL, Todd PK, Ovunc S, **Jin SC**, **Tang Z**, Thomas S, PNRR Study Group, Höke A, Callaghan B. [Bi- and mono-allelic RFC1 expansion in a North American cohort with idiopathic axonal neuropathy](https://onlinelibrary.wiley.com/doi/10.1002/acn3.70462) ***Annals of Clinical and Translational Neurology***
 
 95 Su H, Huang Y, Durham T, **Kong N**, **Casey E**, Benjamin D, **Jin SC**, Garimella KV. [Himito: a Graph-based toolkit for mitochondrial genome analysis using long reads](https://www.biorxiv.org/content/10.1101/2025.11.03.686348v1). ***Nature Communications***. in press
 
