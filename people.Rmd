@@ -9,18 +9,14 @@ output: html_document
 
 __Sheng Chih (Peter) Jin__
 
-Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-6-3-2026.pdf).
+Peter is Assistant Professor of Genetics and Pediatrics at the Washington University School of Medicine. He is interested in understanding how genetic variation affects disease biology and using genetic and genomic analyses to infer the molecular mechanisms underlying neurodevelopmental and cardiovascular diseases. His full CV is available [here](files/CV-WUSM-CV-format-6-16-2026.pdf).
 
 *NIH Grants*
 
 * R01NS131610: Molecular and Cellular Characterization of Congenital Hydrocephalus (Role: PI)(Active)
-* R01NS111029: Human Genetics and Molecular Mechanisms of Congenital Hydrocephalus (Role: Co-PI) (Active)
 * U19NS130607: INTERCEPT: Integrated Research Center for Human Pain Tissues (Role: Project 1 Co-PI and Data Core Co-PI) (Active)
 * UM1DA058219: WashU-VAI Somatic Mosaicism across Human Tissues (SMaHT) Program Genome Characterization Center (Role: Co-Investigator) (Active)
 * U24NS132103: WashU Somatic Mosaicism across Human Tissues (SMaHT) Program. Organizational Center (Role: Co-Investigator) (Active)
-* R01AR067715: Genetic Risk Factors for Severe Scoliosis (Role: Co-Investigator) (Active)
-* R01NS117609: Human Genetics and Molecular Mechanisms of Vein of Galen Aneurysmal Malformation (Role: Co-Investigator) (Active)   
-* R01NS106298: Genomic Insights into the Neurobiology of Cerebral Palsy (Role: Co-Investigator) (Active)
 * R01NS127108: Genomic analysis of the Multiplex, Autozygous Populations in Cerebral Palsy (MAP CP) cohort: a focused approach to a complex disease (Role: Co-Investigator) (Active)
 
 *Selected Honors and Awards*
@@ -150,7 +146,7 @@ __Ziggy__
 
 #### Faculty, Postdoctoral Researchers and Staff Scientists
 
-__Yung-Chun (David) Wang__ - Instructor, 2021/07 - 2026/06
+__Yung-Chun (David) Wang__ - Postdoc and then Instructor, 2021/07 - 2026/06
 
 #### *Graduate Students:*
 
@@ -204,7 +200,7 @@ __Owen Limbrick__ - Undergraduate Student (WashU PreMed), 2024/09 - 2025/05
 
 #### *Summer Interns:*
 
-__Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08; currently a senior at Tufts University.
+__Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08; currently CEO and Founder of jadewell.
 
 __Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Physician-Scientist Kornfeld Post-Bac Scholar at WashU.
 
@@ -224,7 +220,7 @@ __Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently a PhD students 
 
 #### *Master's Students:*
 
-__Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11; currently graduate student in Aristeidis Sotiras's lab.
+__Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11; currently graduate student in Aimilia Gastounioti's lab.
 
 __Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04; currently research specialist at the McDonnell Genome Institute.
 
