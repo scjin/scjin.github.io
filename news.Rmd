@@ -3,7 +3,7 @@ title: "News"
 output: html_document
 ---
 
-[July 14, 2026] **Today, we celebrate Nahyun earning her PhD! I am deeply grateful for everything she has contributed—not only to our science, but also to our lab culture and the growth of both past and current lab members. She is truly a rising star, and wherever her journey takes her next, we will be cheering her on every step of the way. 🎓🌟**
+[July 14, 2026] **Today, we celebrate Nahyun earning her PhD! I am deeply grateful for everything she has contributed—not only to our science, but also to our lab culture and the growth of both past and current lab members. She is truly a rising star, and wherever her journey takes her next, we will be cheering her on every step of the way.**
 
 <img src="images/Nahyun_Grad1.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
 <img src="images/Nahyun_Grad2.jpg" style="width:50%; border:0; margin-right: 20px" align="top">
