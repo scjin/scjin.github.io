@@ -3,6 +3,8 @@ title: "News"
 output: html_document
 ---
 
+[August 27, 2026] **Juichen Lu joins the lab as a rotation student. Welcome Juichen!**
+
 [August 24, 2026] **Cynthia Zhang joins the lab as a rotation student. Welcome Cynthia!**
 
 [August 7, 2026] **Huge congratulations to Zitian on earning her PhD! 🎓🍾 I’m so proud of everything you’ve accomplished in such a short time. It has been wonderful watching you grow as a scientist, and I can’t wait to see what you’ll achieve next at Roche and beyond. The best is yet to come!**
