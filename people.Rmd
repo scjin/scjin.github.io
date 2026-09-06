@@ -14,7 +14,7 @@ Peter is Assistant Professor of Genetics and Pediatrics at the Washington Univer
 *NIH Grants*
 
 * R01NS131610: Molecular and Cellular Characterization of Congenital Hydrocephalus (Role: PI)(Active)
-* U19NS130607: INTERCEPT: Integrated Research Center for Human Pain Tissues (Role: Project 1 Co-PI and Data Core Co-PI) (Active)
+* U19NS130607: INTERCEPT: Integrated Research Center for Human Pain Tissues (Role: Project 1 Co-PI and Data Core PI) (Active)
 * UM1DA058219: WashU-VAI Somatic Mosaicism across Human Tissues (SMaHT) Program Genome Characterization Center (Role: Co-Investigator) (Active)
 * U24NS132103: WashU Somatic Mosaicism across Human Tissues (SMaHT) Program. Organizational Center (Role: Co-Investigator) (Active)
 * R01NS127108: Genomic analysis of the Multiplex, Autozygous Populations in Cerebral Palsy (MAP CP) cohort: a focused approach to a complex disease (Role: Co-Investigator) (Active)
@@ -146,53 +146,53 @@ __Yung-Chun (David) Wang__ - Postdoc and then Instructor, 2021/07 - 2026/06
 
 #### *Graduate Students:*
 
-__Zitian Tang__ - Graduate Student (Biomedical Informatics & Data Science), 2023/05 - 2026/08, currently senior bioinformatics scientist at Roche
+__Zitian Tang__ - Graduate Student (Biomedical Informatics & Data Science), 2023/05 - 2026/08
 
-__Nahyun Kong__ - Graduate Student (Human and Statistical Genetics), 2022/01 - 2026/08, currently postdoctoral fellow in the laboratory of Vamsi Mootha at Harvard Medical School
+__Nahyun Kong__ - Graduate Student (Human and Statistical Genetics), 2022/01 - 2026/08
+
+__Julie Choi__ - Graduate Student (Molecular Genetics and Genomics), 2022/01 - 2025/07
 
 __Shujuan Zhao__ - Graduate Student (Molecular Genetics and Genomics), 2020/09 - 2025/08
 
 #### *Rotation Students:*
 
-__Cassia Williams-Rogers__ - Rotation Student (WashU MSTP), 2026/01 - 2026/02; currently graduate student in Nate Stitziel's lab.
+__Cassia Williams-Rogers__ - Rotation Student (WashU MSTP), 2026/01 - 2026/02
 
-__Wilber Palma__ - Rotation Student (Molecular Genetics and Genomics), 2025/01 - 2025/04, currently graduate student in Mike Meers's lab.
+__Wilber Palma__ - Rotation Student (Molecular Genetics and Genomics), 2025/01 - 2025/04
 
-__Sam Greenberg__ - Rotation Student (Molecular Genetics and Genomics), 2025/01 - 2025/03, currently graduate student in Priyanka Verma's lab.
+__Sam Greenberg__ - Rotation Student (Molecular Genetics and Genomics), 2025/01 - 2025/03
 
-__Yu Liu__ - Rotation Student (Molecular Cell Biology), 2024/10 - 2025/02, currently graduate student in Kelly Bolton's lab.
+__Yu Liu__ - Rotation Student (Molecular Cell Biology), 2024/10 - 2025/02.
 
-__Tingkuan Chu__ - Rotation Student (Molecular Genetics and Genomics), 2024/09 - 2024/11, currently graduate student in Jeffrey Milbrandt's lab.
+__Tingkuan Chu__ - Rotation Student (Molecular Genetics and Genomics), 2024/09 - 2024/11
 
-__Qichen Fu__ - Rotation Student (Molecular Genetics and Genomics), 2023/11 - 2024/01, currently graduate student in Ting Wang's lab.
+__Qichen Fu__ - Rotation Student (Molecular Genetics and Genomics), 2023/11 - 2024/01
 
-__Justin Chen__ - Rotation Student (Computational and Systems Biology), 2023/04 - 2023/07, currently graduate student in Ting Wang's lab.
+__Justin Chen__ - Rotation Student (Computational and Systems Biology), 2023/04 - 2023/07
 
-__Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04, currently graduate student in Michael Meers's lab.
+__Yu-Liang Yeh__ - Rotation Student (Biomedical Informatics & Data Science), 2023/01 - 2023/04
 
-__Ai Zhang__ - Rotation Student (Human & Statistical Genetics), 2022/09 - 2022/11; currently graduate student in Gautam Dantas's lab.
+__Ai Zhang__ - Rotation Student (Human & Statistical Genetics), 2022/09 - 2022/11
 
-__Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022/07 - 2022/09; currently graduate student in Gautam Dantas's lab.
+__Vincent Gillespie__ - Rotation Student (Molecular Genetics and Genomics), 2022/07 - 2022/09
 
-__Yuxiao Xu__ - Rotation Student (WashU MSTP), 2022/05 - 2022/06; currently graduate student in Mayssa Mokalled's lab.
+__Yuxiao Xu__ - Rotation Student (WashU MSTP), 2022/05 - 2022/06
 
-__Lei Lu__ - Rotation Student (Computer Science & Engineering), 2022/01 - 2022/02; currently graduate student at Northeastern University.
+__Lei Lu__ - Rotation Student (Computer Science & Engineering), 2022/01 - 2022/02
 
-__Mariam Khanfar__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12; currently graduate student in Malachi Griffith's lab.
+__Mariam Khanfar__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12
 
-__Kuangying Yang__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12; currently graduate student in Angela Hirbe's lab.
+__Kuangying Yang__ - Rotation Student (Human & Statistical Genetics), 2021/09 - 2021/12
 
-__Julie Choi__ - Rotation Student (Human & Statistical Genetics), 2021/10 - 2021/12; currently graduate student in Jeffrey Milbrandt's lab.
+__Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11
 
-__Prashant Kumar Kuntala__ - Rotation Student (Computational and Systems Biology), 2021/09 - 2021/11; currently graduate student in Ting Wang's lab.
+__Changfeng Chen__ - Rotation Student (Molecular Cell Biology), 2021/02 - 2021/04
 
-__Changfeng Chen__ - Rotation Student (Molecular Cell Biology), 2021/02 - 2021/04; currently graduate student in Benjamin Humphreys's lab.
-
-__Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/02; currently graduate student in Gautam Dantas's lab.
+__Jian Ryou__ - Rotation Student (Human & Statistical Genetics), 2020/11 - 2021/02
 
 #### *Undergraduate Students:*
 
-__Andrew Ruttenberg__ - Undergraduate Student (WashU PreMed), 2022/09 - 2025/06; currently a PhD student at U of Toronto.
+__Andrew Ruttenberg__ - Undergraduate Student (WashU PreMed), 2022/09 - 2025/06
 
 __Tugce Iyiyol__ - Undergraduate Student (WashU PreMed), 2022/08 - 2024/05
 
@@ -200,30 +200,30 @@ __Owen Limbrick__ - Undergraduate Student (WashU PreMed), 2024/09 - 2025/05
 
 #### *Summer Interns:*
 
-__Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08; currently CEO and Founder of jadewell.
+__Aria Ma__ - McDonnell Genome Institute OGR Summer Student, 2024/06 - 2024/08
 
-__Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a Physician-Scientist Kornfeld Post-Bac Scholar at WashU.
+__Athziri Marcial Rodriguez__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08
 
-__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08; currently a master's student at Wake Forest U.
+__Cabria Shelton__ - McDonnell Genome Institute OGR Summer Student, 2022/06 - 2022/08
 
-__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07; currrently bioinformatician in Alison Goate's lab at Mount Sinai.
+__Max Wrubel__ - McDonnell Genome Institute OGR Post-Baccalaureate Extensive Study Student, 2021/11 - 2022/07
 
-__Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09; currently a software engineer at Capgemini.
+__Kareena Joshipura__ - Mount Holyoke College's Lynk Fellow, 2021/04 - 2021/09
 
 
 #### *Staff:*
 
-__Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04, currently data engineer at the Cathay United Bank.
+__Po-Ying Fu__ - Bioinformaticist, 2020/06 - 2023/04
 
-__Devin Qiu__ - Research Assistant, 2022/07 - 2022/12; currently a PhD students at Van Andel Institute.
+__Devin Qiu__ - Research Assistant, 2022/07 - 2022/12
 
 
 #### *Master's Students:*
 
-__Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11; currently graduate student in Aimilia Gastounioti's lab.
+__Xiaobing (Dean) Yu__ - Master's student (Computer Science & Engineering), 2021/03 - 2021/11
 
-__Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04; currently research specialist at the McDonnell Genome Institute.
+__Sam Peters__ - Master's student (Bioinformatics and Computational Biology at SLU), 2020/05 - 2021/04
 
-__Spencer King__ - Master's student (Computer Science & Engineering), 2020/05 - 2021/05; currently data scientist at Geneoscopy.
+__Spencer King__ - Master's student (Computer Science & Engineering), 2020/05 - 2021/05
 
 
