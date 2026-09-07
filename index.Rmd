@@ -7,13 +7,13 @@ output: html_document
 
 <br> 
 
-## Decoding the Hidden Genetic Architecture of Human Disease
+### Decoding the Hidden Genetic Architecture of Human Disease
 
 Welcome to the Jin lab in the [Department of Genetics](http://genetics.wustl.edu/) and the [McDonnell Genome Institute](https://www.genome.wustl.edu/) at the Washington University School of Medicine. 
 
 **Why do patients with strongly genetic diseases remain genetically unexplained?**
 
-This question lies at the heart of our research. Despite remarkable advances in genomic medicine, many patients with compelling genetic disorders remain without a molecular diagnosis. We believe that some of these missing explanations lie in genetic dark matter—forms of genetic variation, inheritance, and molecular regulation that are poorly captured by conventional genomic analyses and simple Mendelian models.
+This question lies at the heart of our research. Despite remarkable advances in genomic medicine, many patients with compelling genetic disorders remain without a molecular diagnosis. We believe that some of these missing explanations lie in genetic dark matter, forms of genetic variation, inheritance, and molecular regulation that are poorly captured by conventional genomic analyses and simple Mendelian models.
 
 We study deeply phenotyped patients with cardiovascular, neurological, and undiagnosed disorders to uncover this hidden genetic architecture. By integrating human genetics, computational genomics, short- and long-read sequencing, multi-omics, and functional genomics, we seek to move from unexplained phenotype → genetic discovery → molecular mechanism → biological insight.
 
