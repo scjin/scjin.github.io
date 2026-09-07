@@ -7,9 +7,23 @@ output: html_document
 
 <br> 
 
-Welcome to the Jin group in the [Department of Genetics](http://genetics.wustl.edu/) and the [McDonnell Genome Institute](https://www.genome.wustl.edu/) at the Washington University School of Medicine. Our mission is to provide meaningful and interpretable insight into disease biology, and define new targets for risk determination, prevention, and therapy. We are currently focusing on the formation, development, and application of human genetic, functional genomic, and bioinformatic methods to better analyze and integrate genome sequencing, single-cell RNA-sequencing, epigenomic, spatial genomic, and proteomic data. Through integration of diverse type of omics data and epigenetic functional annotations, the integrative genomic analysis will provide a better understanding of the molecular basis of cardiovascular diseases and neurological disorders. Following integrative genomic analyses, we use zebrafish and massively parallel reporter assays to precisely model human mutations. 
+# Decoding the Hidden Genetic Architecture of Human Disease
 
-We collaborate with clinicians, the [Pediatric Cardiac Genomics Consortium](https://benchtobassinet.com/), the [Peripheral Neuropathy Research Registry](https://thepnrr.org/), the [Cerebral Palsy Research Network](https://cprn.org/), and the [WashU Undiagnosed Diseases Network](https://sites.wustl.edu/undiagnosed/) to assemble thoroughly phenotyped cohorts for gene discovery. We also collaborate with experimentalists to design scalable high-throughput assays to model effects of disease-associated mutations. If you think any of this sounds cool consider [joining us](./careers.html) in working to make the world a better place.
+Welcome to the Jin lab in the [Department of Genetics](http://genetics.wustl.edu/) and the [McDonnell Genome Institute](https://www.genome.wustl.edu/) at the Washington University School of Medicine. 
+
+**Why do patients with strongly genetic diseases remain genetically unexplained?**
+
+This question lies at the heart of our research. Despite remarkable advances in genomic medicine, many patients with compelling genetic disorders remain without a molecular diagnosis. We believe that some of these missing explanations lie in genetic dark matter—forms of genetic variation, inheritance, and molecular regulation that are poorly captured by conventional genomic analyses and simple Mendelian models.
+
+We study deeply phenotyped patients with cardiovascular, neurological, and undiagnosed disorders to uncover this hidden genetic architecture. By integrating human genetics, computational genomics, short- and long-read sequencing, multi-omics, and functional genomics, we seek to move from unexplained phenotype → genetic discovery → molecular mechanism → biological insight.
+
+Our goal is not simply to identify disease-associated variants, but to make human disease genetically and biologically interpretable—improving molecular diagnosis, revealing disease mechanisms, and identifying new opportunities for prevention and therapy.
+
+We work closely with the clinicians, patients, and research networks, including [Pediatric Cardiac Genomics Consortium](https://benchtobassinet.com/), the [Peripheral Neuropathy Research Registry](https://thepnrr.org/), the [Gabriella Miller Kids First Pediatric Research Program](https://portal.kidsfirstdrc.org/login?redirect_path=/dashboard), and the [WashU Undiagnosed Diseases Network](https://sites.wustl.edu/undiagnosed/)
+
+**A negative genome is not necessarily the absence of a genetic explanation. It may mean that we have not yet learned how to ask the genome the right question.**
+
+If you think any of this sounds cool, consider [joining us](./careers.html) in working to make the world a better place.
 
 
 <img src="images/Poster.png" style="width:100%; border:0; margin-right: 20px" align="top">
@@ -23,20 +37,36 @@ These posters are meant to show that racial justice and support for marginalized
 -----
 
 
- We are currently working on the following areas of research:
+We are currently working on the following areas of research:
 
-***Methods Development***
+***Genetic Dark Matter: Beyond Conventional Genomic Analysis***
 
-Human diseases, particularly complex ones like congenital heart diseases, neurodevelopmental disorders, and rare undiagnosed conditions, arise from the intricate interplay of genetic and environmental factors. Conventional investigative approaches often rely on simplistic inheritance models, focusing solely on germline or somatic variations. This approach overlooks the intricate interrelationships between these elements. To bridge this knowledge gap, we are developing advanced computational tools and statistical models capable of identifying and characterizing complex inheritance patterns. These encompass single nucleotide variants, uniparental disomy, short tandem repeats, mobile element insertions, mitochondrial DNA variants, and other structural variations. Our goal is to integrate and analyze germline and somatic variants, leveraging multi-omics data such as short-read sequencing, long-read sequencing, transcriptomics, and proteomics. This comprehensive approach aims to redefine our understanding and approach to studying and addressing complex diseases.
+Why do patients remain genetically unexplained even after exome or whole-genome sequencing?
 
-***Unravelling Molecular Signatures and Novel Therapeutic Targets for Idiopathic Peripheral Neuropathy***
+We develop computational and statistical approaches to uncover genetic variation and inheritance patterns that conventional analyses often miss. These include structural variants, short tandem repeats and repeat expansions, uniparental disomy, mitochondrial and mitonuclear variation, somatic mosaicism, regulatory variation, and complex or multilocus inheritance.
 
-Idiopathic peripheral neuropathy (IPN), a result of damage to the peripheral nerves with unknown causes, is a debilitating, painful, and as-yet-untreatable condition. Due to the unknown origin of the damage and the lack of targeted therapy, treatment for patients with IPN revolves around mere symptom management. In collaboration with Drs. [Jeffrey Milbrandt](http://milbrandt.wustl.edu/jeff-milbrandt/), [Ahmet Hoke](https://www.hopkinsmedicine.org/profiles/details/ahmet-hoke), [Aaron Di Antonio](https://sites.wustl.edu/diantonio/), and the [Peripheral Neuropathy Patient Registry](https://thepnrr.org/), we are integrating whole-genome sequencing and SOMAscan proteomic data in extreme IPN patients with negative clinical genetic screening results and performing bioinformatic analysis to identify variants, pathways, and biomarkers for pathophysiological clues to axon degeneration.
+By integrating short- and long-read genome sequencing with transcriptomic, epigenomic, proteomic, and functional data, we aim to build a systematic framework for moving beyond a “negative” genetic test toward a mechanistic explanation of disease.
 
-***Investigating Complex Inheritance in Congenital Heart Disease***
+***Idiopathic Peripheral Neuropathy: From Genome-Negative Disease to Molecular Mechanism***
 
-Congenital heart disease affects approximately 1% of live births and remains the leading cause of mortality from birth defects. Despite extensive research efforts, the etiology of ~55% of cases remains unexplained by environmental triggers, chromosomal abnormalities, or monogenic factors. Increasing evidence suggests that simple genetic models do not fully account for all cases with congenital heart disease, necessitating more nuanced approaches and advanced genomic technologies. Our work focuses on leveraging short-read and long-read sequencing technologies, combined with zebrafish functional experiments, to investigate complex genetic variations and deviations from Mendelian inheritance patterns that underlie congenital heart disease.
+Idiopathic peripheral neuropathy (IPN) is a debilitating disorder in which patients experience progressive sensory loss, weakness, and pain without a known cause. Many remain unexplained even after clinical genetic testing.
 
-***Human Genetics and Molecular Mechanisms of Human Neurological Diseases***
+In collaboration with Drs. [Jeffrey Milbrandt](http://milbrandt.wustl.edu/jeff-milbrandt/), [Ahmet Hoke](https://www.hopkinsmedicine.org/profiles/details/ahmet-hoke), and the [Peripheral Neuropathy Patient Registry](https://thepnrr.org/), we integrate genome sequencing, proteomics, transcriptomics, and functional studies to identify cryptic genetic variation, molecular signatures, and pathways underlying axonal degeneration.
 
-In collaboration with Drs. [Kristopher Kahle](https://www.massgeneral.org/doctors/22473/kristopher-kahle), [Kristen Kroll](https://sites.wustl.edu/krolllab/), [Engin Deniz](https://medicine.yale.edu/profile/engin-deniz/), and the [WashU Undiagnosed Diseases Network](https://undiagnoseddiseases.wustl.edu/), we are focusing on studying the genetic underpinnings of rare Mendelian forms of human neurological diseases, using whole-genome sequencing, quantitative phenotyping, transcriptomic profiling, massively parallel reporter assays, and in vitro/in vivo models.
+Our goal is to transform idiopathic disease into biologically defined disease and reveal new opportunities for diagnosis and therapy. 
+
+***Congenital Heart Disease: Beyond Simple Mendelian Inheritance***
+
+Congenital heart disease (CHD) affects approximately 1% of live births, yet a substantial proportion of cases remain genetically unexplained.
+
+We investigate whether this missing architecture arises from forms of variation and inheritance overlooked by conventional analyses—including rare inherited and de novo variation, recessive and complex inheritance, structural variation, uniparental disomy, somatic mosaicism, and regulatory variation.
+
+Using short- and long-read sequencing, computational genetics, and functional models, we seek to understand how complex genetic architecture disrupts human cardiac development.
+
+***Neurological Disease: From Human Genetic Discovery to Developmental Mechanism***
+
+We investigate the genetic and molecular basis of congenital hydrocephalus, cerebral palsy, cerebrovascular malformations, and other rare neurodevelopmental disorders.
+
+In collaboration with Drs. [Michael Kruer](https://www.kruerlab.org), [Kristopher Kahle](https://www.massgeneral.org/doctors/22473/kristopher-kahle), [David Limbrick](https://neurosurgery.vcu.edu/about/our-team/david-d-limbrick-jr-md-phd.html), [Engin Deniz](https://medicine.yale.edu/profile/engin-deniz/), and the [WashU Undiagnosed Diseases Network](https://undiagnoseddiseases.wustl.edu/), we combine genome sequencing and quantitative phenotyping with multi-omic profiling, computational genetics, massively parallel functional assays, and cellular and in vivo models. 
+
+Our goal is to move from human genetic discovery to developmental mechanism and identify principles of disease architecture that extend beyond any single neurological disorder.
