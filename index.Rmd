@@ -25,6 +25,7 @@ We work closely with the clinicians, patients, and research networks, including 
 
 If you think any of this sounds cool, consider [joining us](./careers.html) in working to make the world a better place.
 
+-----
 
 <img src="images/Poster.png" style="width:100%; border:0; margin-right: 20px" align="top">
 
