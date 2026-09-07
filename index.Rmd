@@ -17,7 +17,7 @@ This question lies at the heart of our research. Despite remarkable advances in 
 
 We study deeply phenotyped patients with cardiovascular, neurological, and undiagnosed disorders to uncover this hidden genetic architecture. By integrating human genetics, computational genomics, short- and long-read sequencing, multi-omics, and functional genomics, we seek to move from unexplained phenotype → genetic discovery → molecular mechanism → biological insight.
 
-Our goal is not simply to identify disease-associated variants, but to make human disease genetically and biologically interpretable—improving molecular diagnosis, revealing disease mechanisms, and identifying new opportunities for prevention and therapy.
+Our goal is not simply to identify disease-associated variants, but to make human disease genetically and biologically interpretable, improving molecular diagnosis, revealing disease mechanisms, and identifying new opportunities for prevention and therapy.
 
 We work closely with the clinicians, patients, and research networks, including [Pediatric Cardiac Genomics Consortium](https://benchtobassinet.com/), the [Peripheral Neuropathy Research Registry](https://thepnrr.org/), the [Gabriella Miller Kids First Pediatric Research Program](https://portal.kidsfirstdrc.org/login?redirect_path=/dashboard), and the [WashU Undiagnosed Diseases Network](https://sites.wustl.edu/undiagnosed/)
 
