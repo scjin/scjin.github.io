@@ -7,7 +7,7 @@ output: html_document
 
 <br> 
 
-# Decoding the Hidden Genetic Architecture of Human Disease
+### Decoding the Hidden Genetic Architecture of Human Disease
 
 Welcome to the Jin lab in the [Department of Genetics](http://genetics.wustl.edu/) and the [McDonnell Genome Institute](https://www.genome.wustl.edu/) at the Washington University School of Medicine. 
 
