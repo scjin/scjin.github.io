@@ -110,11 +110,6 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 __Qinyue Wang__,
 Rotation Student (Molecular Cell Biology)
 
-<img src="images/Juichen.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Juichen Lu__,
-Rotation Student (Molecular Cell Biology)
-
 <img src="images/cynthia.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Cynthia Zhang__,
@@ -160,6 +155,8 @@ __Julie Choi__ - Graduate Student (Molecular Genetics and Genomics), 2022/01 - 2
 __Shujuan Zhao__ - Graduate Student (Molecular Genetics and Genomics), 2020/09 - 2025/08
 
 #### *Rotation Students:*
+
+__Juichen Lu__ - Rotation Student (Molecular Cell Biology), 2026/08 - 2026/10
 
 __Cassia Williams-Rogers__ - Rotation Student (WashU MSTP), 2026/01 - 2026/02
 
