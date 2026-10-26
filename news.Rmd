@@ -3,8 +3,9 @@ title: "News"
 output: html_document
 ---
 
-[October 6, 2026] **Qinyue Wang joins the lab as a rotation student. Welcome Qinyue!**
+[October 26, 2026] **Gautaas Shergill joins the lab as a rotation student. Welcome Gautaas!**
 
+[October 6, 2026] **Qinyue Wang joins the lab as a rotation student. Welcome Qinyue!**
 
 [August 31, 2026] **Said goodbye to Nahyun and celebrated Emma & Michael’s engagement at Niche by Brasserie—one farewell, one new chapter, and lots of fun in between!**
 
