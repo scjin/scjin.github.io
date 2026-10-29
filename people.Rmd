@@ -115,11 +115,6 @@ Rotation Student (Biomedical Informatics & Data Science)
 __Qinyue Wang__,
 Rotation Student (Molecular Cell Biology)
 
-<img src="images/cynthia.png" style="width:25%; border:0; margin-right: 20px" align="top">
-
-__Cynthia Zhang__,
-Rotation Student (Computational and Systems Biology)
-
 <img src="images/Brian.png" style="width:25%; border:0; margin-right: 20px" align="top">
 
 __Brian Yu__,
@@ -160,6 +155,8 @@ __Julie Choi__ - Graduate Student (Molecular Genetics and Genomics), 2022/01 - 2
 __Shujuan Zhao__ - Graduate Student (Molecular Genetics and Genomics), 2020/09 - 2025/08
 
 #### *Rotation Students:*
+
+__Cynthia Zhang__ - Rotation Student (Computational and Systems Biology), 2026/08 - 2026/10
 
 __Juichen Lu__ - Rotation Student (Molecular Cell Biology), 2026/08 - 2026/10
 
