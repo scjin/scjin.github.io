@@ -107,7 +107,7 @@ Jason earned his M.S. in biotechnologies at University of Missouri St. Louis. Hi
 
 <img src="images/Gautaas.jpg" style="width:25%; border:0; margin-right: 20px" align="top">
 
-__Guutaas Shergill__,
+__Guntaas Shergill__,
 Rotation Student (Biomedical Informatics & Data Science)
 
 <img src="images/Susan.jpg" style="width:25%; border:0; margin-right: 20px" align="top">

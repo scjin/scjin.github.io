@@ -3,7 +3,7 @@ title: "News"
 output: html_document
 ---
 
-[October 26, 2026] **Gautaas Shergill joins the lab as a rotation student. Welcome Gautaas!**
+[October 26, 2026] **Guntaas Shergill joins the lab as a rotation student. Welcome Gautaas!**
 
 [October 6, 2026] **Qinyue Wang joins the lab as a rotation student. Welcome Qinyue!**
 
